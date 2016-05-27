@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="bit.ly/topcine" group-title="FILMES",filmes
+https://raw.githubusercontent.com/pmachad0/OnSerieS/playlistv/onseries.m3u8
