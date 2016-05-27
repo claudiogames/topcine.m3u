@@ -2,3 +2,30 @@
 
 #EXTINF:-1 tvg-logo="bit.ly/topcine" group-title="FILMES",filmes
 https://raw.githubusercontent.com/pmachad0/OnSerieS/playlistv/onseries.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x18 Cuide do Seu Negócio
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
+
+ #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x19 Festa em Casa
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP19.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x20 Fabricante de Incompatibilidade
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP20.mp4
+
+ #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x21 Chef-Man e Raven
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP21.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x22 No Biodomo
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP22.mp4
+
+ #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x23 Muita Pressão
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP23.mp4
+
+ #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x25 Grill Vizinho
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP25.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x24 Cory ao Extremo
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP24.mp4
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x25 Grill Vizinho
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP25.mp4
+
