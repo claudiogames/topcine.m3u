@@ -495,6 +495,29 @@ http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/OMSKR0
 http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
 
 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-UrIZMpewZ6E/T0erPOiMOOI/AAAAAAAAAUY/m9Ru5T9UZ4o/s1600/Big+Time+Movie+Soundtrack.png" group-title="FILMES DUBLADOS",Big Time Rush O Filme
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/BTRSHOFILME.mp4
+
+#EXTINF:-1 tvg-logo="http://level99.com.br/wp-content/uploads/2010/07/posterpjldrbr1.jpg" group-title="FILMES DUBLADOS",Percy Jacksom E O Ladrão De Raios
+http://cdn3.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PERCYJCKSNEOLDRDRAIOS.mp4
+
+#EXTINF:-1 tvg-logo="http://omelete.uol.com.br/images/galerias/Percy-Jackson-e-o-Mar-de-Monstros//Percy-Jackson-e-o-Mar-de-Monstros-poster-br.jpg" group-title="FILMES DUBLADOS",Percy Jacksom O Mar De Monstro 
+http://cdn5.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PERCYJCKSNEOMRDMNSTROS.mp4
+
+#EXTINF:-1 tvg-logo="http://files.buskefilmes.webnode.com/200000044-c4c70c5bf4/madagascar-poster08[1].jpg" group-title="FILMES DUBLADOS",MADAGASCAR O FILME
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/MDGSCR01.mp4
+
+#EXTINF:-1 tvg-logo="http://www.trilhasonora.net/wp-content/uploads/2014/02/madagascar-2-a-grande-escapada.jpg" group-title="FILMES DUBLADOS",MADAGASCAR 2 A ESCAPADA
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/MDGSCR02.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2012/06/madagascar-3-defeats-prometheus-at-box-office.jpg" group-title="FILMES DUBLADOS",MADAGASCAR 3
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/MDGSCR03.mp4
+
+#EXTINF:-1 tvg-logo="http://www.habbid.com.br/arquivos/pixelclub/pixelizacao/1299445200-capa-do-filme-os-simpsons-lukasblz.jpg" group-title="FILMES DUBLADOS",OS SIMPSONS O FILME
+https://lh3.googleusercontent.com/DSS-eLclaRPnQmEEEmxUFFYtSAdUDPid65F2B255Eoo367HF747tnhpH5TvYpDIH3_7fNbWMdls=m22
+
+#EXTINF:-1 tvg-logo="http://s29.postimg.org/u51ilx8iv/zombieland_02.jpg" group-title="FILMES DUBLADOS",ZUMBILANDIA 
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/ZMBLND.mp4
 
 
 
