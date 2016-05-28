@@ -385,7 +385,7 @@ rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDk6MTY6MzYgQU
 
 #EXTINF:-1 tvg-logo="http://i298.photobucket.com/albums/mm272/YOUNGxMONEY/batman-logo-large-view-300x300.gif",group-title="DESENHOS 24H",BATMAN
 rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDg6NTQ6NTYgQU0maGFzaF92YWx1ZT01U0hONDZORlBvcVZvUUVoSzFabzNRPT0mdmFsaWRtaW51dGVzPTU=/ playpat
-
+https://github.com/claudiogames/topcine.m3u/edit/master/topcine.txt
 #EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2013/10/Simpsons-logo-500x500_c.jpg?8e8084" group-title="DESENHOS 24H",Os Simpsons
 rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?TopCine pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
 
