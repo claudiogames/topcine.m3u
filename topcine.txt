@@ -707,11 +707,31 @@ https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OLHSFAMTS1.mp4 
 https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OLHSFAMTS2.mp4 
 
 
+#EXTINF:-1 tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ibc4c593a34b37532/version/1461399406/image.png" group-title="FILMES DE TERROR",Atividade Paranormal 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRML1.mp4 
+ 
+
+#EXTINF:-1 tvg-id="FILMES"tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i995f260f952cb477/version/1461399427/image.png" group-title="FILMES DE TERROR",Atividade Paranormal 2 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRML2.mp4 
 
 
- #EXTINF:-1 tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ibc4c593a34b37532/version/1461399406/image.png" group-title="FILMES DE TERROR",Atividade Paranormal 1080p
-https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRML1.mp4 
+ #EXTINF:-1 tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i8b4ff722a5aeb6b9/version/1461399442/image.png" group-title="FILMES DE TERROR",Atividade Paranormal 3 1080p
+https://googledrive.com/host/0BxH_V2BTYgJBRWZoNzREYWl5WTA/ATVDADPRNRML3.mp4 
+
+
+
+#EXTINF:-1 tvg-id="FILMES"tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i3faeeca80161c7de/version/1461399452/image.png" group-title="FILMES DE TERROR",Atividade Paranormal 4 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRML4.mp4 
+
+#EXTINF:-1 tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i30d456a9f342ea28/version/1461399464/image.png" group-title="FILMES DE TERROR",Atividade Paranormal Tóquio 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRMLTOKYO.mp4 
+
+#EXTINF:-1 tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i2fe279fda3dc632d/version/1461399472/image.png" group-title="FILMES DE TERROR",Atividade Paranormal Dimensão Fantasma 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRMLDMFANT.mp4  
+
+
  
+
 
 #EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/09/thumbs/8782bf17ae5a6e68035fac55aeb8d888_jpg_290x478_upscale_q90.jpg" group-title="FILMES DE TERROR",Premonição 2
 https://googledrive.com/host/0BxH_V2BTYgJBN0VvX0RCVDFZT0k/PRMNCAO2.mp4 
