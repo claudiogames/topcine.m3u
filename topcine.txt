@@ -5,7 +5,8 @@
 http://www.tvonlinegratis.tv/canais/cartoon-network.html
 
 #EXTINF:-1 tvg-logo="https://www.texasbookfestival.org/images/email_icon.png" group-title="INFORMAÇÃO",claudiogamesbr3@gmail.com
-https://manifest.googlevideo.com/api/manifest/hls_variant/fexp/9405966%2C9410706%2C9415948%2C9416126%2C9416312%2C9416891%2C9420452%2C9422596%2C9423639%2C9423662%2C9424815%2C9426926%2C9427902%2C9428398%2C9428543%2C9428707%2C9429739%2C9432683/id/EhQb0dNaVls.1/requiressl/yes/maudio/1/go/1/signature/7BA73C41AC26AE8B3C86FE1763593B311DEC9A78.8520B1BBFB33B377ABE9937242C171FF09107B63/upn/GWsUbskJmQ0/sparams/gcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1459933377/source/yt_live_broadcast/playlist_type/DVR/itag/0/hfr/1/keepalive/yes/key/yt6/ip/187.19.251.201/ipbits/0/ratebypass/yes/sver/3/gcr/br/file/index.m3u8?cpn=b_UxlrvZcreTzxTE&ibw=8520000&ptk=9vO_7SgjmWR9IWu_rhLEYw&oid=I5Xcdhhd1Vr3OWe-nX-pFQ&ptchn=9vO_7SgjmWR9IWu_rhLEYw&pltype=contentlive&c=WEB&cver=1.20160404 
+https://manifest.googlevideo.com/api/manifest/hls_variant/fexp/9405966%2C9410706%2C9415948%2C9416126%2C9416312%2C9
+416891%2C9420452%2C9422596%2C9423639%2C9423662%2C9424815%2C9426926%2C9427902%2C9428398%2C9428543%2C9428707%2C9429739%2C9432683/id/EhQb0dNaVls.1/requiressl/yes/maudio/1/go/1/signature/7BA73C41AC26AE8B3C86FE1763593B311DEC9A78.8520B1BBFB33B377ABE9937242C171FF09107B63/upn/GWsUbskJmQ0/sparams/gcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1459933377/source/yt_live_broadcast/playlist_type/DVR/itag/0/hfr/1/keepalive/yes/key/yt6/ip/187.19.251.201/ipbits/0/ratebypass/yes/sver/3/gcr/br/file/index.m3u8?cpn=b_UxlrvZcreTzxTE&ibw=8520000&ptk=9vO_7SgjmWR9IWu_rhLEYw&oid=I5Xcdhhd1Vr3OWe-nX-pFQ&ptchn=9vO_7SgjmWR9IWu_rhLEYw&pltype=contentlive&c=WEB&cver=1.20160404 
  
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="INFORMAÇÃO",Atualizada》
 https://showbox-tr.dropbox.com/transcode_video/t/k3t1l6w0dc2rp0i/Sem%20t%C3%ADtulo%205%20960x540%202016-04-07%2021-24-09.mp4?secure_hash=&token_hash=AAGtpwriYCIEkHdOXOjEtBDUdOxUUMAQetZZqRna9OXxtg&container=5&expiry=1460080254 
@@ -880,6 +881,11 @@ http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT0
 #EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep4
 http://servidor5.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP04.mp4
 
+#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep5
+http://servidor5.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP05.mp4
+
+ #EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep6
+http://servidor5.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP06.mp4
 
 
 
