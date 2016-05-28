@@ -633,6 +633,50 @@ https://googledrive.com/host/0BxH_V2BTYgJBRWZoNzREYWl5WTA/VGLANTSDGRRA.mp4
 
 
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i6a231bcbeb75c03b/version/1463447362/image.jpg" group-title="FILMES DE TERROR",USE VLC OU MX PLAYER
+bit.ly/TopCineTv
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/04/Gritos-Mortais-2007-2.jpg" group-title="FILMES DE TERROR",Gritos Mortais
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/GRTSMORTS.mp4 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds3uO7z.jpg" group-title="FILMES DE TERROR",Massacre Da Serra Eletrica 3
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OMSCRDSRELTRC3.mp4 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://musicaecinema.com/wp-content/uploads/2014/09/olhos-famintos-capa.jpg" group-title="FILMES DE TERROR",Olhos Famintos
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OLHSFAMTS1.mp4 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://musicaecinema.com/wp-content/uploads/2014/09/olhos-famintos-capa.jpg" group-title="FILMES DE TERROR",Olhos Famintos 2
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OLHSFAMTS2.mp4 
+
+
+
+
+ #EXTINF:-1 tvg-logo=https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ibc4c593a34b37532/version/1461399406/image.png" group-title="FILMES DE TERROR",Atividade Paranormal 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRML1.mp4 
+ 
+
+
+
 
 
 
