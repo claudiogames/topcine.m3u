@@ -913,6 +913,47 @@ http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT0
 
 
 
+#EXTINF:-1 tvg-id="AS AVENTURAS DE JACKIE CHAN"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep1
+http://media-br-am.crackle.com/1/w/j6/azulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep2
+http://media-br-am.crackle.com/1/w/j6/9yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep3
+http://media-br-am.crackle.com/1/d/j6/2zulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep4
+http://media-br-am.crackle.com/1/w/j6/8yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep5
+http://media-br-am.crackle.com/1/v/j6/7yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep6
+http://media-br-am.crackle.com/1/v/j6/6yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep7
+http://media-br-am.crackle.com/1/v/j6/5yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg l" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep8
+http://media-br-am.crackle.com/1/v/j6/3yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep9
+http://media-br-am.crackle.com/1/u/j6/3yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep10
+http://media-br-am.crackle.com/1/u/j6/2yulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep11
+http://media-br-am.crackle.com/1/u/j6/1yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep12
+http://media-br-am.crackle.com/1/u/j6/0yulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i7f019cd6bba78985/version/1463430200/image.jpg" group-title="AS AVENTURAS DE JACKIE CHAN",J-S ep13
+http://media-br-am.crackle.com/1/t/j6/zyulf_480p.mp4 
+
+
+ 
 
 
 
