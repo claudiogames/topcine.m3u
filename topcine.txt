@@ -1,4 +1,20 @@
 
+#EXTINF-:1 tvg-logo="http://3.bp.blogspot.com/-fwXy3oRJAQU/VML7czbgQtI/AAAAAAAAAWc/_rXQvAPFYrM/s1600/family_guy.jpg" group-title="DESENHOS 24H",Family guy(familia da pesada)
+rtmp://208.53.180.242/ctv playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/family.html
+
+#EXTINF:-1 tvg-logo="http://centralpsn.com/store/image/cache/data/saint_seiya_brave_soldiers-500x500.jpg" group-title="DESENHOS 24H",Cavaleiros do Zodiaco
+rtmp://208.53.180.178/ctv playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/cdz.html
+
+#EXTINF:-1 tvg-logo="https://c2.staticflickr.com/2/1363/1386991547_3e674edb68.jpg" group-title="DESENHOS 24H",Thunder Cats
+rtmp://208.53.180.242/ctv playpath=thunder  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php
+ 
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000069473616-ednzwf-t500x500.jpg" group-title="DESENHOS 24H",Dragon Ball Gt
+rtmp://208.53.164.194/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1 tvg-logo="http://tudojuntosemisturados.com/arquivos_upload/link/curiosidades-sobre-o-desenho-doug.jpg" group-title="DESENHOS 24H",Doug
+rtmp://208.53.180.178/ctv playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://www.carolineoliveira.com.br/tvamigos/doug.html
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="INFORMAÇÃO" tvg-logo="https://lh3.googleusercontent.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
@@ -385,7 +401,11 @@ rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDk6MTY6MzYgQU
 
 #EXTINF:-1 tvg-logo="http://i298.photobucket.com/albums/mm272/YOUNGxMONEY/batman-logo-large-view-300x300.gif",group-title="DESENHOS 24H",BATMAN
 rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDg6NTQ6NTYgQU0maGFzaF92YWx1ZT01U0hONDZORlBvcVZvUUVoSzFabzNRPT0mdmFsaWRtaW51dGVzPTU=/ playpat
+
 https://github.com/claudiogames/topcine.m3u/edit/master/topcine.txt
+
+
+
 #EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2013/10/Simpsons-logo-500x500_c.jpg?8e8084" group-title="DESENHOS 24H",Os Simpsons
 rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?TopCine pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
 
