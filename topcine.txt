@@ -894,6 +894,22 @@ http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT0
 
 
 
+#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep9
+http://servidor1.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep10
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep11
+http://servidor5.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP11.mp4
+
+#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep12
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP12.mp4
+
+#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="ICARLY",Icarly ep13
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP13.mp4
+
+
 
 
 
