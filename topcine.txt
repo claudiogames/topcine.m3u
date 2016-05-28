@@ -1137,7 +1137,52 @@ http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP
 
 
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i6a231bcbeb75c03b/version/1463447362/image.jpg" group-title="THE WALKING DEAD 2T",USE VLC OU MX PLAYER
+bit.ly/TopCineTv
 
+
+
+#EXTINF:-1 tvg-id="THE WALKING DEAD"tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP1
+http://servidor1.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP01.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP2
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP02.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP3
+http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP03.mp4 
+
+ 
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP4
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP04.mp4 
+
+ 
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP5
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP05.mp4 
+ 
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP6
+http://servidor5.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP06.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP7
+http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP07.mp4 
+
+ 
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP8
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP08.mp4 
+ 
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP9
+http://servidor5.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP09.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg",T-W-D 2T EP10
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP10.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP11
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP11.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP12
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP12.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP13
+http://servidor2.redecan
 
 
 
