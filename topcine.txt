@@ -119,6 +119,58 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png" group-title="ESPORTES",Euro Sports 2
 http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8?topcine
 
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i945f6790360209fe/version/1461457418/image.png" group-title="canais de Tv",Ei Maxx 1080p
+http://ei.ss-lisa.eiplus.com.br/live/evento3.stream_360p/chunklist.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic4c11637b5819c83/version/1461458009/image.png" group-title="canais de Tv",Ei Maxx 2 1080p
+http://ei.ss-lisa.eiplus.com.br:80/live/evento2.stream_360p/playlist.m3u8 
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic8a9408a82467112/version/1461595416/image.png" group-title="canais de Tv",Espn Es 1080p
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i0444b660adb8d5cc/version/1461595813/image.png" group-title="canais de Tv",Espn HD Es 1080p
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/id7b1a6fd84394a22/version/1461597270/image.png" group-title="canais de Tv",Espn 2 HD Es 1080p
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/iff9fb6d8cfbdb4d6/version/1461596206/image.png" group-title="canais de Tv",Espn+HD Es 1080p
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i513b758be3d63364/version/1461596433/image.png" group-title="canais de Tv",Espn 3 Es 1080p
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8 
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ifbdf7f67bb43785f/version/1461596908/image.png" group-title="canais de Tv",Fox Sports HD Es 1080p
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/i9cfc833eff8f52f7/version/1461596917/image.png" group-title="canais de Tv",FoxSports 2 HD Es 1080p
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Esporte Interativo 720p hd
 http://ss.marcelle.eiplus.com.br/live/evento1.stream_720p/chunklist.m3u8?topcinetv
 
