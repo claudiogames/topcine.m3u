@@ -1112,7 +1112,27 @@ http://www.assistirtvbr.tv/assistir-the-walking-dead.html
  
 
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i6a231bcbeb75c03b/version/1463447362/image.jpg" group-title="THE WALKING DEAD 1T",USE VLC OU MX PLAYER
+bit.ly/TopCineTv
 
+
+
+#EXTINF:-1 tvg-id="THE WALKING DEAD 1T"tvg-logo="http://www.mtv.com/news/wp-content/uploads/hive/2013/03/TWD_Cover_Art_500.jpg" group-title="THE WALKING DEAD 1T",TWD EP1
+https://lh3.googleusercontent.com/hfJWaMhaHk2SbZw990q7Bqk8G3B3UB5HPA_wEpM5RQG_yN_8Ac2t7lIMJeZGhUmSOtkZJw=m22
+
+ #EXTINF:-1 tvg-logo="http://www.mtv.com/news/wp-content/uploads/hive/2013/03/TWD_Cover_Art_500.jpg" group-title="THE WALKING DEAD 1T",TWD EP2
+http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP02.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.mtv.com/news/wp-content/uploads/hive/2013/03/TWD_Cover_Art_500.jpg" group-title="THE WALKING DEAD 1T",TWD EP3
+http://servidor5.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP03.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.mtv.com/news/wp-content/uploads/hive/2013/03/TWD_Cover_Art_500.jpg" group-title="THE WALKING DEAD 1T",TWD EP4
+http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP04.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.mtv.com/news/wp-content/uploads/hive/2013/03/TWD_Cover_Art_500.jpg" group-title="THE WALKING DEAD 1T",TWD EP5
+http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP05.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.mtv.com/news/wp-content/uploads/hive/2013/03/TWD_Cover_Art_500.jpg" group-title="THE WALKING DEAD 1T",TWD EP6 http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP06.mp4 
 
 
 
