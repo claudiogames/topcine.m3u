@@ -34,11 +34,6 @@ http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlis
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_lzoMXykMvVw/TSS8EOQumBI/AAAAAAAAAm8/VcMHPfbSMV0/s1600/LOGO%2BNOVO%2BTEMPO.jpg" group-title="CANAIS ABERTOS",TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE
 
-
-
-#EXTINF:-1 tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="ESPORTES",FOX SPORTS
-http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
-
 #EXTINF:-1 tvg-logo="http://www.novasonline.com.br/wp-content/uploads/2013/04/Rede-Tv-Hd-tps.png" tvg-logo="http://www.novasonline.com.br/wp-content/uploads/2013/04/Rede-Tv-Hd-tps.png" group-title="CANAIS ABERTOS",REDETV HD
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
@@ -79,6 +74,35 @@ http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 2]
 http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8 
 
+
+#EXTINF:-1 tvg-logo="http://videospopulares.com.br/wp-content/uploads/2015/08/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV BRASIL
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8 
+
+#EXTINF:-1 tvg-logo="http://videospopulares.com.br/wp-content/uploads/2015/08/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV BRASIL HD
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4--HbdSkrUg/VOfDU36_1XI/AAAAAAAAxrk/DU0yZQPWTB8/s1600/tv%2Bdi%C3%A1rio%2Blogo%2B2015.jpg" group-title="CANAIS ABERTOS",Tv Diario 
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://lagartocomoeuvejo.com.br/wp-content/uploads/2013/09/TV-Escola.png" group-title="CANAIS ABERTOS",Tv Escola 
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-logo="http://lagartocomoeuvejo.com.br/wp-content/uploads/2013/09/TV-Escola.png" group-title="CANAIS ABERTOS",Tv Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band 
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band Hd
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8
+
+ #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band MP
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="CANAIS ABERTOS",Tv Futura
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="CANAIS RURAIS",Agro Canal ms[OPÇÃO 1]
 http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
 
@@ -95,11 +119,56 @@ http://evp.mm.uol.com.br:1935/terraviva/terraviva/live.m3u8
 http://evp.mm.uol.com.br/terraviva/_definst_/terraviva/TOPCINE.m3u8 
 
 
+#EXTINF:-1 tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="ESPORTES",FOX SPORTS
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://espnmediazone.com/us/files/2012/04/ESPN-Logo.jpg" group-title="ESPORTES",ESPN
+http://213.163.65.9:8081/live/espnbrk/playlist.m3u8 
 
 
+#EXTINF:-1 tvg-id="ESPORTES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png" group-title="ESPORTES",Euro Sports
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?topcine
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png" group-title="ESPORTES",Euro Sports 2
+http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8?topcine
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Esporte Interativo 720p hd
+http://ss.marcelle.eiplus.com.br/live/evento1.stream_720p/chunklist.m3u8?topcinetv
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Ei maxx hd
+http://ss.marcelle.eiplus.com.br/live/evento3.stream_720p/chunklist.m3u8?topcinetv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="ESPORTES",Band Sports hd [OPÇÃO 1]
+http://online.pxstream.tv:1935/loadbalance/ch002a/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="ESPORTES",Band Sports [OPÇÃO 2]
+http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/TopCine_Tv.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="ESPORTES",Band Sports [OPÇÃO 3]
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine480.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/Bein_sport_logo.png/revision/latest?cb=20130106044616" group-title="ESPORTES",Bein sports
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8?topcine 
+
+#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2015/05/pfc-300x149.jpg" group-title="ESPORTES",PFC 24H
+http://213.163.65.9:8081/live/pfck/playlist.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cf/UFC_Combate_2015.jpg/revision/latest?cb=20150629200353" group-title="ESPORTES",Combate
+http://213.163.65.9:8081/live/combatek/playlist.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cf/UFC_Combate_2015.jpg/revision/latest?cb=20150629200353" group-title="ESPORTES",Combate[opção 2]
+rtmp://l.mybeststream.xyz/r playpath=canaldoboi115 swfUrl=http://mybeststream.xyz/OWY4Yzg1YT/jw5/player.swf pageUrl=http://mybeststream.xyz/pheu.php?id=30322&width=468&height=360 token=c.r.e.a.t.e.S.t.r.e.a.m
+
+#EXTINF:-1 tvg-logo="http://clarotvlojaonline.com.br/img/channels/20151112154848-canal-sport-tv.png" group-title="ESPORTES",Sport Tv 1
+http://213.163.65.9:8081/live/sportvk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://clarotvlojaonline.com.br/img/channels/20151112154848-canal-sport-tv.png" group-title="ESPORTES",Sport Tv 2
+http://213.163.65.9:8081/live/sportv2k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i541119855dc2e51a/version/1463074665/image.jpg" group-title="ESPORTES",Red Bull tv
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="ESPORTES",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 
 
 
 
