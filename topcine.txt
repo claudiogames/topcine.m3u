@@ -1,31 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="bit.ly/topcine" group-title="FILMES",filmes
-https://raw.githubusercontent.com/pmachad0/OnSerieS/playlistv/onseries.m3u8
+#EXTINF:-1 tvg-id="INFORMAÇÃO" tvg-logo="https://lh3.googleusercontent.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
+http://www.tvonlinegratis.tv/canais/cartoon-network.html
 
-#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x18 Cuide do Seu Negócio
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
-
- #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x19 Festa em Casa
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP19.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x20 Fabricante de Incompatibilidade
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP20.mp4
-
- #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x21 Chef-Man e Raven
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP21.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x22 No Biodomo
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP22.mp4
-
- #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x23 Muita Pressão
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP23.mp4
-
- #EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x25 Grill Vizinho
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP25.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x24 Cory ao Extremo
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP24.mp4
+#EXTINF:-1 tvg-logo="https://www.texasbookfestival.org/images/email_icon.png" group-title="INFORMAÇÃO",claudiogamesbr3@gmail.com
+https://manifest.googlevideo.com/api/manifest/hls_variant/fexp/9405966%2C9410706%2C9415948%2C9416126%2C9416312%2C9416891%2C9420452%2C9422596%2C9423639%2C9423662%2C9424815%2C9426926%2C9427902%2C9428398%2C9428543%2C9428707%2C9429739%2C9432683/id/EhQb0dNaVls.1/requiressl/yes/maudio/1/go/1/signature/7BA73C41AC26AE8B3C86FE1763593B311DEC9A78.8520B1BBFB33B377ABE9937242C171FF09107B63/upn/GWsUbskJmQ0/sparams/gcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/expire/1459933377/source/yt_live_broadcast/playlist_type/DVR/itag/0/hfr/1/keepalive/yes/key/yt6/ip/187.19.251.201/ipbits/0/ratebypass/yes/sver/3/gcr/br/file/index.m3u8?cpn=b_UxlrvZcreTzxTE&ibw=8520000&ptk=9vO_7SgjmWR9IWu_rhLEYw&oid=I5Xcdhhd1Vr3OWe-nX-pFQ&ptchn=9vO_7SgjmWR9IWu_rhLEYw&pltype=contentlive&c=WEB&cver=1.20160404 
  
-#EXTINF:-1 tvg-logo="https://goo.gl/jCUL6p" group-title="As Visoes da Raven Dublado",Raven 3x25 Grill Vizinho
-http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP25.mp4
+#EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="INFORMAÇÃO",Atualizada》
+https://showbox-tr.dropbox.com/transcode_video/t/k3t1l6w0dc2rp0i/Sem%20t%C3%ADtulo%205%20960x540%202016-04-07%2021-24-09.mp4?secure_hash=&token_hash=AAGtpwriYCIEkHdOXOjEtBDUdOxUUMAQetZZqRna9OXxtg&container=5&expiry=1460080254 
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/assaultfirebattle/images/0/08/%C3%8Dcone_Calend%C3%A1rio.png/revision/latest?cb=20140814120935&path-prefix=pt-br" group-title="INFORMAÇÃO",13/05/16
+https://showbox-tr.dropbox.com/transcode_video/t/k3t1l6w0dc2rp0i/Sem%20t%C3%ADtulo%205%20960x540%202016-04-07%2021-24-09.mp4?secure_hash=&token_hash=AAGtpwriYCIEkHdOXOjEtBDUdOxUUMAQetZZqRna9OXxtg&container=5&expiry=1460080254 
+
+#EXTINF:-1 tvg-logo="http://www.hostreviewbook.com/wp-content/uploads/2013/04/free-domain-icon.png" group-title="INFORMAÇÃO",Conheça o WebSite da lista
+bit.ly/TopCineWeb
+
+#EXTINF:-1 tvg-logo="http://www.hostreviewbook.com/wp-content/uploads/2013/04/free-domain-icon.png" group-title="INFORMAÇÃO",bit.ly/TopCineWeb
+Www.google.com.br
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt hd
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt Caruaru
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt Nordeste
+rtmp://187.18.187.5/livepkgr/nordestv1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt Recife
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_lzoMXykMvVw/TSS8EOQumBI/AAAAAAAAAm8/VcMHPfbSMV0/s1600/LOGO%2BNOVO%2BTEMPO.jpg" group-title="CANAIS ABERTOS",TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE
+
+#EXTINF:-1 tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="ESPORTES",FOX SPORTS
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.novasonline.com.br/wp-content/uploads/2013/04/Rede-Tv-Hd-tps.png" tvg-logo="http://www.novasonline.com.br/wp-content/uploads/2013/04/Rede-Tv-Hd-tps.png" group-title="CANAIS ABERTOS",REDETV HD
+http://evp.mm.u
 
