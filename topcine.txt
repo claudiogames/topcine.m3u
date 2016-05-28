@@ -311,6 +311,79 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-2015081
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG HD
 http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="DESENHOS 24H",USE O XMTV PLAYER
+bit.ly/TopCineTV
+
+#EXTINF:-1 tvg-id="DESENHOS 24H"tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/naruto-shippuden-logo-1.png" group-title="DESENHOS 24H",NARUTO 24H
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDE1IDY6MDE6MjMgUE0maGFzaF92YWx1ZT1FbjdOMzJPZUlwN2tlVGpwS0xHd0dBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/QOUM_fPu0q7TTCCwrgOgQX1JfEcnWJK97EUzFJ-tqfPcMHBSUUXptSQ6GR2opw_zfMQ=w300" group-title="DESENHOS 24H",DRAGON BALL Z
+rtmp://208.53.180.178/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1 tvg-logo="http://img2-ak.lst.fm/i/u/300x300/1d19fa7296d64cd28b3c17e64579573f.jpg" group-title="DESENHOS 24H",SCOOBY DOO
+rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTYgMTA6NTc6MjMgQU0maGFzaF92YWx1ZT1iTlFGdzhHdkhvVnVMYkR3R01ScHFBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php
+
+#EXTINF:-1 tvg-logo="http://forums.windowscentral.com/attachments/app-spotlight/61347d1396600938t-tomjerry_icon.png" group-title="DESENHOS 24H",TOM E JERRY
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?topcinetvGrupo_UP_e_DOWN live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+#EXTINF:-1 tvg-logo="http://filmesparadownloads.org/wp-content/uploads/2015/08/bob-esponja-3-300x300.jpg?d2beb7" group-title="DESENHOS 24H",BOB ESPONJA
+rtmp://208.53.164.194/ctv playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?topcine pageUrl=http://www.carolineoliveira.com.br/tvamigos/bobesponja.html
+
+#EXTINF:-1 tvg-logo="http://imguol.com/c/entretenimento/d5/2015/12/03/desenho-pica-pau-1449164687135_300x300.jpg" group-title="DESENHOS 24H",PICA PAU
+rtmp://208.53.164.194/ctv playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?topcine pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html
+
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/1xBZjC9srf4AW9U1SZ-pbzyhN-FVfhGKUW5PLWa4YB4N_kEZCNEz0UnR1ilc7GRqIb4m=w300" group-title="DESENHOS 24H",SOUTH PARK
+ rtmp://208.53.180.218/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
+
+#EXTINF:-1 tvg-logo="https://radiowebretro.files.wordpress.com/2013/08/caverna-do-dragao-1369414078407_300x300.jpg" group-title="DESENHOS 24H",CAVERNA DO DRAGÃO
+rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/caverna.html
+
+#EXTINF:-1 tvg-logo="http://geekspodcast.com/geekpress/wp-content/uploads/2015/01/X-men-300x300.jpg" group-title="DESENHOS 24H",XMEN
+rtmp://208.53.180.218/ctv playpath=xmen  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?iptvlivre  pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
+
+#EXTINF:-1 tvg-logo="http://www.not1.com.br/wp-content/uploads/2011/04/Ben10-desenhos-300x300.jpg" group-title="DESENHOS 24H",BEM 10
+rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDk6MTY6MzYgQU0maGFzaF92YWx1ZT1sTElkczNVMlZJazY1NWhGSFNZNWxnPT0mdmFsaWRtaW51dGVzPTU=/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ben10.php
+
+#EXTINF:-1 tvg-logo="http://i298.photobucket.com/albums/mm272/YOUNGxMONEY/batman-logo-large-view-300x300.gif",group-title="DESENHOS 24H",BATMAN
+rtmp://208.53.180.242/ctv?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE2IDg6NTQ6NTYgQU0maGFzaF92YWx1ZT01U0hONDZORlBvcVZvUUVoSzFabzNRPT0mdmFsaWRtaW51dGVzPTU=/ playpat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
