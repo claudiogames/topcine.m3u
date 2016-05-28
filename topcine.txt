@@ -784,6 +784,28 @@ http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02E
 http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP05.mp4
 
 
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CHRIS 2T"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="TODO MUNDO ODEIA O CHRIS 2T",Chris ep6
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP06.mp4
+
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CHRIS 2T"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="TODO MUNDO ODEIA O CHRIS 2T",Chris ep7
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP07.mp4
+
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CHRIS 2T"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="TODO MUNDO ODEIA O CHRIS 2T",Chris ep8
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP08.mp4
+
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CHRIS 2T"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="TODO MUNDO ODEIA O CHRIS 2T",Chris ep9
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP09.mp4
+
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CHRIS 2T"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="TODO MUNDO ODEIA O CHRIS 2T",Chris ep10
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP10.mp4
+
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CHRIS 2T"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="TODO MUNDO ODEIA O CHRIS 2T",Chris ep11
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP11.mp4
+
+#EXTINF:-1 tvg-id="TODO MUNDO ODEIA O CHRIS 2T"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="TODO MUNDO ODEIA O CHRIS 2T",Chris ep12
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02EP12.mp4
+
+
 
 
 
