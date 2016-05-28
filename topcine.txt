@@ -607,6 +607,28 @@ http://media-br-am.crackle.com/1/j/r6/efvlf_480p_1mbps.mp4
 https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/CANBS.mp4 
 
 
+#EXTINF:-1 tvg-logo="https://educacaofinanceiraparatodos.files.wordpress.com/2014/09/steve-jobs-capa-filme-dvd.jpeg" group-title="LANÇAMENTOS 2016",Steve Jobs 1080p
+https://googledrive.com/host/0BxH_V2BTYgJBRWZoNzREYWl5WTA/STVJBS.mp4 
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-iC2fIwiN1Us/VvLxlYQp-NI/AAAAAAAAHOQ/k02ojrlB6So9jdnmHKmCtJen0FUKmgz8Q/s1600/R333333333333333333.jpg" group-title="LANÇAMENTOS 2016",Rebelião 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/RBLOA.mp4 
+
+#EXTINF:-1 tvg-logo="http://imgur.com/HBQf7ME.jpg" group-title="LANÇAMENTOS 2016",O Regresso 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ORGRSODUB.mp4 
+
+#EXTINF:-1 tvg-logo="https://img3.ewmix.com/12948/c.jpg" group-title="LANÇAMENTOS 2016",Operação Resgate 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OPRCORSGT.mp4 
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-cbFVN5KLKMI/Vr0Gd2A4vxI/AAAAAAAAVVE/BCVY4I0tHmk/s1600/The%2BVeil.jpg" group-title="LANÇAMENTOS 2016",A Seita 1080p
+https://googledrive.com/host/0BxH_V2BTYgJBRWZoNzREYWl5WTA/ASITA.mp4 
+
+#EXTINF:-1 tvg-logo="https://filmesintorrent.files.wordpress.com/2015/02/capa-perseguic3a7c3a3o-torrent-e28093-bluray-rip-720p-1080p-dublado-5-1-2015-filmesintorrent.jpg" group-title="LANÇAMENTOS 2016",Perseguição 1080p
+https://googledrive.com/host/0BxH_V2BTYgJBRWZoNzREYWl5WTA/PRSGCAO.mp4 
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wZJbwEe2mFw/VpLAk59cSDI/AAAAAAAAU9E/clW5O6r1p8Q/s1600/Vigilantes%2Bda%2BGuerra.jpg" group-title="LANÇAMENTOS 2016",Vigilantes da Guerra 1080p
+https://googledrive.com/host/0BxH_V2BTYgJBRWZoNzREYWl5WTA/VGLANTSDGRRA.mp4 
+
+
 
 
 
