@@ -585,7 +585,26 @@ http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4
 http://media-br-am.crackle.com/1/m/l6/chwlf_480p_1mbps.mp4
 
 
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/06/thumbs/0cb1877d74fc883e8ae775efc71917b2_jpg_290x478_upscale_q90.jpg" group-title="FILMES DUBLADOS";VOU TE PEGAR OTARIO
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/12/thumbs/vestida-para-matar_t6935_jpg_290x478_upscale_q90.jpg" group-title="FILMES DUBLADOS",VESTIDA PARA MATAR
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://bandoselvagem.files.wordpress.com/2015/01/beverly-hills-ninja.jpg" group-title="FILMES DUBLADOS",UM NINJA EM BEVERLLY HILLS
+http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=4241574&qld=90&l=370&a=-1" group-title="FILMES DUBLADOS",UM PEIXE CHAMADO WANDA
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/08/thumbs/um-ato-de-liberdade_t4782_jpg_290x478_upscale_q90.jpg" group-title="FILMES DUBLADOS",UM ATO DE LIBERDADE
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/06/thumbs/92650bf5653e768c8312e4ddd678d4e7_jpg_290x478_upscale_q90.jpg" group-title="FILMES DUBLADOS",TERROR EM SILENT HILL
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="LANÇAMENTOS 2016"tvg-logo="http://cdn.cinepop.com.br/2015/07/canibais_3.jpg" group-title="LANÇAMENTOS 2016",Canibais 1080p
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/CANBS.mp4 
 
 
 
