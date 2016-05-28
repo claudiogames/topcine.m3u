@@ -1182,7 +1182,9 @@ http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP
 http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP12.mp4 
 
 #EXTINF:-1 tvg-logo="http://www.wikinoticia.com/images2//eslatele.com/wp-content/uploads/2011/11/Segunda-temporada-The-Walking-Dead-Estreno-en-La-Sexta.jpg" group-title="THE WALKING DEAD 2T",T-W-D 2T EP13
-http://servidor2.redecan
+http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP13.mp4 
+
+
 
 
 
