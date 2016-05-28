@@ -5,21 +5,21 @@
 http://www.tvonlinegratis.tv/canais/cartoon-network.html
 
 #EXTINF:-1 tvg-logo="https://www.texasbookfestival.org/images/email_icon.png" group-title="INFORMAÇÃO",claudiogamesbr3@gmail.com
-http://lista.iptvglonal.com
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
 
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="INFORMAÇÃO",Atualizada》
-http://lista.iptvbr.strean 
+ http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/assaultfirebattle/images/0/08/%C3%8Dcone_Calend%C3%A1rio.png/revision/latest?cb=20140814120935&path-prefix=pt-br" group-title="INFORMAÇÃO",13/05/16
-http://lost.iptbr.com 
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
 #EXTINF:-1 tvg-logo="http://www.hostreviewbook.com/wp-content/uploads/2013/04/free-domain-icon.png" group-title="INFORMAÇÃO",Conheça o WebSite da lista
 bit.ly/TopCineWeb
 
 #EXTINF:-1 tvg-logo="http://www.hostreviewbook.c
 om/wp-content/uploads/2013/04/free-domain-icon.png" group-title="INFORMAÇÃO",bit.ly/TopCineWeb
-http://nivkhstons.stream.m3u8
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt hd
 http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
@@ -973,7 +973,6 @@ http://media-br-am.crackle.com/1/t/j6/zyulf_480p.mp4
 
 
  
-
 
 
 
