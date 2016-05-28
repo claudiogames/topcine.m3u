@@ -103,21 +103,6 @@ http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="CANAIS ABERTOS",Tv Futura
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="CANAIS RURAIS",Agro Canal ms[OPÇÃO 1]
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="CANAIS RURAIS",Agro Canal ms[OPÇÃO 2]
-http://srvvenus.canaldoboi.com.br:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://expovizinhos.com.br/upload/fotosnoticias/g_37.jpg" group-title="CANAIS RURAIS",Canal do Boi
-http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/2000px-Terra_Viva_logo.svg.png" group-title="CANAIS RURAIS",Terra Viva
-http://evp.mm.uol.com.br:1935/terraviva/terraviva/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/terraviva.png" group-title="CANAIS RURAIS",TERRA VIVA[OPÇÃO 2]
-http://evp.mm.uol.com.br/terraviva/_definst_/terraviva/TOPCINE.m3u8 
-
 
 #EXTINF:-1 tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="ESPORTES",FOX SPORTS
 http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
@@ -169,6 +154,25 @@ http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="ESPORTES",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="CANAIS RURAIS",Agro Canal ms[OPÇÃO 1]
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="CANAIS RURAIS",Agro Canal ms[OPÇÃO 2]
+http://srvvenus.canaldoboi.com.br:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://expovizinhos.com.br/upload/fotosnoticias/g_37.jpg" group-title="CANAIS RURAIS",Canal do Boi
+http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/2000px-Terra_Viva_logo.svg.png" group-title="CANAIS RURAIS",Terra Viva
+http://evp.mm.uol.com.br:1935/terraviva/terraviva/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/terraviva.png" group-title="CANAIS RURAIS",TERRA VIVA[OPÇÃO 2]
+http://evp.mm.uol.com.br/terraviva/_definst_/terraviva/TOPCINE.m3u8 
+
+
+
+
 
 
 
