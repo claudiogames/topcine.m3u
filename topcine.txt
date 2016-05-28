@@ -675,6 +675,22 @@ https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OLHSFAMTS2.mp4 
 https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ATVDADPRNRML1.mp4 
  
 
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/09/thumbs/8782bf17ae5a6e68035fac55aeb8d888_jpg_290x478_upscale_q90.jpg" group-title="FILMES DE TERROR",Premonição 2
+https://googledrive.com/host/0BxH_V2BTYgJBN0VvX0RCVDFZT0k/PRMNCAO2.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.themediafire.net/wp-content/uploads/2013/08/A-Hora-do-Pesadelo-2010-capa-poster-cover.jpg" group-title="FILMES DE TERROR",Hora do pesadelo 2
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/AHRDPSDL02.mp4 
+
+#EXTINF:-1 tvg-logo="http://metropolitanafm.uol.com.br/wp-content/uploads/2015/11/guerra-civil.jpg" group-title="LANÇAMENTOS 2016",Capitão America 3 Guerra Civil
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC3.mp4 
+
+#EXTINF:-1 tvg-logo="http://cinepop.com.br/wp-content/uploads/2015/07/batmanvsuperman_231-e1437955046397-750x380.jpg" group-title="LANÇAMENTOS 2016",Batman Vs Superman
+http://servidor3.redecanais.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJ.mp4
+
+#EXTINF:-1 tvg-logo="http://baixarviatorrent.com.br/wp-content/uploads/2016/01/deadpool_t14204_Ew0WpO7_jpg_290x478_upscale_q90.jpg" group-title="LANÇAMENTOS 2016",DeadPool
+http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DEADPOL.mp4
+
+
 
 
 
