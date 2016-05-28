@@ -1023,6 +1023,49 @@ http://media-br-am.crackle.com/1/u/j6/0yulf_480p.mp4
 http://media-br-am.crackle.com/1/t/j6/zyulf_480p.mp4 
 
 
+#EXTINF:-1 tvg-id="ARNOLD 1TEMPORADA"tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep1
+http://media-br-am.crackle.com/1/h/d6/3yvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep2
+http://media-br-am.crackle.com/1/h/d6/4yvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep3
+ http://media-br-am.crackle.com/1/g/d6/2yvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep4
+http://media-br-am.crackle.com/1/l/d6/mzvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep5
+http://media-br-am.crackle.com/1/l/d6/lzvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep6
+http://media-br-am.crackle.com/1/g/d6/1yvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep7
+http://media-br-am.crackle.com/1/g/d6/0yvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep8
+http://media-br-am.crackle.com/1/f/d6/yyvlf_480p.mp4
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep9
+ http://media-br-am.crackle.com/1/f/d6/uyvlf_480p.mp4
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep10
+ http://media-br-am.crackle.com/1/e/d6/ryvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep11
+ http://media-br-am.crackle.com/1/d/d6/pyvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep12
+http://media-br-am.crackle.com/1/e/d6/qyvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" group-title="ARNOLD 1TEMPORADA",Arnold 1T ep13
+http://media-br-am.crackle.com/1/c/d6/kyvlf_480p.mp4
+
+
+
  
 
 
