@@ -447,6 +447,53 @@ http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/REILAO
 http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/REILAO03.mp4 
 
 
+#EXTINF:-1 tvg-logo="http://www.megatorrentshd.com/wp-content/uploads/2015/08/Bob-Esponja-Um-Heroi-Fora-DAgua.jpg" group-title="FILMES DUBLADOS",Bob Esponja Um Heroi Fora Dgua
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/BOBESPJUHRFRDGUA.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/40/Movie_poster_toy_story_2.jpg" group-title="FILMES DUBLADOS",Toy Story 2
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/TYSTRY2.mp4
+
+#EXTINF:-1 tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2010/09/Toy-Story-3-edi%C3%A7%C3%B5es-nacionais-brasil-dvd.jpg" group-title="FILMES DUBLADOS",Toy Story 3
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/TYSTRY3.mp4
+
+#EXTINF:-1 tvg-logo="http://www.planetaeducacao.com.br/portal/imagens/artigos/cinema/Capa-do-DVD-Carros-em-que-aparecem-varios-desenhos-de-carros-coloridos-e-com-expressoes-faciais1.jpg" group-title="FILMES DUBLADOS",Carros
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer2/ondemand/CARROS1.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-mMdHCPp1S08/UmXXC6F_QwI/AAAAAAAAE4U/jJGEK2ZGOYs/s1600/As+Aventuras+de+Tintim+The+Adventures+of+Tintin+The+Secret+of+the+Unicorn+Brasil+Blu-Ray+Capa+Cover.jpg" group-title="FILMES DUBLADOS",As Aventuras De TinTin O Filme
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/AAVTRSDTNFILME.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/64/78/20210636.jpg" group-title="FILMES DUBLADOS",A Casa De Cera
+https://lh3.googleusercontent.com/gDABYgiHLNOo9QgjgB9T9J0x4a9UWJFSALNiJBd8ANvh7I0MI4zF4ASV7yjlmba8jCs=m18
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-huBhIwBhvPc/Td7yJylZ45I/AAAAAAAAD3o/uzBraRBza9k/s1600/pinguinsdopapai_101.jpg" group-title="FILMES DUBLADOS",Pinguins Do Papai
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer2/ondemand/OSPNGUNSDPAI.mp4 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-h-ibO7oNsJ8/TWB9OSwBdVI/AAAAAAAAALc/zkmDfjrytdY/s1600/capa+homeme+aranha+1+dowmaster.jpg" group-title="FILMES DUBLADOS",Homen Aranha 
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/HMNARNH01.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.cinemovies.xpg.com.br/homemaranha2inicial1.jpg" group-title="FILMES DUBLADOS",Homen Aranha 2
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/HMNARNH02.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_FkJsgmu7Z3o/TPWf6WqFeJI/AAAAAAAAABY/TdS7O0r7I2M/s1600/Homem%252520Aranha%2525203%252520capa.jpg" group-title="FILMES DUBLADOS",Homen Aranha 3
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/HMNARNH03.mp4
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QHVmFGietoQ/UxCobJAZ8wI/AAAAAAAAIZo/h2VBzoksar0/s1600/O+Espetacular+Homem+Aranha.jpg" group-title="FILMES DUBLADOS",O Espetacular Homen Aranha
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/01/thumbs/o-espetacular-homem-aranha-2-a-ameaca-de-electro_t57181_4_jpg_290x478_upscale_q90.jpg" group-title="FILMES DUBLADOS",O Espetacular Homen Aranha 2
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4
+
+#EXTINF:-1 tvg-logo="http://www.blogdojotace.com.br/wp-content/uploads/2009/11/43267551.jpg" group-title="FILMES DUBLADOS",O Maskara
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer1/ondemand/OMSKR01.mp4
+
+#EXTINF:-1 tvg-logo="https://mutantexis.files.wordpress.com/2016/01/blog-abre3.jpg" group-title="FILMES DUBLADOS",Snoop e Charle Brown o filme
+http://servidor3.redecanais.com/RedeCanais/redecanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
+
 
 
 
