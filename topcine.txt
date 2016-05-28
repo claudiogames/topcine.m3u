@@ -172,6 +172,197 @@ http://evp.mm.uol.com.br/terraviva/_definst_/terraviva/TOPCINE.m3u8
 
 
 
+#EXTINF:-1 tvg-id="VARIEDADES"tvg-logo="http://www.tv-ao-vivo.net/Vip/image/chef.jpg" group-title="VARIEDADES",CHEFE TV SP
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://assinandosky.com/img/canais/nbr.jpg" group-title="VARIEDADES",NBR TV
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/585768001376509952/sde82n8L.png" group-title="VARIEDADES",MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.campinas.sp.leg.br/comunicacao/noticias/2015/fevereiro/tv-camara-estreia-em-sinal-aberto-nesta-segunda-2-com-documentario-sobre-rubem-alves-mario-sergio-cortella-e-transmissao-da-primeira-sessao-do-ano/image_large" group-title="VARIEDADES",Tv Camera 1
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
+
+
+ #EXTINF:-1 tvg-logo="http://www.campinas.sp.leg.br/comunicacao/noticias/2015/fevereiro/tv-camara-estreia-em-sinal-aberto-nesta-segunda-2-com-documentario-sobre-rubem-alves-mario-sergio-cortella-e-transmissao-da-primeira-sessao-do-ano/image_large" group-title="VARIEDADES",Tv Camera 2
+http://stream2.camara.leg.br:80/tv2/manifest.m3u8
+
+ #EXTINF:-1 tvg-logo="http://www.campinas.sp.leg.br/comunicacao/noticias/2015/fevereiro/tv-camara-estreia-em-sinal-aberto-nesta-segunda-2-com-documentario-sobre-rubem-alves-mario-sergio-cortella-e-transmissao-da-primeira-sessao-do-ano/image_large" group-title="VARIEDADES",Tv Camera 3
+http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8
+
+ #EXTINF:-1 tvg-logo="http://www.campinas.sp.leg.br/comunicacao/noticias/2015/fevereiro/tv-camara-estreia-em-sinal-aberto-nesta-segunda-2-com-documentario-sobre-rubem-alves-mario-sergio-cortella-e-transmissao-da-primeira-sessao-do-ano/image_large" group-title="VARIEDADES",Tv Camera 4
+http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="FILMES E SERIES",USE O XMTV PLAYER
+bit.ly/TopCinetv
+
+ #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbo.png" group-title="FILMES E SERIES",Hbo[OPÇÃO 1]
+rtmp://r.livecast.cc/rl/ playpath=ch23-2 swfurl=http://livecast.cc/live/player.swf?Top_Cine  live=1 pageUrl=http://livecast.cc/live/stream13.php token=y.t.e.q.e.e.e.t.j.d.a.v
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbo.png" group-title="FILMES E SERIES",Hbo[OPÇÃO 2]
+rtmp://r.livecast.cc/rl/ playpath=ch23-2 swfurl=http://livecast.cc/live/player.swf?Top_Cine  live=1 pageUrl=http://livecast.cc/live/stream13.php token=y.t.e.q.e.e.e.t.j.d.a.v
+rtmp://r.livecast.cc
+
+#EXTINF:-1 tvg-logo="http://informacao.blog.br/wp-content/uploads/2012/03/Canais-Filmes-Telecine-Claro-TV.jpg" group-title="FILMES E SERIES",Telecine Pipoca
+rtmp://208.53.180.242/ctv playpath=filmes pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Jdhyb5pLEXo/Utv4wJdyg0I/AAAAAAAAg7A/q6M0z2CpwRs/s1600/Telecine+(2).png" group-title="FILMES E SERIES",Telecine Premiun
+rtmp://r.livecast.cc/rl playpath=ch24-2  swfUrl=http://livecast.cc/live/js/jw5/player.swf pageUrl=http://livecast.cc/ timeout=15 token=y.t.e.q.e.e.e.t.j.d.a.v
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WS8SOz8io-I/Utb84_fULdI/AAAAAAAAAWk/gSVs_LcNQZw/s1600/canal_fox_br.png" group-title="FILMES E SERIES",Fox br
+rtmp://r.livecast.cc/rl playpath=ch25-2 swfUrl=http://livecast.cc/live/js/jw5/player.swf pageUrl=http://livecast.cc/ timeout=15 token=y.t.e.q.e.e.e.t.j.d.a.v
+
+
+#EXTINF:-1 tvg-id="MUSICA"tvg-logo="http://ajournalofmusicalthings.com/wp-content/uploads/Vevo-logo.png" group-title="MUSICA",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-M0MAe4O8Qds/VlNJAdzJZuI/AAAAAAAABOI/rrJNtnnXXZU/s1600/imagen-vevo-assista-clipes-em-hd-1ori.png" group-title="MUSICA",VEVO 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="MUSICA",MULTISHOW
+rtmp://r.livecast.cc/rl playpath=ch21-1 swfUrl=http://livecast.cc/live/js/jw5/player.swf pageUrl=http://livecast.cc/ timeout=15 token=y.t.e.q.e.e.e.t.j.d.a.v
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7yFuDHH4gkA/VDhwOHsmbCI/AAAAAAAAjfI/wPCng1F7Ur0/s1600/mix-tv-logo.png" group-title="MUSICA",MIX TV
+http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://orig15.deviantart.net/03ff/f/2010/027/5/c/best_music_logo_by_graphics4fun.png" group-title="MUSICA",Best musica 360p
+rtmp://stream.smcloud.net/live2/best/best_360p
+
+ #EXTINF:-1 tvg-logo="http://orig15.deviantart.net/03ff/f/2010/027/5/c/best_music_logo_by_graphics4fun.png" group-title="MUSICA",Best musica 720p hd
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/EskaTV_logo_2011.png/250px-EskaTV_logo_2011.png" group-title="MUSICA",Eska party tv
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/EskaTV_logo_2011.png/250px-EskaTV_logo_2011.png" group-title="MUSICA",Eska party tv 720p hd
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg/revision/latest?cb=20121023154708" group-title="MUSICA",Eska rocks 360p
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+
+ #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg/revision/latest?cb=20121023154708" group-title="MUSICA",Eska rocks tv hd
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d9/Eska_TV_logo.png/revision/latest?cb=20100930164532" group-title="MUSICA",Eska tv
+rtmp://stream.smcloud.net/live/eskatv
+
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/12/LOGO-HIT-TV.jpg" group-title="MUSICA",Hit tv
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/sQKap6bxVug-fcUl50_A79NwzjbU9ju4jEIWcQyb_dB1ZOGz2m7Wto4UnCq70ImULqwk=w300" group-title="MUSICA",Vevo 3 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" group-title="MUSICA",Tv Faap sp
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8  
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="MUSICA",MTV
+rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live&stream=wt_mtv.stream live=1
+
+#EXTINF:-1 tvg-logo="http://www.pointhits.com.br/wp-content/uploads/2015/03/Pointhits.png" group-title="MUSICA",Webtv clipes
+http://stmv1.srvstm.com/stmdemo/stmdemo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.8tracks.com/cover/i/000/918/834/8811.original-1854.jpg?rect=0,0,500,500&q=98&fm=jpg&fit=max" group-title="MUSICA",Rock tv Radio
+http://5913.live.streamtheworld.com/KXXRFMAAC?&uuid=16004E00-0000-0001-BB40-943616861DE8
+
+#EXTINF:-1 tvg-logo="http://metalmania.co.nz/images/met/logo/MetalMania.jpg" group-title="MUSICA",Metal Rock Mania
+http://us2.internet-radio.com:8268
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-PNhmxudB_KQ/VLKfGYy6s9I/AAAAAAAABAM/qRmCEkkTRk8/w426-h284/musica-LOGO-PNG--330x220.png" group-title="MUSICA",DJing Hot Hot Hot Music HD
+http://www.djing.com/tv/h-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51bE%2B1DF24L.png" group-title="MUSICA",Indimusic Tv 
+rtmp://indimusic.tulix.tv:1935/livemulti/Stream1.stream swfUrl=http://swf.tulix.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/indimusictv/index-multi2.php
+
+#EXTINF:-1 tvg-logo="http://tivibox.tv/wp-content/uploads/2014/08/logo_grande.png" group-title="MUSICA",For Music tv
+rtmp://194.116.73.52/quartaretetv1/formusicweb
+
+#EXTINF:-1 tvg-logo="http://ttmusic.pt/wp-content/uploads/2015/04/AfroMusic-TT.png" group-title="MUSICA",Afro Music
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ipworldtv.tv/images/logos/logo_hdmusic.png" group-title="MUSICA",Hd Music Sd
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA",MiMusica Hd
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiofullmusic.com/gallery/musica_mundo-ts1433652902.png" group-title="MUSICA",TicoMusica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/pt/e/e5/VH1_HD_Brasil_logo.jpg" group-title="MUSICA",Vh1 Hd
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1 tvg-logo="http://spbtv.com/tafiimage/hardlife.png" group-title="MUSICA",HardLife
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-id="INFANTIL",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",Cartoon network
+http://31.204.150.39:8081/live/cartoonk/playlist.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL",DISNEY XDBR 
+http://vod.cdn.iutpcdn.com
+
+#EXTINF:-1 tvg-logo="http://vipnetdobrasil.com.br/webtv/images/Nick_HD.png" group-title="INFANTIL",NICK HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG HD
+http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
