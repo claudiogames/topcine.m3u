@@ -520,6 +520,34 @@ https://lh3.googleusercontent.com/DSS-eLclaRPnQmEEEmxUFFYtSAdUDPid65F2B255Eoo367
 https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/ZMBLND.mp4
 
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-mVR8ezyyFVs/T-JUcvk3tzI/AAAAAAAAOLI/77ubFOUFt9I/s250/tt1241017.jpg" group-title="FILMES DUBLADOS",COMO CONQUISTAR UMA MULHER
+ http://media-br-am.crackle.com/1/s/ol/w1byb_480p_1mbps.mp4 
+
+#EXTINF:-1 tvg-logo="https://diogoabreu.files.wordpress.com/2010/09/karate-kid-se-sleeve.jpg" group-title="FILMES DUBLADOS",KARETÉ KID 3 O DESAFIO FINAL
+ http://media-br-am.crackle.com/1/4/f6/u7ylf_480p_1mbps.mp4 
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/94/01/20497721.jpg" group-title="FILMES DUBLADOS",EU SEI QUEM ME MATOU
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p_1mbps.mp4 
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2009/10/thumbs/453a732c9e445da9d5155589f4061662_jpg_290x478_upscale_q90.jpg" group-title="FILMES DUBLADOS",NÃO ADIANTA FUGIR
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p_1mbps.mp4 
+
+#EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/18/00/19872824.jpg" group-title="FILMES DUBLADOS",O SENHOR DAS ARMAS
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p_1mbps.mp4 
+
+
+#EXTINF:-1 tvg-logo="http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=2882503&qld=90&l=370&a=-1" group-title="FILMES DUBLADOS",O SEQUESTRO DO METRÔ
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p_1mbps.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.vivendoonline.com/wp-content/uploads/2010/02/Robocop_3_Brazilian-cdcovers_cc-front.jpg" group-title="FILMES DUBLADOS",RoboCop 3 ptbr
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p_1mbps.mp4 
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-SmgE_aCskXs/VWvcB9vyA0I/AAAAAAAAA70/NTpgj4A5Jdk/s1600/Estrada%2Bmaldita.jpg" group-title="FILMES DUBLADOS",ESTRADA MALDITA
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/09/thumbs/717c56d4fbc86d131170f627677b1111_jpg_290x478_upscale_q90.jpg" group-title="FILMES DUBLADOS",ASSALTO SOBRE TRILHOS 
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p_1mbps.mp4 
+
 
 
 
