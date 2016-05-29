@@ -1188,6 +1188,19 @@ http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP
 
 
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",HDR 1t ep1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",HDR 1t ep 2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",HDR 1t ep 3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",[MAIS EM BREVE]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP03.mp4
+
+
 
 
 
