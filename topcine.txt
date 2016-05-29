@@ -400,12 +400,6 @@ http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 #EXTINF:-1 tvg-id="INFANTIL",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",Cartoon network
 http://31.204.150.39:8081/live/cartoonk/playlist.m3u8?topcine
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL",DISNEY XDBR 
-http://vod.cdn.iutpcdn.com
-
-#EXTINF:-1 tvg-logo="http://vipnetdobrasil.com.br/webtv/images/Nick_HD.png" group-title="INFANTIL",NICK HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG HD
 http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8
 
