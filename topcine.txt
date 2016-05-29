@@ -21,6 +21,13 @@ bit.ly/TopCineWeb
 bit.ly/TopCineWeb
 
 
+#EXTINF:-1 tvg-logo="http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg" group-title="INFORMAÇÃO",watssap 885594993292
+http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt hd
 http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
 
@@ -106,10 +113,10 @@ http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/live.m3u8
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="ESPORTES",FOX SPORTS
+#EXTINF:-1 tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="ESPORTES",FOX SPORTS BR
 http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://espnmediazone.com/us/files/2012/04/ESPN-Logo.jpg" group-title="ESPORTES",ESPN
+#EXTINF:-1 tvg-logo="http://espnmediazone.com/us/files/2012/04/ESPN-Logo.jpg" group-title="ESPORTES",ESPN BR
 http://213.163.65.9:8081/live/espnbrk/playlist.m3u8 
 
 
@@ -170,10 +177,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Esporte Interativo 720p hd
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Esporte Interativo 720p BR
 http://ss.marcelle.eiplus.com.br/live/evento1.stream_720p/chunklist.m3u8?topcinetv
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Ei maxx hd
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Ei maxx BRHD
 http://ss.marcelle.eiplus.com.br/live/evento3.stream_720p/chunklist.m3u8?topcinetv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="ESPORTES",Band Sports hd [OPÇÃO 1]
