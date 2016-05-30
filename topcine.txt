@@ -1201,8 +1201,45 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP0
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP03.mp4
 
 
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP01.mp4
 
 
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep5
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep6
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep7
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep8
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep10
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep11
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP11.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",tlot T1 Ep12
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP12.mp4
+
+#EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",Proximos Episodios Em Gravação
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP12.mp4
 
 
 
