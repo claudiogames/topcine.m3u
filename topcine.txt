@@ -1243,29 +1243,13 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT0
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP12.mp4
 
 
-#EXTINF:-1 tvg-id="The Flash"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep1 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep2 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP02.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep3 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep4 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep5 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep6 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep7 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic85fdd8f9737da4d/version/1461803129/image.png" group-title="The Flash",The Flash T1ep8 1080p
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP08.mp4
 
 
 
@@ -1883,33 +1867,4 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP0
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600
