@@ -24,7 +24,8 @@ bit.ly/TopCineWeb
 #EXTINF:-1 tvg-logo="http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg" group-title="INFORMAÇÃO",watssap 885594993292
 http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg 
 
-
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wRTr2F7-cbw/VqmGwCr665I/AAAAAAAAorA/KdjMuRkkXDU/w800-h800/onseries%2B256px.png" group-title="PARCEIROS DA LISTA",ONseries
+http://bit.ly/ONseries
 
 
 
@@ -1240,7 +1241,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT0
 
 #EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?8e8084" group-title="the legends of tomorrow Dublado",Proximos Episodios Em Gravação
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/LGNDSODTMRWT01EP12.mp4
-
 
 
 
