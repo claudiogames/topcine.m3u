@@ -1293,7 +1293,7 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP1
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP13.mp4
 
 
-#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="THE FLASH 1TEMPORADA DUBLADO",The Flash T1ep14 1080p
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash 1TEMPORADA DUBLADO",The Flash T1ep14 1080p
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP14.mp4 
 
 #EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash 1TEMPORADA DUBLADO",The Flash T1ep15 1080p
