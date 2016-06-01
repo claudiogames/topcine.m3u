@@ -31,7 +31,7 @@ http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj1
 http://bit.ly/ONseries
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-vK6qSMmJq7U/AAAAAAAAAAI/AAAAAAAAAAA/AuEXjzQL29I/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="PARCEIROS DA LISTA",Vl Droid
-Bit.ly/topcinetv
+http://Bit.ly/topcinetv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt hd
 http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
