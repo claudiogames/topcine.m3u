@@ -14,7 +14,7 @@ Bit.ly/topcineiotv
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="INFORMAÇÃO",Atualizada》
  http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/assaultfirebattle/images/0/08/%C3%8Dcone_Calend%C3%A1rio.png/revision/latest?cb=20140814120935&path-prefix=pt-br" group-title="INFORMAÇÃO",13/05/16
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/assaultfirebattle/images/0/08/%C3%8Dcone_Calend%C3%A1rio.png/revision/latest?cb=20140814120935&path-prefix=pt-br" group-title="INFORMAÇÃO",01/06/16
 http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
 #EXTINF:-1 tvg-logo="http://www.hostreviewbook.com/wp-content/uploads/2013/04/free-domain-icon.png" group-title="INFORMAÇÃO",Conheça o WebSite da lista
