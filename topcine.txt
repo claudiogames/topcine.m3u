@@ -1386,10 +1386,19 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP17.m
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP18.mp4
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP19
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP19.mp4
 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP20
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP20.mp4
 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP21
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP14.mp4
 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP22
+ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP22.mp4
 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP23
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP23.mp4
 
 
 
@@ -2011,4 +2020,7 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP18.m
 
 
 
-http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600
+
+
+
+
