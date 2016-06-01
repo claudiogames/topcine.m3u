@@ -1276,6 +1276,55 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP0
 
 #EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash 1TEMPORADA DUBLADO",The Flash T1ep8 1080p
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep9 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP09.mp4
+ 
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep10 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP10.mp4
+
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep11 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP11.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep12 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP12.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep13 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP13.mp4
+
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep14 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP14.mp4 
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep15 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP15.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep16 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP16.mp4 
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep17 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP17.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep18 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP18.mp4
+
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep19 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP19.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep20 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP20.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep21 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP21.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep22 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP22.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fashionnstyle.com/data/images/full/129776/the-flash.jpg?w=600" group-title="The Flash",The Flash T1ep23 1080p
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THEFLSHT01EP23.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/xs/xskvbmzl.jpg?v=1456620006" group-title="KICK BUTTOWSK DUBLADO",KB Ep01
 http://www.animeai.org/Uploads/Desenhos/K/kick-buttowski-dublado/02.MP4
@@ -1474,6 +1523,7 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
+
 
 
 
