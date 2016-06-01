@@ -34,7 +34,7 @@ http://bit.ly/ONseries
 http://bit.ly/TopCineTv
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="ULTIMOS ADICIONADOS 01/06/15",GOTHAM 1T
-http://bit.ly/topcinetv
+http://bit.ly/topcinweb
 
 
 
