@@ -33,6 +33,10 @@ http://bit.ly/ONseries
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-vK6qSMmJq7U/AAAAAAAAAAI/AAAAAAAAAAA/AuEXjzQL29I/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="PARCEIROS DA LISTA",Vl Droid
 http://bit.ly/TopCineTv
 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="ULTIMOS ADICIONADOS 01/06/15",GOTHAM 1T
+http://bit.ly/topcinetv
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Sbt hd
 http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
