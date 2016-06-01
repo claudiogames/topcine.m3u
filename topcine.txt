@@ -1322,6 +1322,70 @@ http://www.animeai.org/Uploads/Desenhos/K/kick-buttowski-dublado/15.MP4
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/xs/xskvbmzl.jpg?v=1456620006" group-title="KICK BUTTOWSK DUBLADO",KB Ep15
 http://www.animeai.org/Uploads/Desenhos/K/kick-buttowski-dublado/16.MP4
 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP01.mp4 
+
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP2
+ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP02.mp4
+
+ #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",gt 1t ep3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP03.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP04.mp4
+
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP5
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP05.mp4
+ 
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP6
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP06.mp4
+
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP7
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP07.mp4
+
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP8
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP08.mp4
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP09.mp4
+
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP10
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP10.mp4
+
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP11
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP11.mp4
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP12
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP13
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP13.mp4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP14
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP15
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP16
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP17
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP18
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP19
 
 
 
