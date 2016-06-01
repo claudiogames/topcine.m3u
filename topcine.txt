@@ -127,7 +127,7 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://espnmediazone.com/us/files/2012/04/ESPN-Logo.jpg" group-title="ESPORTES",ESPN BR
-http://213.163.65.9:8081/live/espnbrk/playlist.m3u8 
+ http://213.163.65.9:8081/live/espnbrz/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPORTES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png" group-title="ESPORTES",Euro Sports
@@ -205,7 +205,7 @@ http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine480.m3u8
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8?topcine 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2015/05/pfc-300x149.jpg" group-title="ESPORTES",PFC 24H
-http://213.163.65.9:8081/live/pfck/playlist.m3u8?topcine
+http://213.163.65.9:8081/live/pfch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cf/UFC_Combate_2015.jpg/revision/latest?cb=20150629200353" group-title="ESPORTES",Combate
 http://213.163.65.9:8081/live/combatek/playlist.m3u8?topcine
@@ -1524,7 +1524,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
