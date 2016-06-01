@@ -1454,6 +1454,28 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP13.m
 
 
 
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP14
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP15
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP16
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP17
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP18
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP19
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.mp4
+
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
+
+
 
 
 
