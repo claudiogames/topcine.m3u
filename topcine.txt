@@ -187,8 +187,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Esporte Interativo 720p BR
-http://ss.marcelle.eiplus.com.br/live/evento1.stream_720p/chunklist.m3u8?topcinetv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Esporte Interativo 320p BR
+http://ei.frankfurt.eiplus.com.br/live/smil:Evento1.smil/chunklist_b1088000.m3u8?iptvglobal
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Ei maxx BRHD
 http://ei.frankfurt.eiplus.com.br/live/evento3.stream_360p/chunklist.m3u8?iptvglobal 
