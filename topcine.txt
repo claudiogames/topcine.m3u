@@ -191,7 +191,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 http://ss.marcelle.eiplus.com.br/live/evento1.stream_720p/chunklist.m3u8?topcinetv
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EU8NfPIXkKM/VE_n538TVEI/AAAAAAAAMfU/Ekde7QK6HF0/s1600/E%2BI.png" group-title="ESPORTES",Ei maxx BRHD
-http://ss.marcelle.eiplus.com.br/live/evento3.stream_720p/chunklist.m3u8?topcinetv
+http://ei.frankfurt.eiplus.com.br/live/evento3.stream_360p/chunklist.m3u8?iptvglobal 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="ESPORTES",Band Sports hd [OPÇÃO 1]
 http://online.pxstream.tv:1935/loadbalance/ch002a/playlist.m3u8 
@@ -1524,7 +1524,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
