@@ -915,7 +915,47 @@ http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TDMNDOCT02E
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i6a231bcbeb75c03b/version/1463447362/image.jpg" group-title="ICARLY",USE VLC OU MX PLAYER
 bit.ly/TopCineTv
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 01-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP01.mp4 
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 02-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP02.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 03-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP03.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 04-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP04.mp4 
+ 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 05-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP05.mp4 
+ 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 06-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP06.mp4 
+
+ #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 07-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP07.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 08-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP08.mp4 
+
+ 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 09-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP09.mp4 
+
+ #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 10-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP10.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 11-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP11.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 12-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP12.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="ICARLY 1TEMPORADA",icarly 13-T1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP13.mp4 
+
+ 
 
 
 
@@ -1455,7 +1495,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
