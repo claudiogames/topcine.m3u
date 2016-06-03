@@ -92,7 +92,7 @@ http://iptv.alphacs.tv:8080/live/a1s2d31/1234/735.m3u8
 http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 2]
-http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8 
+http://31.204.150.39:8081/live/recordk/playlist.m3u8 
 
 
 #EXTINF:-1 tvg-logo="http://videospopulares.com.br/wp-content/uploads/2015/08/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV BRASIL
@@ -1495,7 +1495,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
