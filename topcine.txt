@@ -79,14 +79,6 @@ http://31.204.150.39:8081/live/globok/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="CANAIS ABERTOS",Rede Globo Rj [OPÇÃO 2]
 rtmp://r.livecast.cc/rl playpath=ch15-1 swfUrl=http://livecast.cc/live/js/jw5/player.swf pageUrl=http://livecast.cc/ timeout=15 token=y.t.e.q.e.e.e.t.j.d.a.v
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record [OPÇÃO 1]
-http://wz4.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8 
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record [OPÇÃO 2]
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8 
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record Portugal
-http://iptv.alphacs.tv:8080/live/a1s2d31/1234/735.m3u8 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 1]
 http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8 
@@ -1495,7 +1487,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
