@@ -35,6 +35,73 @@ http://bit.ly/TopCineTv
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="ULTIMOS ADICIONADOS 01/06/15",GOTHAM 1T
 http://bit.ly/topcinweb
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt hd
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+
+ #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt Caruaru
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt Nordeste
+rtmp://187.18.187.5/livepkgr/nordestv1
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt Recife
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i33ef2240a1c25711/version/1465006060/image.jpg" group-title="CANAIS ABERTOS",TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jp" group-title="CANAIS ABERTOS",REDETV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jpg" group-title="CANAIS ABERTOS",Rede TV [OPÇÃO 2]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jpg" group-title="CANAIS ABERTOS",Rede TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ibca0acc26e26ab29/version/1465008136/image.jpg" group-title="CANAIS ABERTOS",Tv Cultura [OPÇÃO 1]
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ibca0acc26e26ab29/version/1465008136/image.jpg" group-title="CANAIS ABERTOS",TV CULTURA [OPÇÃO 2]
+http://200.189.113.201:80/hls/tve.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i7694a6fe8331ede2/version/1465008200/image.jpg" group-title="CANAIS ABERTOS",Rede Globo
+http://31.204.150.39:8081/live/globoz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 1]
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 2]
+http://31.204.150.39:8081/live/recordk/playlist.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i00802082899dfb94/version/1465008169/image.jpg" group-title="CANAIS ABERTOS",TV BRASIL
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i00802082899dfb94/version/1465008169/image.jpg" group-title="CANAIS ABERTOS",TV BRASIL HD
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4--HbdSkrUg/VOfDU36_1XI/AAAAAAAAxrk/DU0yZQPWTB8/s1600/tv%2Bdi%C3%A1rio%2Blogo%2B2015.jpg" group-title="CANAIS ABERTOS",Tv Diario 
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ie7b656af8defbf74/version/1465008226/image.jpg" group-title="CANAIS ABERTOS",Tv Escola 
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ie7b656af8defbf74/version/1465008226/image.jpg" group-title="CANAIS ABERTOS",Tv Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band 
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band Hd
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8
+
+ #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band MP
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i6403ac6b58b9e7a7/version/1465008260/image.jpg" group-title="CANAIS ABERTOS",Tv Futura
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="CORRIGIDOS",Icarly 1T
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP01.mp4
