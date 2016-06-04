@@ -154,25 +154,26 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8?topcine
 
 
-#EXTINF:-1 tvg-id="CANAIS RELIGIOSOS"tvg-logo="https://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="CANAIS RELIGIOSOS",CANÇÃO NOVA SP [OPÇÃO 1]
+
+#EXTINF:-1 tvg-id="CANAIS RELIGIOSOS"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/id39e5ac91132132d/version/1465014791/image.jpg" group-title="CANAIS RELIGIOSOS",CANÇÃO NOVA SP [OPÇÃO 1]
 http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/master.m3u8 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FzZZDVhvkbY/VEPST1_CpoI/AAAAAAAAEwI/2nzsDQ-R3oc/s1600/Rede%2BG%C3%AAnesis%2B-%2BCDP%2BRede%2B-%2BServidor%2B3.png" group-title="CANAIS RELIGIOSOS",REDE GENESIS
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ia59412aa3f626693/version/1465014828/image.jpg" group-title="CANAIS RELIGIOSOS",REDE GENESIS
 http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8 
 
-#EXTINF:-1 tvg-logo="http://static-files01.cdnandroid.com/24/23/39/61/imagen-rede-gospel-beta-0big.jpg" group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OPÇÃO 1]
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i7b35ef29c963c087/version/1465014865/image.jpg" group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OPÇÃO 1]
 http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8 
 
-#EXTINF:-1 tvg-logo="http://static-files01.cdnandroid.com/24/23/39/61/imagen-rede-gospel-beta-0big.jpg" group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OPÇÃO 2]
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i7b35ef29c963c087/version/1465014865/image.jpg" group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OPÇÃO 2]
 http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8 
 
-#EXTINF:-1 tvg-logo="http://radiosaki.esy.es/wp-content/uploads/2013/02/logo-topo.png" group-title="CANAIS RELIGIOSOS",SKY GOSPEL WEB TV
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i08df84029e301080/version/1465014895/image.jpg" group-title="CANAIS RELIGIOSOS",SKY GOSPEL WEB TV
 http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8 
 
-#EXTINF:-1 tvg-logo="https://java.net/attachments/lists/soujava/aocubo/2014-02/0/logo_tv_aparecida.png" group-title="CANAIS RELIGIOSOS",TV APARECIDA [OPÇÃO 1]
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2d2e420fb7406c6a/version/1465014929/image.jpg" group-title="CANAIS RELIGIOSOS",TV APARECIDA [OPÇÃO 1]
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8 
 
-#EXTINF:-1 tvg-logo="https://java.net/attachments/lists/soujava/aocubo/2014-02/0/logo_tv_aparecida.png" group-title="CANAIS RELIGIOSOS",TV APARECIDA [OPÇÃO 2]
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2d2e420fb7406c6a/version/1465014929/image.jpg" group-title="CANAIS RELIGIOSOS",TV APARECIDA [OPÇÃO 2]
 http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/live.m3u8 
 
 #EXTINF:-1 tvg-logo="https://megaaudiencia.files.wordpress.com/2010/05/cabecalho.png" group-title="CANAIS RELIGIOSOS",TV VERDADE SC
@@ -186,7 +187,6 @@ http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
 
  #EXTINF:-1 tvg-logo="http://images.redevida.com.br/TiXJmJidQjJRhOC1BXZj25U_3MY=/300x300/media.redevida.com.br/archives/2014/11/24/3151248745-redevida.png" group-title="CANAIS RELIGIOSOS",REDE VIDA [OPÇÃO 2]
 http://rtmp.ingest.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
-
 
 
 
