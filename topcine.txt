@@ -784,17 +784,26 @@ http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP
 http://servidor2.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP13.mp4 
 
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CBY0cT8rIls/VpZ44dLU9HI/AAAAAAAAHMI/ArQ9I_mbybE/s500-c/Rush-Hour-poster-CBS-season-1-2016.jpg" group-title="RUSH HOUR[HORA DO RUSH(DUBLADO)",Hdr 1t ep1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP01.mp4 
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CBY0cT8rIls/VpZ44dLU9HI/AAAAAAAAHMI/ArQ9I_mbybE/s500-c/Rush-Hour-poster-CBS-season-1-2016.jpg" group-title="RUSH HOUR[HORA DO RUSH(DUBLADO)",Hdr 1t ep2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP02.mp4 
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",HDR 1t ep1
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CBY0cT8rIls/VpZ44dLU9HI/AAAAAAAAHMI/ArQ9I_mbybE/s500-c/Rush-Hour-poster-CBS-season-1-2016.jpg" group-title="RUSH HOUR[HORA DO RUSH(DUBLADO)",Hdr 1t ep3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP03.mp4 
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",HDR 1t ep 2
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CBY0cT8rIls/VpZ44dLU9HI/AAAAAAAAHMI/ArQ9I_mbybE/s500-c/Rush-Hour-poster-CBS-season-1-2016.jpg" group-title="RUSH HOUR[HORA DO RUSH(DUBLADO)",Hdr 1t ep4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP04.mp4 
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",HDR 1t ep 3
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CBY0cT8rIls/VpZ44dLU9HI/AAAAAAAAHMI/ArQ9I_mbybE/s500-c/Rush-Hour-poster-CBS-season-1-2016.jpg" group-title="RUSH HOUR[HORA DO RUSH(DUBLADO)",Hdr 1t ep5
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP05.mp4 
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CBY0cT8rIls/VpZ44dLU9HI/AAAAAAAAHMI/ArQ9I_mbybE/s500-c/Rush-Hour-poster-CBS-season-1-2016.jpg" group-title="RUSH HOUR[HORA DO RUSH(DUBLADO)",Hdr 1t ep6
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP06.mp4 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CBY0cT8rIls/VpZ44dLU9HI/AAAAAAAAHMI/ArQ9I_mbybE/s500-c/Rush-Hour-poster-CBS-season-1-2016.jpg" group-title="RUSH HOUR[HORA DO RUSH(DUBLADO)",Hdr 1t ep7
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP07.mp4 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/17/16/37/188971.jpg" group-title="A Hora do Rush/Rush Hour Dublado",[MAIS EM BREVE]
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AHRDRSHT01EP03.mp4
 
