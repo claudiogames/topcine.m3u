@@ -22,8 +22,8 @@ bit.ly/TopCineWeb
 
 #EXTINF:-1 tvg-logo="http://www.hostreviewbook.com/wp-content/uploads/2013/04/free-domain-icon.png" group-title="INFORMAÇÃO",bit.ly/TopCineWeb
 bit.ly/TopCineWeb
-#EXTINF:-1 tvg-logo="http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg" group-title="INFORMAÇÃO",Grupo No Watsapp 885594993292
-http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg 
+#EXTINF:-1 tvg-logo="http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg" group-title="INFORMAÇÃO",Grupo No Watsapp 
+http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.m3u8
 
 #EXTINF:-1 tvg-logo="http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg" group-title="INFORMAÇÃO",watsapp 885594993292
 http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg 
