@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/seb147247ab7ef2a7/image/i258fb854c2a4cb8f/version/1467852438/image.jpg", group-title="INFORMAÇÃO",MegaMoviesBr
+http://sbt.m3u
+
 #EXTINF:-1 tvg-id="INFORMAÇÃO" tvg-logo="https://lh3.googleusercontent.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
 http://www.tvonlinegratis.tv/canais/cartoon-network.html
 
