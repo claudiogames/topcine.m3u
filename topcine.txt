@@ -249,25 +249,6 @@ http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="FILMES E SERIES",USE O XMTV PLAYER
-bit.ly/TopCinetv
-
- #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i2823a78a79091582/version/1465069033/image.jpg" group-title="FILMES E SERIES",Hbo[OPÇÃO 1]
-rtmp://r.livecast.cc/rl/ playpath=ch23-2 swfurl=http://livecast.cc/live/player.swf?Top_Cine  live=1 pageUrl=http://livecast.cc/live/stream13.php token=y.t.e.q.e.e.e.t.j.d.a.v
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i2823a78a79091582/version/1465069033/image.jpg" group-title="FILMES E SERIES",Hbo[OPÇÃO 2]
-rtmp://r.livecast.cc/rl/ playpath=ch23-2 swfurl=http://livecast.cc/live/player.swf?Top_Cine  live=1 pageUrl=http://livecast.cc/live/stream13.php token=y.t.e.q.e.e.e.t.j.d.a.v
-rtmp://r.livecast.cc
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i6e29817d718c9959/version/1465069085/image.jpg" group-title="FILMES E SERIES",Telecine Pipoca
-rtmp://208.53.180.242/ctv playpath=filmes pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i426bedc6ae9a34cd/version/1465069053/image.jpg" group-title="FILMES E SERIES",Telecine Premiun
-rtmp://r.livecast.cc/rl playpath=ch24-2  swfUrl=http://livecast.cc/live/js/jw5/player.swf pageUrl=http://livecast.cc/ timeout=15 token=y.t.e.q.e.e.e.t.j.d.a.v
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i484891cee7835310/version/1465069066/image.jpg" group-title="FILMES E SERIES",Fox br
-rtmp://r.livecast.cc/rl playpath=ch25-2 swfUrl=http://livecast.cc/live/js/jw5/player.swf pageUrl=http://livecast.cc/ timeout=15 token=y.t.e.q.e.e.e.t.j.d.a.v
-
 
 
 #EXTINF:-1 tvg-id="MUSICA"tvg-logo="http://ajournalofmusicalthings.com/wp-content/uploads/Vevo-logo.png" group-title="MUSICA",VEVO HD
