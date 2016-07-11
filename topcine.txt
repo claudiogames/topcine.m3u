@@ -235,9 +235,7 @@ http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://assinandosky.com/img/canais/recordnews.jpg" group-title="VARIEDADES",Record News
 http://evp.mm.uol.com.br:1935/band/bandnews/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.campinas.sp.leg.br/comunicacao/noticias/2015/fevereiro/tv-camara-estreia-em-sinal-aberto-nesta-segunda-2-com-documentario-sobre-rubem-alves-mario-sergio-cortella-e-transmissao-da-primeira-sessao-do-ano/image_large" group-title="VARIEDADES",Tv Camera 1
-http://stream2.camara.leg.br:80/tv1/manifest.m3u8
-
-
+http://stream2.camara.leg.br:80/tv1/manifest.m3utxt
  #EXTINF:-1 tvg-logo="http://www.campinas.sp.leg.br/comunicacao/noticias/2015/fevereiro/tv-camara-estreia-em-sinal-aberto-nesta-segunda-2-com-documentario-sobre-rubem-alves-mario-sergio-cortella-e-transmissao-da-primeira-sessao-do-ano/image_large" group-title="VARIEDADES",Tv Camera 2
 http://stream2.camara.leg.br:80/tv2/manifest.m3u8
 
@@ -266,7 +264,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="MUSICA",MULTISHOW
-rtmp://r.livecast.cc/rl playpath=ch21-1 swfUrl=http://livecast.cc/live/js/jw5/player.swf pageUrl=http://livecast.cc/ timeout=15 token=y.t.e.q.e.e.e.t.j.d.a.v
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7yFuDHH4gkA/VDhwOHsmbCI/AAAAAAAAjfI/wPCng1F7Ur0/s1600/mix-tv-logo.png" group-title="MUSICA",MIX TV
 http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8 
