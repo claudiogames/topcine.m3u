@@ -247,7 +247,14 @@ http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8
  #EXTINF:-1 tvg-logo="http://www.campinas.sp.leg.br/comunicacao/noticias/2015/fevereiro/tv-camara-estreia-em-sinal-aberto-nesta-segunda-2-com-documentario-sobre-rubem-alves-mario-sergio-cortella-e-transmissao-da-primeira-sessao-do-ano/image_large" group-title="VARIEDADES",Tv Camera 4
 http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i2823a78a79091582/version/1465069033/image.jpg" group-title="FILMES E SERIES",Hbo
+http://79.124.59.218:1935/liveedge/ch23-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i426bedc6ae9a34cd/version/1465069053/image.jpg" group-title="FILMES E SERIES",Telecine Premiun
+http://79.124.59.218:1935/liveedge/ch24-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s3a1f1cef5971bf01/image/i484891cee7835310/version/1465069066/image.jpg" group-title="FILMES E SERIES",Fox br
+http://79.124.59.218:1935/liveedge/ch25-1/playlist.m3u8
 
 
 
@@ -1116,7 +1123,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
