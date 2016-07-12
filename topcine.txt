@@ -343,7 +343,11 @@ http://31.204.152.6:8081/live/cartoonk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG HD
 http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8
+#EXTINF:-1 tvg-logo="http://images.8tracks.com/cover/i/009/139/689/disney-channel-logo-2013-interview-----h--l--ne-etzi-vp-directrice-g--n--rale-de-disney-channels-pictures-3672.jpg?rect=170,0,1159,1159&q=98&fm=jpg&fit=max&w=320&h=320" group-title="INFANTIL",Disney Channel
+http://31.204.152.6:8081/live/disney/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://clarotvlojaonline.com.br/img/channels/20151112155133-discovery-kids-hd.png", group-title="INFANTIL",Discovery Kids
+http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="DESENHOS 24H",USE O XMTV PLAYER
 bit.ly/TopCineTV
 
@@ -1120,7 +1124,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
