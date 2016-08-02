@@ -4,7 +4,7 @@
 http://listaiptvredenet.m3u
 
 
-#EXTINF:-1 tvg-id="INFORMAÇÃO" tvg-logo="https://lh3.googleusercontent1.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent1.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
 http://www.tvonlinegratis.tv/canaisö/cartoon-network.html
 
 #EXTINF:-1 tvg-logo="https://www.texasbookfestival.org/images/email_icon.png" group-title="INFORMAÇÃO",claudiogamesbr3@gmail.com
