@@ -1,6 +1,7 @@
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://photos-5.dropbox.com/t/2/AAACd-h6xCRoQiF6j2NaR3rVEpbJFt1etPeiDf7ePlKBYA/12/527776423/jpeg/1024x768/3/1470168000/0/2/PicsArt_07-11-05.12.08.jpg/EIf9zpwEGIQBIAIoAg/I29f99p72cFDHpHUpupXSVZI8nFCPtLxb7aXtNEgbgM?size_mode=3&size=1024x768" group-title="INFORMAÇÃO",》INFORMAÇÃO
+http://listaiptvredenet.m3u
 
 
 #EXTINF:-1 tvg-id="INFORMAÇÃO" tvg-logo="https://lh3.googleusercontent1.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
@@ -1050,7 +1051,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
