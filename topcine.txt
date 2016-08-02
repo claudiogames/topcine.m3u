@@ -16,7 +16,7 @@ Bit.ly/topcineiotv
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="INFORMAÇÃO",Atualizada》
  http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/assaultfirebattle/images/0/08/%C3%8Dcone_Calend%C3%A1rio.png/revision/latest?cb=20140814120935&path-prefix=pt-br" group-title="INFORMAÇÃO",31/07/16
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/assaultfirebattle/images/0/08/%C3%8Dcone_Calend%C3%A1rio.png/revision/latest?cb=20140814120935&path-prefix=pt-br" group-title="INFORMAÇÃO",02/08/16
 http://servidor4.redecanais.com/RedeCanais/RedeCanais/RCServer02/ondemand/AVDRS03EP18.mp4
 
 
@@ -56,7 +56,7 @@ http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlis
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jp" group-title="CANAIS ABERTOS",REDETV HD
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+http://evp.mm.uol.comr:1935/redetv1/redetv1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jpg" group-title="CANAIS ABERTOS",Rede TV [OPÇÃO 2]
 rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
