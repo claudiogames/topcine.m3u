@@ -40,7 +40,9 @@ http://bit.ly/topcinweb
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="CORRIGIDOS",Todo Mundo Odeia o Chris
 http://lista.iptvglobal.m3u8
-
+#EXTINF:-1 tvg-logo="https://photos-5.dropbox.com/t/2/AAACd-h6xCRoQiF6j2NaR3rVEpbJFt1etPeiDf7ePlKBYA/12/527776423/jpeg/1024x768/3/1470168000/0/2/PicsArt_07-11-05.12.08.jpg/EIf9zpwEGIQBIAIoAg/I29f99p72cFDHpHUpupXSVZI8nFCPtLxb7aXtNEgbgM?size_mode=3&size=1024x768" group-title="CANAIS ABERTOS",》CANAIS
+ABERTOS《
+http://listaiptvredenet.m3u
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt hd
 http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
@@ -1052,7 +1054,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
