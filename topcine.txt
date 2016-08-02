@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-id="INFORMAÇÃO" tvg-logo="https://lh3.googleusercontent.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
+#EXTINF:-1 tvg-id="INFORMAÇÃO" tvg-logo="https://lh3.googleusercontent1.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/photo.jpg" group-title="INFORMAÇÃO",Lista by:claudio gameplays
 http://www.tvonlinegratis.tv/canaisö/cartoon-network.html
 
 #EXTINF:-1 tvg-logo="https://www.texasbookfestival.org/images/email_icon.png" group-title="INFORMAÇÃO",claudiogamesbr3@gmail.com
@@ -28,20 +28,7 @@ http://bit.ly/ONseries
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-vK6qSMmJq7U/AAAAAAAAAAI/AAAAAAAAAAA/AuEXjzQL29I/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="PARCEIROS DA LISTA",Vl Droid
 http://bit.ly/TopCineTv
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/seb147247ab7ef2a7/image/i258fb854c2a4cb8f/version/1467852438/image.jpg", group-title="AVISOS INPORTANTES",A Partir dessa Sexta
-http://sbt.m3u
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/seb147247ab7ef2a7/image/i258fb854c2a4cb8f/version/1467852438/image.jpg", group-title="AVISOS INPORTANTES",Dia 08/07/16
-http://sbt.m3u
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/seb147247ab7ef2a7/image/i258fb854c2a4cb8f/version/1467852438/image.jpg", group-title="AVISOS INPORTANTES",A url da lista
-http://sbt.m3u
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/seb147247ab7ef2a7/image/i258fb854c2a4cb8f/version/1467852438/image.jpg", group-title="AVISOS INPORTANTES",Vai Mudar Para..
-http://sbt.m3u
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/seb147247ab7ef2a7/image/i258fb854c2a4cb8f/version/1467852438/image.jpg", group-title="AVISOS INPORTANTES",bit.ly/MegaMoviesBr
-http://www.google.m3u
+l
 
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="ULTIMOS ADICIONADOS 01/06/15",GOTHAM 1T
@@ -1063,7 +1050,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
