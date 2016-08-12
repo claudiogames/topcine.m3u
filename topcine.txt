@@ -40,7 +40,7 @@ http://bit.ly/topcinweb
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="CORRIGIDOS",Todo Mundo Odeia o Chris
 http://lista.iptvglobal.m3u8
-#EXTINF:-1 tvg-logo="https://photos-5.dropbox.com/t/2/AAACd-h6xCRoQiF6j2NaR3rVEpbJFt1etPeiDf7ePlKBYA/12/527776423/jpeg/1024x768/3/1470168000/0/2/PicsArt_07-11-05.12.08.jpg/EIf9zpwEGIQBIAIoAg/I29f99p72cFDHpHUpupXSVZI8nFCPtLxb7aXtNEgbgM?size_mode=3&size=1024x768" group-title="CANAIS ABERTOS",》CANAIS ABERTOS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAAPc0/8yXNW-E1y1AOeuW71c01KtDkQpKWtih5wCLcB/s280/IMG_20160812_101135.jpg"group-title="CANAIS ABERTOS",》CANAIS ABERTOS
 http://listaiptvredenet.m3u
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt hd
@@ -71,10 +71,10 @@ http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ibca0acc26e26ab29/version/1465008136/image.jpg" group-title="CANAIS ABERTOS",TV CULTURA [OPÇÃO 2]
-http://200.189.113.201:80/hls/tve.m3u8
+http://200.189.113.20https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAAPc0/8yXNW-E1y1AOeuW71c01KtDkQpKWtih5wCLcB/s280/IMG_20160812_101135.jpg1:80/hls/tve.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i7694a6fe8331ede2/version/1465008200/image.jpg" group-title="CANAIS ABERTOS",Rede Globo
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x1000https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAAPc0/8yXNW-E1y1AOeuW71c01KtDkQpKWtih5wCLcB/s280/IMG_20160812_101135.jpg0:format=jpg/path/s08737a366136fc33/image/i7694a6fe8331ede2/version/1465008200/image.jpg" group-title="CANAIS ABERTOS",Rede Globo
 http://31.204.153.115:8081/live/sptvk/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 1]
  http://31.204.152.6:8081/live/recordk/playlist.m3u8
@@ -1054,7 +1054,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
