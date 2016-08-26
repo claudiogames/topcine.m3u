@@ -1,1 +1,52 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/x/cone-da-informao-17480059.jpg" group-title="INFORMAÇÃO",Informação
+http://lista.m3u
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-XvOW1ov78I8/AAAAAAAAAAI/AAAAAAAAAAA/USwgFbXgxrI/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INFORMAÇÃO",Lista by claudio
+http://lista.m3u
+
+#EXTINF:-1 tvg-logo="http://www2.vashonsd.org/dokuwiki/lib/exe/fetch.php?cache=&media=tech_integration:gmail-icon-razorianfly.png" group-title="INFORMAÇÃO",claudiogamesbr3@gmail.com
+http://lista.m3u
+
+#EXTINF:-1 tvg-logo="http://www.apkintvbox.com/wp-content/uploads/2015/05/IPTV.png" group-title="OUTRAS LISTAS DA REDE",bit.ly/RedeNetFilmes
+http://lista.m3u
+
+#EXTINF:-1 tvg-logo="http://www.apkintvbox.com/wp-content/uploads/2015/05/IPTV.png" group-title="OUTRAS LISTAS DA REDE",bit.ly/RedeNetTv
+http://lista.m3u
+
+#EXTINF:-1 tvg-logo="http://www.apkintvbox.com/wp-content/uploads/2015/05/IPTV.png" group-title="OUTRAS LISTAS DA REDE",bit.ly/RedeNetSeries
+http://lista.m3u
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Capitão America 3:Guerra civil
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC3.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Esquadrão Suicida
+http://mars.haaze.com.br/hzcdn2/cl/bx1Bh8ZvH84/es@.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",DeadPool
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DEADPOL.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Angry birds
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ANGRYBRDSFLM.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Batman vs Superman
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJ.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",X-Men:Apocalipso
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/XMENAPCLPSE.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Vai que da certo 2
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VQDRCRT2.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Kung Fu Panda 3
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND3.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Alice atravez do espelho
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCATRVSDESLHO.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",O grande mestre 3
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OGRNDMSTR3.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Deuses do egito
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/
