@@ -124,7 +124,7 @@ http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?RedeN
 
 
 #EXTINF:-1 tvg-id="ESPORTES"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic4c11637b5819c83/version/1461458009/image.png" group-title="ESPORTES",Ei Maxx HdBr
-http://ei.frankfurt.eiplus.com.br/live/evento3.stream_360p/chunklist.m3u8
+http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?RedeNetTv 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i669059c4027a684a/version/1465011094/image.jpg" group-title="ESPORTES",Band Sports Br
 http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/TopCine_Tv.m3u8 
@@ -1054,7 +1054,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
