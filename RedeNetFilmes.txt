@@ -50,3 +50,26 @@ http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OGRNDMS
 
 #EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Deuses do egito
 http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/
+
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Captive
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CPTVE.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",O Presente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSENT.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",O Bom Dinossauro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OBOMDINO.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",A Herdeira
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/AHRDIRA.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Vigilante da Guerra 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VGLANTSDGRRA.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",Especialista em Crime
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",90 minutos no Paraiso
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4 
+
