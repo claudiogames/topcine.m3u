@@ -119,7 +119,7 @@ rtmp://r.livecast.cc/rl/ playpath=ch13-2 swfurl=http://livecast.cc/live/player.s
  http://213.163.65.9:8081/live/espnbrz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ib5fb870b2a526c1c/version/1465013536/image.jpg" group-title="ESPORTES",Esporte Interativo br
-http://ei.frankfurt.eiplus.com.br/live/smil:Evento1.smil/chunklist_b1088000.m3u8
+http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?RedeNetTv 
 
 
 
@@ -1054,7 +1054,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
