@@ -31,15 +31,6 @@ http://bit.ly/ONseries
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-vK6qSMmJq7U/AAAAAAAAAAI/AAAAAAAAAAA/AuEXjzQL29I/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="PARCEIROS DA LISTA",Vl Droid
 http://bit.ly/TopCineTv
 
-
-
-#EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="ULTIMOS ADICIONADOS 01/06/15",GOTHAM 1T
-http://bit.ly/topcinweb
-
-#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-icarly-1-a-6-temporada-frete-gratis-872411-MLB20542615547_012016-O.jpg" group-title="CORRIGIDOS",Icarly 1T
-http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/ICARLYT01EP01.mp4
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i83387ea340e82a1a/version/1463011672/image.jpg" group-title="CORRIGIDOS",Todo Mundo Odeia o Chris
-http://lista.iptvglobal.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAAPc0/8yXNW-E1y1AOeuW71c01KtDkQpKWtih5wCLcB/s280/IMG_20160812_101135.jpg"group-title="CANAIS ABERTOS",》CANAIS ABERTOS
 http://listaiptvredenet.m3u
 
@@ -74,7 +65,8 @@ http://200.189.113.20https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAA
 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x1000https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAAPc0/8yXNW-E1y1AOeuW71c01KtDkQpKWtih5wCLcB/s280/IMG_20160812_101135.jpg0:format=jpg/path/s08737a366136fc33/image/i7694a6fe8331ede2/version/1465008200/image.jpg" group-title="CANAIS ABERTOS",Rede Globo
-http://31.204.153.115:8081/live/globok/playlist.m3u8   
+http://31.204.153.115:8081/live/globok/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 1]
  http://31.204.152.6:8081/live/recordk/playlist.m3u8
 
@@ -1053,7 +1045,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
