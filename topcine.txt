@@ -1,6 +1,6 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/x/cone-da-informao-17480059.jpg" group-title="INFORMAÇÃO",》INFORMAÇÃO
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/x/cone-da-informao-17480059.jpg" group-ttle="INFORMAÇÃO",》INFORMAÇÃO
 http://listaiptvredenet.m3u
 
 
@@ -58,8 +58,7 @@ http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlis
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i33ef2240a1c25711/version/1465006060/image.jpg" group-title="CANAIS ABERTOS",TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jp" group-title="CANAIS ABERTOS",REDETV HD
-http://evp.mm.uol.comr:1935/redetv1/redetv1/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jpg" group-title="CANAIS ABERTOS",Rede TV [OPÇÃO 2]
 rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
@@ -1054,7 +1053,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
