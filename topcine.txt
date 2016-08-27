@@ -333,7 +333,7 @@ rtmp://208.53.180.242/ctv playpath=family swfUrl=http://www.carolineoliveira.com
 rtmp://208.53.180.178/ctv playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/cdz.html
 
 #EXTINF:-1 tvg-logo="https://c2.staticflickr.com/2/1363/1386991547_3e674edb68.jpg" group-title="DESENHOS 24H",Thunder Cats
-rtmp://208.53.180.242/ctv playpath=thunder  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php
+rtmp://208.53.164.194/ctv playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
  
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000069473616-ednzwf-t500x500.jpg" group-title="DESENHOS 24H",Dragon Ball Gt
 rtmp://208.53.164.194/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
@@ -1045,7 +1045,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
