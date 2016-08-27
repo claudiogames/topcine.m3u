@@ -344,7 +344,7 @@ rtmp://208.53.180.178/ctv playpath=doug swfUrl=http://www.carolineoliveira.com.b
 rtmp://208.53.180.178/ctv?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTYgMTA6NTc6MjMgQU0maGFzaF92YWx1ZT1iTlFGdzhHdkhvVnVMYkR3R01ScHFBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php
 
 #EXTINF:-1 tvg-logo="http://forums.windowscentral.com/attachments/app-spotlight/61347d1396600938t-tomjerry_icon.png" group-title="DESENHOS 24H",TOM E JERRY
-rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?topcinetvGrupo_UP_e_DOWN live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+rtmp://208.53.180.178/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 #EXTINF:-1 tvg-logo="http://filmesparadownloads.org/wp-content/uploads/2015/08/bob-esponja-3-300x300.jpg?d2beb7" group-title="DESENHOS 24H",BOB ESPONJA
 rtmp://208.53.164.194/ctv playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?topcine pageUrl=http://www.carolineoliveira.com.br/tvamigos/bobesponja.html
@@ -1045,7 +1045,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP19.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 2TEMPORADA DUBLADA",GT 2TEP20
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT02EP20.mp4
-
 
 
 
