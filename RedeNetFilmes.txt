@@ -73,3 +73,46 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.m
 #EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="LANÇAMENTOS 2016",90 minutos no Paraiso
 http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4 
 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Um Príncipe em Nova York
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Warcraft: O Primeiro Encontro de Dois Mundos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/WARCFTLEG.mp4 
+
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",As Criaturas Atrás das Paredes 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",O zelador animal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OZLDR.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Refém
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/RFEM.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",O Professor Aloprado 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Detroit a Cidade do Rock
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DTRIDACDADRCK.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",O Demolidor
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ODMLDR.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Deu a Louca nos Nazis 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DLUCNSNZ.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Até que a Sorte nos Separe 3 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ATQASRTNSPR3.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Bravetown
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BRVTWN.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Assalto em Dose Dupla 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ASLTEDSDPL.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Divergente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRGNT.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Adorável Professora 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ADRVLPRFSRA.mp4 
