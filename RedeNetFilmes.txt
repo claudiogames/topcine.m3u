@@ -116,3 +116,22 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRGNT.mp4
 
 #EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Adorável Professora 
 http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ADRVLPRFSRA.mp4 
+
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Watchmen - O Filme 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/WTCHMNOFLM.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",A Arte da Paixão 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/AARTDPXA.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Vovó... Zona
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Vovó... Zona 2 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA2.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Vovó... Zona 3: Tal Pai, Tal Filho 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA3.mp4 
+
+
+
