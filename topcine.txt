@@ -384,7 +384,7 @@ rtmp://208.53.164.194/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliv
 rtmp://208.53.180.218/ctv playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/icarly.html
 
 #EXTINF:-1 tvg-logo="http://theactionelite.com/site/wp-content/uploads/2013/10/supernatural-wallpaper-300x300.jpg" group-title="SERIES 24H",SUPERNATURAL
-rtmp://208.53.180.242/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+rtmp://208.53.180.178/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
 
  #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/MFxau8ilEWM1QF2SXw6X0Fyvk1SaAN2ogyQA3iKRmrKCX-l1R-en2QJ71SBh8GFNX4lbdsQT=w300" group-title="SERIES 24H,Chuck
 rtmp://208.53.180.218/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
@@ -898,7 +898,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP14.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP23
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP23.mp4
-
 
 
 
