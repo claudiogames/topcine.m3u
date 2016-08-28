@@ -310,9 +310,8 @@ http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
 #EXTINF:-1 tvg-logo="http://skyriodejaneiro.com.br/images/canais/140_D12DE8B0EFC20FAA.png" group-title="FILMES E SERIES",Fox Br
 http://31.204.152.6:8081/live/fox/playlist.m3u8 
- 
-#EXTINF:-1 tvg-logo="http://assinandosky.com/img/canais/megapix.jpg" group-title="FILMES E SERIES",MegaPix Br
-http://31.204.152.6:8081/live/megapix/playlist.m3u8 
+ #EXTINF:-1 tvg-logo="http://tvaovivonopc.xpg.uol.com.br/filmes24horas.jpg" group-title="FILMES E SERIES,Filmes 24h
+rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
  
 
 
@@ -907,7 +906,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP14.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP23
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP23.mp4
-
 
 
 
