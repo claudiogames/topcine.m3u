@@ -308,6 +308,15 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-2015081
 #EXTINF:-1 tvg-logo="http://spbtv.com/tafiimage/hardlife.png" group-title="MUSICA",HardLife
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
+#EXTINF:-1 tvg-logo="http://skyriodejaneiro.com.br/images/canais/140_D12DE8B0EFC20FAA.png" group-title="FILMES E SERIES",Fox Br
+http://31.204.152.6:8081/live/fox/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-logo="http://assinandosky.com/img/canais/megapix.jpg" group-title="FILMES E SERIES",MegaPix Br
+http://31.204.152.6:8081/live/megapix/playlist.m3u8 
+ 
+
+
+
 #EXTINF:-1 tvg-id="INFANTIL",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",Cartoon network
 http://31.204.152.6:8081/live/cartoonk/playlist.m3u8 
 
@@ -898,7 +907,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP14.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP23
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP23.mp4
-
 
 
 
