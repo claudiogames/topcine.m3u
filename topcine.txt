@@ -104,9 +104,8 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/iee68237c0613ea3a/version/1465009849/image.jpg" group-title="ESPORTES",FOX SPORTS BR
 http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic8a9408a82467112/version/1461595416/image.png" group-title="ESPORTES",ESPN BR
- http://213.163.65.9:8081/live/espnbrz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://shortyawards.com.s3.amazonaws.com/entries/espn_logo.jpeg", group-title="ESPORTES",Espn Br
+http://213.163.65.9:8081/live/espnbrz/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Canais de Tv "tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ib5fb870b2a526c1c/version/1465013536/image.jpg" group-title="ESPORTES",Esporte Interativo br
 http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?RedeNetTv 
@@ -119,13 +118,10 @@ http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?RedeN
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i669059c4027a684a/version/1465011094/image.jpg" group-title="ESPORTES",Band Sports Br
 http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/TopCine_Tv.m3u8 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/if312445e0a37fda2/version/1465012245/image.jpg" group-title="ESPORTES",PFC 24H
-http://art.nextv.ca/nextv/pfci/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ic97ee3eaa7572aa9/version/1465012200/image.jpg" group-title="ESPORTES",Combate
 http://213.163.65.9:8081/live/combatez/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ic97ee3eaa7572aa9/version/1465012200/image.jpg" group-title="ESPORTES",Combate[opção 2]
-rtmp://l.mybeststream.xyz/r playpath=canaldoboi115 swfUrl=http://mybeststream.xyz/OWY4Yzg1YT/jw5/player.swf pageUrl=http://mybeststream.xyz/pheu.php?id=30322&width=468&height=360 token=c.r.e.a.t.e.S.t.r.e.a.m
+
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ia91812262b48e506/version/1465012266/image.jpg" group-title="ESPORTES",Sport Tv 1
 http://213.163.65.9:8081/live/sportvy/playlist.m3u8  
@@ -905,7 +901,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP14.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP23
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP23.mp4
-
 
 
 
