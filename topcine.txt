@@ -104,8 +104,7 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(forma
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/iee68237c0613ea3a/version/1465009849/image.jpg" group-title="ESPORTES",FOX SPORTS BR
 http://213.163.65.9:8081/live/foxsportk/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/iee68237c0613ea3a/version/1465009849/image.jpg" group-title="ESPORTES",Fox Sports 2
-rtmp://r.livecast.cc/rl/ playpath=ch13-2 swfurl=http://livecast.cc/live/player.swf?IGOR_RANGEL live=1 pageUrl=http://livecast.cc/live/stream13.php token=y.t.e.q.e.e.e.t.j.d.a.v
+
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/sc8a21144632fc3a7/image/ic8a9408a82467112/version/1461595416/image.png" group-title="ESPORTES",ESPN BR
  http://213.163.65.9:8081/live/espnbrz/playlist.m3u8
 
