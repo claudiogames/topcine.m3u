@@ -67,8 +67,8 @@ http://200.189.113.201:80/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="http://www.seeddigital.com.br/wp-content/uploads/2015/07/logo14.jpg" group-title="CANAIS ABERTOS",Rede Globo
 http://31.204.153.115:8081/live/globok/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record hd [OPÇÃO 1]
- http://31.204.152.6:8081/live/recordk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Rede Record
+ http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8 
 
 .
 
@@ -906,7 +906,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP14.m
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/13dyF91vT9nKRW/giphy.gif" group-title="GOTHAM 1TEMPORADA DUBLADA",GT 1TEP23
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GTHMT01EP23.mp4
-
 
 
 
