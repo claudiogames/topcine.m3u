@@ -205,3 +205,31 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OBURC.mp4
 #EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Panico
 http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4 
 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Panico 2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC2.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Panico 3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC3.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Panico 4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC4.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",O Inpossivel
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OIMPSVL.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Jogos Vorazes: A Esperança
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSVRZSAESPRPT2.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Coraline e o Mundo Secreto 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CORLNE.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Alvin e os Esquilos 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS1.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Alvin e os Esquilos 2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS2.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Alvin e os Esquilos 3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS3.mp4 
+
