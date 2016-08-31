@@ -161,3 +161,47 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY2.mp4
 
 #EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Toy Story 3
 http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY3.mp4 
+
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Toy Story 3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY3.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Harry Potter e a Pedra Filosofal 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR01.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Harry Potter e a Câmara Secreta 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR02.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Harry Potter e o Prisioneiro de Azkaban 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR02.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Harry Potter e o Cálice de Fogo 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR04.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Harry Potter e a Ordem da Fênix 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR05.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Harry Potter e a Ordem da Fênix
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR05.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Harry Potter e o Enigma do Príncipe 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HRYPTR06.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Atividade Paranormal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML1.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Atividade Paranormal 2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML2.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Atividade Paranormal 3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML3.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Atividade Paranormal 4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ATVDADPRNRML4.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",O Buraco
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OBURC.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Panico
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4 
+
