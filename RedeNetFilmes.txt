@@ -133,5 +133,31 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA2.mp4
 #EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Vovó... Zona 3: Tal Pai, Tal Filho 
 http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA3.mp4 
 
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Distrito 9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DISTRIT9.mp4 
 
 
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Boneca Assassina
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BONCASSNA.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Meninas Malvadas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/MENDMLVDS.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Meninas Malvadas 2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/MENDMLVDS2.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Show Da Vizinha
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/SHWDVZNA.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Os Suspeitos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OSUSPITS.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Os Sem Floresta
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OSMFLRSTS.mp4 
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Toy Story 2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY2.mp4 
+
+
+#EXTINF:-1 tvg-logo="http://dextercontabilidade.com.br/wp-content/uploads/2016/03/11-filmes-que-todo-empreendedor-deveria-ver-500x500.jpg" group-title="FILMES DUBLADOS",Toy Story 3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TYSTRY3.mp4 
