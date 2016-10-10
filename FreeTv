@@ -38,5 +38,39 @@ http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8 .
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ie7b656af8defbf74/version/1465008226/image.jpg" group-title="CANAIS ABERTOS",Tv Escola 
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band 
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ie7b656af8defbf74/version/1465008226/i
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",Band MP 
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i6403ac6b58b9e7a7/version/1465008260/image.jpg" group-title="CANAIS ABERTOS",Tv Futura 
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.netcombo.com.br/imagens/logo/shoptime-459_95x39.png" group-title="CANAIS ABERTOS",Shop Time 
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8WPl1z" group-title="Canais BR" tvg-name="CANAIS ABERTOS" ,TV UP HD http://69.46.0.170:1935/tvup/tvup.stream/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1IqUfxr.png" group-title="CANAIS ABERTOS", Livre TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HtOWbJq.png" group-title="CANAIS ABERTOS",Master TV 
+rtmp://wowza.catve.com.br/live2/livestream 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ijp6o0q.png" group-title="CANAIS ABERTOS",Multi TV 
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8 
+ 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YOfUvNM.jpg" group-title="CANAIS ABERTOS", RCTV 
+http://flash1.crossdigital.com.br/491/491/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CXchIJi.png" group-title="CANAIS ABERTOS",TV Geral BA 
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",TV Jornal Caruaru http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",TV Jornal Recife http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8 
+
+
+
