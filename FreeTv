@@ -84,3 +84,27 @@ http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",TV Jornal Recife 
 http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://victormiranda7.files.wordpress.com/2012/04/bandsports.jpg" group-title="ESPORTES",Band Esportes
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/espn-brasil-500x500.jpg" group-title="ESPORTES",Espn Brasil
+http://31.204.152.6:8081/live/espnbr/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate 
+http://213.163.65.9:8081/live/combate/chunks.m3u8 
+
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",E+Interativo 720p
+http://ss.renata.eiplus.com.br/live/smil:Evento1_Desk.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",E+Interativo 720p
+http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?
+
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",Ei+Max 720p
+http://edgecastcdn.eiplus.com.br/Evento3/EITV/eimaxx720.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",Ei+Max 360p
+http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8?iptvglobal 
+
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154713-canal-fox-sports-2.png" group-title="ESPORTES",Fox Esportes
+http://213.163.65.9:8081/live/foxsport/chunks.m3u8? 
