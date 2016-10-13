@@ -243,7 +243,7 @@ http://31.204.152.6:8081/live/megapix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL",Cartoon Network
 http://31.204.152.6:8081/live/cartoonk/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20110218220052/logopedia/images/7/7c/Disney_Channel_2002_alt.svg" group-title="INFANTIL",Disney Channel
+#EXTINF:-1 tvg-logo="http://www.dis411.net/wp-content/uploads/2014/05/disney-channel-logo-may-22-2014-1.jpg" group-title="INFANTIL",Disney Channel
 http://31.204.152.6:8081/live/disney/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-ElwZc-hojPY/AAAAAAAAAAI/AAAAAAAAAC0/NBLCDy0tFFQ/photo.jpg" group-title="INFANTIL",Discovery Kids
