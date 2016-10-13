@@ -1,6 +1,15 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://photos-6.dropbox.com/t/2/AAAp8M-O4jzKG2u6z65Tbu4XBu5yPcm9zbBSkW5OCWtYLg/12/592615596/jpeg/1024x768/3/1476338400/0/2/IMG_20160928_233426.jpg/EPy7luMEGBggAigC/u9h6OWFHXjPNQj0fG3nluxj1K1PfesKCm0tS6xQn9bQ?size_mode=3&size=1024x768" group-title="INFORMAÇÃO",Lista FreeTvBr
+http://btjdjdk.m3u
+
+#EXTINF:-1 tvg-logo="https://photos-6.dropbox.com/t/2/AAAp8M-O4jzKG2u6z65Tbu4XBu5yPcm9zbBSkW5OCWtYLg/12/592615596/jpeg/1024x768/3/1476338400/0/2/IMG_20160928_233426.jpg/EPy7luMEGBggAigC/u9h6OWFHXjPNQj0fG3nluxj1K1PfesKCm0tS6xQn9bQ?size_mode=3&size=1024x768" group-title="INFORMAÇÃO",By:Claudio Souza
+http://btjdjdk.m3u
+
+#EXTINF:-1 tvg-logo="http://lh4.googleusercontent.com/--888YMQhpzE/VQNbmI3ITKI/AAAAAAAAitk/pdjYLPMUIug/s320/LL.png" group-title="INFORMAÇÃO",Assista tbm no kodi
+http://listaredenet.m3u
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAAPc0/8yXNW-E1y1AOeuW71c01KtDkQpKWtih5wCLcB/s280/IMG_20160812_101135.jpg"group-title="CANAIS ABERTOS",》CANAIS ABERTOS 
 http://listaiptvredenet.m3u 
 
@@ -71,6 +80,5 @@ http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",TV Jornal Caruaru http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",TV Jornal Recife http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8 
-
 
 
