@@ -108,3 +108,5 @@ http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8?
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/iee68237c0613ea3a/version/1465009849/image.jpg " group-title="ESPORTES",Fox Esportes
 http://213.163.65.9:8081/live/foxsport/chunks.m3u8? 
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="ESPORTES",Sport Tv
+http://31.204.152.6:8081/live/sportv2/playlist.m3u8 
