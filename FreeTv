@@ -26,9 +26,6 @@ http://listaiptvredenet.m3u
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt Recife 
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt hd 
-http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8 
-
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",Sbt Caruaru 
 http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8 
 
@@ -49,7 +46,7 @@ http://200.189.113.201:80/hls/tve.m3u8
 http://31.204.128.104:8081/live/sptv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Record(TvVitoria)
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8 . 
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4--HbdSkrUg/VOfDU36_1XI/AAAAAAAAxrk/DU0yZQPWTB8/s1600/tv%2Bdi%C3%A1rio%2Blogo%2B2015.jpg"group-title="CANAIS ABERTOS",Tv Diario http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8 
 
