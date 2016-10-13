@@ -155,6 +155,24 @@ http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
  #EXTINF:-1 tvg-logo="http://images.redevida.com.br/TiXJmJidQjJRhOC1BXZj25U_3MY=/300x300/media.redevida.com.br/archives/2014/11/24/3151248745-redevida.png" group-title="CANAIS RELIGIOSOS",REDE VIDA [OPÇÃO 2]
 http://rtmp.ingest.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.redevida.com.br/img/fb_placeholder.png" group-title="RELIGIOSO", Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+
+
+
+ #EXTINF:-1 tvg-logo="https://screentvoficial.files.wordpress.com/2013/04/show-da-fc3a9-band.png" group-title="RELIGIOSO",SHOW DA FE
+http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_400_av-p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ugLk99UrZvE/VBhXVDtOL1I/AAAAAAAADZk/bFXcHpooXkE/s1600/logo-rit.png" group-title="RELIGIOSO", RIT TV
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.
+m3u8
+
+
+
 
 
 
