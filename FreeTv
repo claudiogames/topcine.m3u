@@ -110,3 +110,18 @@ http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8?
 http://213.163.65.9:8081/live/foxsport/chunks.m3u8? 
 #EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="ESPORTES",Sport Tv
 http://31.204.152.6:8081/live/sportv2/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="ESPORTES",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="ESPORTES"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i13d6fae77210e898/version/1465011039/image.jpg" group-title="ESPORTES",Euro Sports es
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i13d6fae77210e898/version/1465011039/image.jpg" group-title="ESPORTES",Euro Sports 2 es
+http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8?topcine
+
+
+
+
