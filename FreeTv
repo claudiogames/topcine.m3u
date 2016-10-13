@@ -171,8 +171,69 @@ http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_400_av-p.m3u8
 http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.
 m3u8
 
+#EXTINF:-1 tvg-id="MUSICA"tvg-logo="http://ajournalofmusicalthings.com/wp-content/uploads/Vevo-logo.png" group-title="MUSICA",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-M0MAe4O8Qds/VlNJAdzJZuI/AAAAAAAABOI/rrJNtnnXXZU/s1600/imagen-vevo-assista-clipes-em-hd-1ori.png" group-title="MUSICA",VEVO 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8 
 
+ #EXTINF:-1 tvg-id="MUSICA"tvg-logo="http://ajournalofmusicalthings.com/wp-content/uploads/Vevo-logo.png" group-title="MUSICA",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-M0MAe4O8Qds/VlNJAdzJZuI/AAAAAAAABOI/rrJNtnnXXZU/s1600/imagen-vevo-assista-clipes-em-hd-1ori.png" group-title="MUSICA",VEVO 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8 
+
+ EXTINF:-1 tvg-logo="http://orig15.deviantart.net/03ff/f/2010/027/5/c/best_music_logo_by_graphics4fun.png" group-title="MUSICA",Best musica 360p
+rtmp://stream.smcloud.net/live2/best/best_360p
+
+ #EXTINF:-1 tvg-logo="http://orig15.deviantart.net/03ff/f/2010/027/5/c/best_music_logo_by_graphics4fun.png" group-title="MUSICA",Best musica 720p hd
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/EskaTV_logo_2011.png/250px-EskaTV_logo_2011.png" group-title="MUSICA",Eska party tv
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/EskaTV_logo_2011.png/250px-EskaTV_logo_2011.png" group-title="MUSICA",Eska party tv 720p hd
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg/revision/latest?cb=20121023154708" group-title="MUSICA",Eska rocks 360p
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+
+ #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg/revision/latest?cb=20121023154708" group-title="MUSICA",Eska rocks tv hd
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d9/Eska_TV_logo.png/revision/latest?cb=20100930164532" group-title="MUSICA",Eska tv
+rtmp://stream.smcloud.net/live/eskatv
+
+#EXTINF:-1 tvg-logo="http://www.vertele.com/files/2015/12/LOGO-HIT-TV.jpg" group-title="MUSICA",Hit tv
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/sQKap6bxVug-fcUl50_A79NwzjbU9ju4jEIWcQyb_dB1ZOGz2m7Wto4UnCq70ImULqwk=w300" group-title="MUSICA",Vevo 3 SD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8?topcine
+
+#EXTINF:-1 tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" group-title="MUSICA",Tv Faap sp
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8  
+
+EXTINF:-1 tvg-logo="http://www.pointhits.com.br/wp-content/uploads/2015/03/Pointhits.png" group-title="MUSICA",Webtv clipes
+http://stmv1.srvstm.com/stmdemo/stmdemo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51bE%2B1DF24L.png" group-title="MUSICA",Indimusic Tv 
+rtmp://indimusic.tulix.tv:1935/livemulti/Stream1.stream swfUrl=http://swf.tulix.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/indimusictv/index-multi2.php
+
+#EXTINF:-1 tvg-logo="http://tivibox.tv/wp-content/uploads/2014/08/logo_grande.png" group-title="MUSICA",For Music tv
+rtmp://194.116.73.52/quartaretetv1/formusicweb
+
+#EXTINF:-1 tvg-logo="http://ttmusic.pt/wp-content/uploads/2015/04/AfroMusic-TT.png" group-title="MUSICA",Afro Music
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ipworldtv.tv/images/logos/logo_hdmusic.png" group-title="MUSICA",Hd Music Sd
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA",MiMusica Hd
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiofullmusic.com/gallery/musica_mundo-ts1433652902.png" group-title="MUSICA",TicoMusica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+ 
 
 
 
