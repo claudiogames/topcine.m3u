@@ -168,6 +168,23 @@ http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_400_av-p.m3u8
 http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.
 m3u8
 
+#EXTINF:-1 tvg-logo="https://img.discogs.com/eO6C-is08wKiYc7gvg2zQPBOTNI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3019729-1404725247-3518.jpeg.jpg" group-title="MUSICA",Dj Hits
+http://www.djing.com/tv/04.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.gmkfreelogos.com/logos/D/img/Dream_TV.gif" group-title="MUSICA",Dream Tv
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/328516503/EU_music_LOGO_b_w_small.jpg" group-title="MUSICA",Eu Music Brasil
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/FILMON_LOGO-main.png" group-title="MUSICA",Filmon Tv Rock
+http://198.179.31.197/live/311.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/288X218/CHN43FB_352.PNG" group-title="MUSICA",M6 Music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8 
+#EXTINF:-1 tvg-logo="http://www.onemusic.ph/img/OneMusicPH_OG-image.jpg" group-title="MUSICA",One Music 
+http://rtmp.one.by:1200
+
 #EXTINF:-1 tvg-id="MUSICA"tvg-logo="http://ajournalofmusicalthings.com/wp-content/uploads/Vevo-logo.png" group-title="MUSICA",VEVO HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 
