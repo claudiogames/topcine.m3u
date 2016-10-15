@@ -338,7 +338,7 @@ rtmp://208.53.180.218/ctv playpath=icarly swfUrl=http://www.carolineoliveira.com
 #EXTINF:-1 tvg-logo="http://theactionelite.com/site/wp-content/uploads/2013/10/supernatural-wallpaper-300x300.jpg" group-title="SERIES 24H",SUPERNATURAL
 rtmp://208.53.180.178/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
 
- #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/MFxau8ilEWM1QF2SXw6X0Fyvk1SaAN2ogyQA3iKRmrKCX-l1R-en2QJ71SBh8GFNX4lbdsQT=w300" group-title="SERIES 24H,Chuck
+ #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/MFxau8ilEWM1QF2SXw6X0Fyvk1SaAN2ogyQA3iKRmrKCX-l1R-en2QJ71SBh8GFNX4lbdsQT=w300" group-title="SERIES 24H",Chuck
 rtmp://208.53.180.218/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fqugJ3R4LNA/T2a5IyRt0EI/AAAAAAAABf0/Y7wFIfaAujA/s1600/chaves-seriado.jpg" group-title="SERIES 24H",CHAVES
