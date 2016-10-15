@@ -367,4 +367,38 @@ rtmp://208.53.180.178/ctv playpath=jaspion swfUrl=http://www.carolineoliveira.co
 #EXTINF:-1 tvg-logo="http://www.buteco.com.br/wp-content/uploads/2009/04/everybodyhateschris-1.jpg" group-title="SERIES 24H",Todo Mundo Odeia o Chris
 rtmp://208.53.164.194/ctv playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Td-N7UYZS10/WAJlSu0BTkI/AAAAAAAAPqg/efvEBQva_10ZqK9XCFFDDcMtM924gE_FACLcB/s1600/IMG_20161014_230837.jpg" group-title="MARVEL ANIMES",EXTRAS
+http://lista.m3y.m3u8
+
+#EXTINF:-1 tvg-id="MARVEL ANIMES"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep1
+http://media-br-am.crackle.com/1/h/h6/f9vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep2
+http://media-br-am.crackle.com/1/h/h6/e9vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep3
+http://media-br-am.crackle.com/1/h/h6/d9vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep4
+http://media-br-am.crackle.com/1/g/h6/c9vlf_480p.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep5
+http://media-br-am.crackle.com/1/g/h6/b9vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep6
+http://media-br-am.crackle.com/1/g/h6/a9vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep7
+http://media-br-am.crackle.com/1/g/h6/98vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep8
+http://media-br-am.crackle.com/1/f/h6/88vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep9
+http://media-br-am.crackle.com/1/f/h6/78vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sa8967fa341289aea/image/i215504da789ff104/version/1463009653/image.jpg" group-title="MARVEL ANIMES",M-A ep10
+http://media-br-am.crackle.com/1/f/h6/68vlf_480p.mp4
+
 
