@@ -323,3 +323,48 @@ rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.c
 #EXTINF:-1 tvg-logo="https://absolutamentelendarios.files.wordpress.com/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="DESENHOS 24H",O Maskara
 rtmp://208.53.180.218/ctv playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://aovivobrasil.com/tvamigos/maskara.html
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="SERIES 24H",USE O XMTV PLAYER
+bit.ly/TopCinetv
+
+#EXTINF:-1 tvg-id="SERIADOS 24H"tvg-logo="http://cdn02.cdn.justjaredjr.com/wp-content/uploads/headlines/2015/12/drake-josh-reunion-alec-medlock-scott-halberstadt.jpg" group-title="SERIES 24H",DRAKE E JOSH
+rtmp://208.53.180.178/ctv playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/drakejosh.html
+
+#EXTINF:-1 tvg-logo="http://i1.sndcdn.com/artworks-000092181571-wzo2vl-t300x300.jpg" group-title="SERIES 24H",UM MALUCO NO PEDAÇO
+rtmp://208.53.164.194/ctv playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/maluconopedaco.html
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sa8967fa341289aea/image/i781d66ad7c78514b/version/1462914411/image.png" group-title="SERIES 24H",Icarly
+rtmp://208.53.180.218/ctv playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/icarly.html
+
+#EXTINF:-1 tvg-logo="http://theactionelite.com/site/wp-content/uploads/2013/10/supernatural-wallpaper-300x300.jpg" group-title="SERIES 24H",SUPERNATURAL
+rtmp://208.53.180.178/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+
+ #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/MFxau8ilEWM1QF2SXw6X0Fyvk1SaAN2ogyQA3iKRmrKCX-l1R-en2QJ71SBh8GFNX4lbdsQT=w300" group-title="SERIES 24H,Chuck
+rtmp://208.53.180.218/ctv playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fqugJ3R4LNA/T2a5IyRt0EI/AAAAAAAABf0/Y7wFIfaAujA/s1600/chaves-seriado.jpg" group-title="SERIES 24H",CHAVES
+rtmp://208.53.180.218/ctv playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Grupo_UP_e_DOWN live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+
+ #EXTINF:-1 tvg-logo="http://nerdreactor.com/wp-content/uploads/2011/12/smallville-season-10-blu-ray-cover-500x500_c.jpg?8e8084" group-title="SERIES 24H",SmallVille
+ rtmp://208.53.164.194/ctv playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://www.carolineoliveira.com.br/tvamigos/small.html 
+
+
+ #EXTINF:-1 tvg-logo="http://supersublime.com.br/wp-content/uploads/2015/08/chapolin-logo.png" group-title="SERIES 24H",Chapolin
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDE2IDg6MDk6NTMgQU0maGFzaF92YWx1ZT1FS1kybkZZU1lpL3Y5RVVkZEVKQzNRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=chapolin swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chapolin.php
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-yyfUQZU4GGI/UdtaeLa0WgI/AAAAAAAAAIY/omNsoFZPwqs/s1600/untitled.png" group-title="SERIES 24H",Eu a Patroa e as Crianças
+rtmp://208.53.164.194/ctv playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?TopCine live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html 
+
+#EXTINF:-1 tvg-logo="http://tv-supernatural.ru/_ph/712/2/309651900.jpg" group-title="SERIES 24H",Supernatural
+rtmp://208.53.180.178/ctv playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://carolineoliveira.com.br/tvamigos/supernatural.html
+
+ #EXTINF:-1 tvg-logo="http://www.hans-zimmer.com/fr/mv/djawadi/prisonbreak_f.jpg" group-title="SERIES 24H",Prision Break
+rtmp://208.53.180.178/ctv playpath=prison  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://carolineoliveira.com.br/tvamigos/prisonbreak.html
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000004993894-0i8hw8-t500x500.jpg" group-title="SERIES 24H",Jaspion
+rtmp://208.53.180.178/ctv playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/jaspion.html
+
+
+#EXTINF:-1 tvg-logo="http://www.buteco.com.br/wp-content/uploads/2009/04/everybodyhateschris-1.jpg" group-title="SERIES 24H",Todo Mundo Odeia o Chris
+rtmp://208.53.164.194/ctv playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
+
+
