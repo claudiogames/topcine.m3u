@@ -119,7 +119,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i13d6fae77210e898/version/1465011039/image.jpg" group-title="ESPORTES",Euro Sports 2 es
 http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8?topcine
 
-EXTINF:-1 tvg-id="CANAIS RELIGIOSOS"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/id39e5ac91132132d/version/1465014791/image.jpg" group-title="CANAIS RELIGIOSOS",CANÇÃO NOVA SP [OPÇÃO 1]
+#EXTINF:-1 tvg-id="CANAIS RELIGIOSOS"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/id39e5ac91132132d/version/1465014791/image.jpg" group-title="CANAIS RELIGIOSOS",CANÇÃO NOVA SP [OPÇÃO 1]
 http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ia59412aa3f626693/version/1465014828/image.jpg" group-title="CANAIS RELIGIOSOS",REDE GENESIS
