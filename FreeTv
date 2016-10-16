@@ -165,8 +165,7 @@ http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_400_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ugLk99UrZvE/VBhXVDtOL1I/AAAAAAAADZk/bFXcHpooXkE/s1600/logo-rit.png" group-title="CANAIS RELIGIOSOS", RIT TV
-http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.
-m3u8
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.discogs.com/eO6C-is08wKiYc7gvg2zQPBOTNI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3019729-1404725247-3518.jpeg.jpg" group-title="MUSICA",Dj Hits
 http://www.djing.com/tv/04.m3u8 
