@@ -36,10 +36,10 @@ rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jpg" group-title="CANAIS ABERTOS",Rede TV http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ibca0acc26e26ab29/version/1465008136/image.jpg" group-title="CANAIS ABERTOS",Tv Cultura [OPÇÃO 1] 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i00802082899dfb94/version/1465008169/image.jpg" group-title="CANAIS ABERTOS",Tv Brasil[OPÇÃO 1] 
 http://200.189.113.201:80/hls/tve.m3u8 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ibca0acc26e26ab29/version/1465008136/image.jpg" group-title="CANAIS ABERTOS",TV CULTURA [OPÇÃO 2] 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i00802082899dfb94/version/1465008169/image.jpg" group-title="CANAIS ABERTOS",Tv Brasil [OPÇÃO 2] 
 http://200.189.113.201:80/hls/tve.m3u8 
 
 #EXTINF:-1 tvg-logo="http://www.seeddigital.com.br/wp-content/uploads/2015/07/logo14.jpg" group-title="CANAIS ABERTOS",Rede Globo 
