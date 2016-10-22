@@ -86,7 +86,7 @@ http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.
 http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/espn-brasil-500x500.jpg" group-title="ESPORTES",Espn Brasil
-http://31.204.152.6:8081/live/espnbr/playlist.m3u8 
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=iaQpmBBqm65aYnW91_QdCQ  
 
 #EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate 
 http://213.163.65.9:8081/live/combate/chunks.m3u8 
