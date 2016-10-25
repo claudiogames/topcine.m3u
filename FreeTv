@@ -365,6 +365,14 @@ rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.
  rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/two.html
 
 #EXTINF:-1 tvg-id="" tvg-logo="Todo-Mundo-Odeia-o-Chris.png" tvg-logo="http://goo.gl/5W6ClY" group-title="SERIES 24HRS",TD MUNDO ODEIA O CRIS HD 
+rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
+
+#EXTINF:-1 tvg-id="" tvg-logo="CHUCK.png" tvg-logo="http://goo.gl/MrqeZY" group-title="SERIES 24HRS",CHUCK HD 
+ rtmp://208.53.164.194/live/ playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
+
+#EXTINF:-1 tvg-id="" tvg-logo="Eu-a-Patroa-e-as-Criancas.png" tvg-logo="http://goo.gl/kuekyx" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS HD 
+ rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
+
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Td-N7UYZS10/WAJlSu0BTkI/AAAAAAAAPqg/efvEBQva_10ZqK9XCFFDDcMtM924gE_FACLcB/s1600/IMG_20161014_230837.jpg" group-title="MARVEL ANIMES",EXTRAS
