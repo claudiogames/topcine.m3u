@@ -322,7 +322,7 @@ rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.c
 #EXTINF:-1 tvg-logo="https://absolutamentelendarios.files.wordpress.com/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="DESENHOS 24H",O Maskara
 rtmp://208.53.180.218/ctv playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://aovivobrasil.com/tvamigos/maskara.html
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="SERIES 24H",USE O XMTV PLAYER
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="SERIES 24HRS",USE O XMTV PLAYER
 bit.ly/TopCinetv
 
 #EXTINF:-1 tvg-id="" tvg-logo="big-bang.png" tvg-logo="http://goo.gl/CM3jns" group-title="SERIES 24HRS",BIG BAMG 
@@ -372,6 +372,13 @@ rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="Eu-a-Patroa-e-as-Criancas.png" tvg-logo="http://goo.gl/kuekyx" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS HD 
  rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fqugJ3R4LNA/T2a5IyRt0EI/AAAAAAAABf0/Y7wFIfaAujA/s1600/chaves-seriado.jpg" group-title="SERIES 24HRS",CHAVES 
+rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000004993894-0i8hw8-t500x500.jpg" group-title="SERIES 24HRS",Jaspion 
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
+
 
 
 
