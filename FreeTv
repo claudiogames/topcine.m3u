@@ -307,6 +307,16 @@ rtmp://208.53.164.194/live/ playpath=jackie swfUrl=http://www.carolineoliveira.c
 #EXTINF:-1 tvg-id="" tvg-logo="maskara.jpg" tvg-logo="http://goo.gl/RWeQFt" group-title="DESENHOS 24HRS",MASKARA 
 rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/maskara.html
 
+#EXTINF:-1 tvg-id="" tvg-logo="Naruto.png" tvg-logo="http://goo.gl/FmLOFI" group-title="DESENHOS 24HRS",NARUTO 
+rtmp://208.53.164.194/live/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/naruto.html
+
+#EXTINF:-1 tvg-id="" tvg-logo="Pica-Pau.png" tvg-logo="http://goo.gl/l56Ajm" group-title="DESENHOS 24HRS",PICA PAU 
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html
+
+#EXTINF:-1 tvg-id="" tvg-logo="Scooby-Doo.png" tvg-logo="http://goo.gl/6mCK9N" group-title="DESENHOS 24HRS",SCOOBYDOO 
+rtmp://208.53.164.194/live/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/scooby.html
+
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="SERIES 24HRS",USE O XMTV PLAYER
 bit.ly/TopCinetv
