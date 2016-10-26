@@ -283,7 +283,7 @@ http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
  http://163.172.41.91:8081/loadbalance/canal-nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjE2OjQwIFBNJmhhc2hfdmFsdWU9clZmZkhhNEhQY05BM0NEYTJ1b296UT09JnZhbGlkbWludXRlcz0yMA== 
                                                      
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/a8/a7/f8/a8a7f86247f8dfed300fa62bda462cdb.jpg"group-title="INFANTIL",Nick Jr  
-http://192.99.148.73:8080/live/directv/maoe12/87.m3u8
+http://163.172.41.217:8081/loadbalance/canal-nick-jr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjI0OjE5IFBNJmhhc2hfdmFsdWU9KzZXV0J0b3IvOTF5bGV3MUJaLzEzdz09JnZhbGlkbWludXRlcz0yMA== 
 
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",Gloob
 http://192.99.148.73:8080/live/directv/maoe12/81.m3u8
