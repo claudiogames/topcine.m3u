@@ -279,8 +279,8 @@ http://31.204.152.6:8081/live/disney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-ElwZc-hojPY/AAAAAAAAAAI/AAAAAAAAAC0/NBLCDy0tFFQ/photo.jpg" group-title="INFANTIL",Discovery Kids
 http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i1301.photobucket.com/albums/ag113/mmtoys2013/nickelodeon.jpg" group-title="INFANTIL",Nick                      
-http://192.99.148.73:8080/live/directv/maoe12/83.m3u8 
+#EXTINF:-1 tvg-logo="http://i1301.photobucket.com/albums/ag113/mmtoys2013/nickelodeon.jpg" group-title="INFANTIL",Nick On                     
+ http://163.172.41.91:8081/loadbalance/canal-nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjE2OjQwIFBNJmhhc2hfdmFsdWU9clZmZkhhNEhQY05BM0NEYTJ1b296UT09JnZhbGlkbWludXRlcz0yMA== 
                                                      
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/a8/a7/f8/a8a7f86247f8dfed300fa62bda462cdb.jpg"group-title="INFANTIL",Nick Jr  
 http://192.99.148.73:8080/live/directv/maoe12/87.m3u8
