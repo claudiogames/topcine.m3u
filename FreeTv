@@ -263,10 +263,10 @@ http://31.204.152.6:8081/live/megapix/playlist.m3u8
 http://192.99.148.73:8080/live/directv/maoe12/27.m3u8 
 
 #EXTINF:-1 tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-2-Logo.jpg" group-title="FILMES E SERIES",Hbo 2
-http://192.99.148.73:8080/live/directv/maoe12/15.m3u8 
+http://163.172.41.217:8081/loadbalance/canal-hbo-2-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjM3OjQ1IFBNJmhhc2hfdmFsdWU9bTN0bzVmNVNMayt5QVJqZjFmNGlzZz09JnZhbGlkbWludXRlcz0yMA==  
 
 #EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_Family.png" group-title="FILMES E SERIES",Hbo Family
-http://163.172.41.217:8081/loadbalance/canal-hbo-2-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjM3OjQ1IFBNJmhhc2hfdmFsdWU9bTN0bzVmNVNMayt5QVJqZjFmNGlzZz09JnZhbGlkbWludXRlcz0yMA==  
+http://163.172.41.91:8081/loadbalance/canal-hbo-family-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjQxOjQ3IFBNJmhhc2hfdmFsdWU9S0kydVBqWUs3MjhQM2l6WmtqTnowQT09JnZhbGlkbWludXRlcz0yMA==   
 
 
 
