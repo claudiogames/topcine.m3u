@@ -17,6 +17,8 @@ http://listaredenet.m3u
 #EXTINF:-1 tvg-logo="http://www.conversadeempreendedor.com.br/wp-content/uploads/2014/10/Como-montar-um-Blog-no-Blogger.png" group-title="INFORMAÇÃO",AreaKody.blogspot.com
 Http:lifjdjd.m3u
 
+#EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="EM ALTA",Twd 1x7-Dub Lançamentos
+http://transforrede.com/vd/dd/RC/RCServer11/ondemand/TWDS07EP01HD.mp4
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4Rvb7JMu7mc/V63LPgZd4PI/AAAAAAAAPc0/8yXNW-E1y1AOeuW71c01KtDkQpKWtih5wCLcB/s280/IMG_20160812_101135.jpg"group-title="CANAIS ABERTOS",》CANAIS ABERTOS 
 http://listaiptvredenet.m3u 
