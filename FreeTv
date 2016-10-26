@@ -384,6 +384,45 @@ rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.c
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000004993894-0i8hw8-t500x500.jpg" group-title="SERIES 24HRS",Jaspion 
 rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://aovivobrasil.com/tvamigos/jaspion.html
 
+#EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x1-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP01.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x2-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP02.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x3-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP03.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x4-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP04.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x5-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP05.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x6-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP06.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x7-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP07.mp4 
+ 
+#EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x8-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP08.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x9-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP09.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x10-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP10.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x11-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP11.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x12-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP12.mp4 
+
+ #EXTINF:-1 tvg-logo="http://www.scifimoviepage.com/wp-content/uploads/2015/06/The-Walking-Dead-Season-5.jpg" group-title="THE WALKING DEAD",Twd 2x13-Dub 
+http://transfvanila1.com/videos/RedeCanais/RCServer01/videos/TWDT02EP13.mp4 
+
 
 
 
