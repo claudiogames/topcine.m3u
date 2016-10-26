@@ -266,7 +266,7 @@ http://192.99.148.73:8080/live/directv/maoe12/27.m3u8
 http://192.99.148.73:8080/live/directv/maoe12/15.m3u8 
 
 #EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_Family.png" group-title="FILMES E SERIES",Hbo Family
-http://192.99.148.73:8080/live/directv/maoe12/17.m3u8 
+http://163.172.41.217:8081/loadbalance/canal-hbo-2-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjM3OjQ1IFBNJmhhc2hfdmFsdWU9bTN0bzVmNVNMayt5QVJqZjFmNGlzZz09JnZhbGlkbWludXRlcz0yMA==  
 
 
 
