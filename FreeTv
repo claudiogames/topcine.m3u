@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/x/cone-da-informao-17480059.jpg" group-title="INFORMAÇÃO",INFORMAÇÕES
-http://lista.m3u
+http://127.0.0.1:4443/MkBQGRRb/Chuck%20ep1video.mp4 
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-P5RexBRJ4Cw/V_-T2DVDIsI/AAAAAAAAPqM/PFEsMixYS1UgklTO7jTyR0TTj_taFg-4wCLcB/s280/IMG_20160928_233426.jpg" group-title="INFORMAÇÃO",Lista FreeTvBr
