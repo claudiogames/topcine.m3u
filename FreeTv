@@ -259,7 +259,7 @@ rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com
 http://31.204.152.6:8081/live/megapix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="live://edge.mdcgate.com", group-title="FILMES E SERIES",Fox
- http://163.172.41.91:8081/loadbalance/canal-fox-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxNiA1OjA5OjU0IFBNJmhhc2hfdmFsdWU9K3pZMTVpY25iNE4xWUV4MiszLytQZz09JnZhbGlkbWludXRlcz0yMA== 
+ http://5.63.150.84:8088/adfree/twdaovivo/playlist.m3u8?id=64839&pk=bc7b1da538f53d02bc327ed3ad7807a945845bea7601acd065b2c176fca5acfe  
 
 
 
