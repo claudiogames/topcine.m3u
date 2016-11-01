@@ -258,3 +258,92 @@ rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.
 
 #EXTINF:-1 tvg-logo="http://goo.gl/TVjjbc",[COLOR lawngreen][B]DRAGON BALL Z[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
 rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][B]                             [SERIES 24HRS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://goo.gl/CM3jns",[COLOR lawngreen][B]BIG BANG A TEORIA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5W6ClY",[COLOR lawngreen][B]TODO MUNDO ODEIA O CHRIS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/LNwXaV",[COLOR lawngreen][B]CHAVES[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.180.242/ctv playpath=chaves  swfUrl=http://www.carolineoliv
+rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/kuekyx",[COLOR lawngreen][B]EU A PATROA E AS CRIANÇAS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5XT0Wg",[COLOR lawngreen][B]CSI[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/csi.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/kQWCwf",[COLOR lawngreen][B]ICARLY[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/icarly.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/D4g3lg",[COLOR lawngreen][B]LOST[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/lost.html
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR coral][B]                             [FILMES ONLINE][/B][/COLOR]
+http://
+
+EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2016/05/capa-8.jpg",[COLOR lawngreen] O REI MACACO 2: A LENDA CONTINUA[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/OREIMC2LEG.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/10/22/25/100171.jpg",[COLOR lawngreen] CAÇA-FANTASMAS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2016.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/10/22/25/100171.jpg",[COLOR lawngreen] CAÇA-FANTASMAS[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2016LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/1Lr5Fh4MHQAvOLggewrxSIjekQo=/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/10/the-white-haired-witch-of-lunar-kingdom_t109164_3.jpg",[COLOR lawngreen] 3D - A BRUXA DO CABELO BRANCO DO REINO LUNAR[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ABRXDCBLBRNCRNLNR.mp4
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hHppYCspB4o/V-ayk7MR3LI/AAAAAAAAaaQ/l046V_TAuHcuKsR_6zASbQJRB3YEsi0xQCLcB/s320/A%2BLenda%2Bde%2BTarzan%2B-%2BCapa%2BFilme%2BDVD%2B%2528Copy%2529.jpg",[COLOR lawngreen] A LENDA DE TARZAN[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ALNDETRZN.mp4
+
+
+#EXTINF:-1 tvg-logo="http://grupoautentica.com.br/img/capas/x/1358-20160504171458.jpg",[COLOR lawngreen] INDEPENDENCE DAY: O RESSURGIMENTO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4
+
+#EXTINF:-1 tvg-logo="http://grupoautentica.com.br/img/capas/x/1358-20160504171458.jpg",[COLOR lawngreen] INDEPENDENCE DAY: O RESSURGIMENTO[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/INDPNDAYORSGMNTLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2016/07/gelo5poster.jpg",[COLOR lawngreen] A ERA DO GELO: O BIG BANG[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/AERDGLOBB.mp4
+
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/2/0/5/7/5/220575-deadpool-0-230-0-345-crop.jpg?k=bdc79b669a",[COLOR lawngreen] DEADPOOL[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/DEADPLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/filer_public/ff/a0/ffa0e50a-475d-4222-99a3-594a8c9c2716/tartarugas-04.jpg",[COLOR lawngreen] AS TARTARUGAS NINJA: FORA DAS SOMBRAS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ASTARTGUSNJSFRDSSMBRS.mp4
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53f3c12de4b03c2842de21be/56400cd7e4b0e65bf79acf91/57cc37be5016e1462159e918/1473001415149/marauders-2016-01.jpg?format=1500w",[COLOR lawngreen] ASSALTO AO PODER[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ASLTOAOPDR.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/se5fYMnvkL2cHDJyggNT-vrcZeQ=/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/07/uma-noite-de-aventuras_t196553.jpeg",[COLOR lawngreen] UMA AVENTURA DE BABAS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/UMAVNTRDBABS.mp4
+
+#EXTINF:-1 tvg-logo="http://www.jardimnorte.com.br/conteudo/_generated/c7d9d73c/anexo/PETS-A-VIDA-SECRETA-DOS-BICHOS.jpg",[COLOR lawngreen] PETS: A VIDA SECRETA DOS BICHOS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/PETSAVSDBS.mp4
+
+#EXTINF:-1 tvg-logo="http://www.themediafire.net/wp-content/uploads/2016/08/Invoca%C3%A7%C3%A3o-do-Mal-2.jpg",[COLOR lawngreen] INVOCACAO DO MAL 2[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/INVCAODML2.mp4
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/rfKD77k2Q4PtveA6nbDkx1RipLc=/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/07/perdiendo-el-norte_t98138.jpg",[COLOR lawngreen] DESNORTEADOS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/DESNRTAD.mp4
+
+#EXTINF:-1 tvg-logo="https://www.videociety.de/imgcache/7D/7D0AFB6BABF49E305FF67C24A7F1F1B54A9EAB21_fc_bd_big.jpg",[COLOR lawngreen] BARBIE: AVENTURA NAS ESTRELAS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/15/22/40/327086.jpg",[COLOR lawngreen] ALICE ATRAVÉS DO ESPELHO[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ALCATRVSDESLHOLEGN.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w396/tTkI8RfbKrMDgFUX3wYGQl9pwQB.jpg",[COLOR lawngreen] MOGLI: O MENINO LOBO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/MGLOMENLB.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/02/21/30/273982.jpg",[COLOR lawngreen] MENTE CRIMONOSA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/MENTCRMINSA.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/16/21/50/048517.jpg",[COLOR lawngreen] HARDCORE: MISSÃO EXTREMA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
