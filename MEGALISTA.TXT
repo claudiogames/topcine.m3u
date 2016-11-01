@@ -74,3 +74,92 @@ http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/app
 
 #EXTINF:-1 tvg-logo="http://i123.photobucket.com/albums/o305/valmir77/vemevetv.jpg",[COLOR lawngreen][B]VEM E VE TV[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
 http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR coral][B]                             [ESPORTES][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://victormiranda7.files.wordpress.com/2012/04/bandsports.jpg",[COLOR lawngreen][B]BAND SPORTS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/072015/beinsportsconncet_logo_0.png?itok=oZegXCmt",[COLOR lawngreen][B]BEIN SPORTS 1 HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/1228.ts
+
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg",[COLOR lawngreen][B]EI MAXX[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg",[COLOR lawngreen][B]EI MAXX 2[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/espn-brasil-500x500.jpg",[COLOR lawngreen][B]ESPN BRASIL[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://213.163.65.9:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/iee68237c0613ea3a/version/1465009849/image.jpg", [COLOR lawngreen][B]FOX SPORTS [/B][\COLOR][COLOR gold][B] ON[/B][/COLOR]
+http://213.163.65.9:8081/live/foxsport/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QJW031uw7tk/Vm7OqJI_JCI/AAAAAAAAC4c/YsMLd-TSJBY/s1600/euro-sport.jpg",[COLOR lawngreen][B]EUROSPORT[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1 tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png",[COLOR lawngreen][B]REAL MADRID TV[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/502481550437388288/lFsNcBDR.png",[COLOR lawngreen][B]SKY SPORT[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://beout-iptv.com:7777/live/qLxBSawoeO/xt7EpTI147/232.m3u8
+
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/S/sportv-logo-EE99497E46-seeklogo.com.gif",[COLOR lawngreen][B]SPORTV[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://213.163.65.9:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-_E9k0o_ikXw/AAAAAAAAAAI/AAAAAAAAAAA/u7MedbNTchw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR lawngreen][B]FISH TV[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://gbbrlive2.sambatech.com.br:80/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telecom.pt/SiteCollectionImages/media/noticias/2016/maio/kombat-sport-chega-ao-meo.png",[COLOR lawngreen][B]KOMBAT[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://198.179.31.197/live/3251.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg",[COLOR lawngreen][B]COMBATE(BR)[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://213.163.65.9:8081/live/combate/chunks.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR coral][B]                             [EVANGELICOS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/id39e5ac91132132d/version/1465014791/image.jpg",[COLOR lawngreen][B]CANCAO NOVA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/675441084/redegospel_tv_400x400.jpg",[COLOR lawngreen][B]REDE GOSPEL[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8 
+
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2015/05/rede-vida.jpg",[COLOR lawngreen][B]REDE VIDA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-yFfCf3KfMQA/UzeD5rPXpUI/AAAAAAAAh50/z2Eak_nTLQ4/s1600/tv_aparecida.png",[COLOR lawngreen][B]TV APARECIDA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-h-PNgpEWYiM/AAAAAAAAAAI/AAAAAAAAAAA/qLLBud48UNo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR lawngreen][B]TV NOVO TEMPO[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR coral][B]                             [FILMES/SERIES][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112153948-megapix-hd.png",[COLOR lawngreen][B]MEGAPIX[/B][/COLOR][COLOR gold][B] ON [/B][/COLOR]
+http://31.204.152.6:8081/live/megapix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="live://edge.mdcgate.com",[COLOR lawngreen][B]FOX[/B][/COLOR][COLOR gold][B] ON[/B][/COLOR]
+live://edge.mdcgate.com
+
+#EXTINF:-1 tvg-logo="http://images.all-free-download.com/images/graphiclarge/telecine_142395.jpg",[COLOR lawngreen][B]TELECINE[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.152.6:8081/live/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR coral][B]                             [INFANTIS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR lawngreen][B]CARTOON NETWORK[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.152.6:8081/live/cartoonk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715893884132462594/z1I0m6El.jpg",[COLOR lawngreen][B]DISCOVERY KIDS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/335/15BFD8FA0AFF289B11E235546BDDCCB3/disneychannel.png",[COLOR lawngreen][B]DISNEY CHANNEL[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://31.204.152.6:8081/live/disney/playlist.m3u8
+
