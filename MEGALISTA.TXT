@@ -163,3 +163,98 @@ http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/335/15BFD8FA0AFF289B11E235546BDDCCB3/disneychannel.png",[COLOR lawngreen][B]DISNEY CHANNEL[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
 http://31.204.152.6:8081/live/disney/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][B]                             [MUSICAIS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/581384485519921152/mqoXATjw.jpg",[COLOR lawngreen][B]1HD MUSIC[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.discogs.com/UYCJV-2NVhol-mPbB8zh_ntXY7g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6464966-1426822605-2562.jpeg.jpg",[COLOR lawngreen][B]DJ HITS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://www.djing.com/tv/04.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/image1.png",[COLOR lawngreen][B]DREAM TV[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pp.vk.me/c624819/v624819025/2cff8/I7VJFhhdc0Y.jpg",[COLOR lawngreen][B]EU MUSIC BRASIL[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/755308717697069056/t2LxXmYx.jpg",[COLOR lawngreen][B]M6 MUSIC[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/578672386721099776/GhYXu5uh.png",[COLOR lawngreen][B]ONE 0[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://rtmp.one.by:1200
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/578672386721099776/GhYXu5uh.png",[COLOR lawngreen][B]ONE 1 HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://rtmp.one.by:1300
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png",[COLOR lawngreen][B]ONE 4 HD[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-logo="http://iconwallstickers.co.uk/media/catalog/product/2-Jpegs/rock-n-roll-wall-art-sticker-67.jpg",[COLOR lawngreen][B]ROCK 'N ROLL[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://198.179.31.197/live/2942.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png",[COLOR lawngreen][B]VIRGIN TV[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR coral][B]                             [NOTICIAS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/f2/ab/ac/f2abac5dfe2ed2610665267925102479.jpg",[COLOR lawngreen][B]ABC NEWS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.ipa4fun.com/27/42/93/364147881-logo.jpg",[COLOR lawngreen][B]BBC WORLD NEWS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://fontmeme.com/images/Bloomberg-Television-Logo.jpg",[COLOR lawngreen][B]BLOOMBERG TV[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8
+
+#EXTINF:-1 tvg-logo="http://westsidetoday.com/wp-content/uploads/2014/11/cdn.tvlia_.com_.files_.2011.01.logo-de-la-cbs.png",[COLOR lawngreen][B]CBS NEWS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Euronews_logo.svg",[COLOR lawngreen][B]EURONEWS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][B]                             [DOCUMENTARIO][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0031_natgeo.png",[COLOR lawngreen][B]NATGEO(LEG)[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1690.ts
+
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d6/History_Channel_2015_logo.jpg/revision/latest?cb=20150531212611",[COLOR lawngreen][B]HISTORY(LEG)[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1706.ts
+
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/5028/brand.gif?itok=XCNQ6qLT",[COLOR lawngreen][B]A&E(LEG)[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1711.ts
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][B]                             [DESENHOS 24HRS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://goo.gl/C5i8P8",[COLOR lawngreen][B]BEM 10[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/ben10.html
+
+#EXTINF:-1 tvg-logo="http://www.comoaprenderdesenhar.com.br/wp-content/uploads/2015/10/como-desenhar-os-simpsons-846x814.jpg",[COLOR lawngreen][B]OS SIMPSONS[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/86/9a/6f/869a6fff53b5a75afd888a5f1deabf3c.jpg",[COLOR lawngreen][B]SCOOBY-DOO[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/scooby.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/9BFXFE",[COLOR lawngreen][B]CAVERNA DO DRAGÃO[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/caverna.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/l56Ajm 
+",[COLOR lawngreen][B]PICA PAU[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/picapau.html
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tkoc/images/3/3f/Tom-and-jerry-logo.jpg/revision/latest?cb=20130730140319&path-prefix=pt-br",[COLOR lawngreen][B]TOM E JERRY[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/RWeQFt",[COLOR lawngreen][B]O MASKARA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/maskara.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/buWyMn",[COLOR lawngreen][B]BOB ESPONJA[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://www.carolineoliveira.com.br/tvamigos/bobesponja.html
+
+#EXTINF:-1 tvg-logo="http://goo.gl/TVjjbc",[COLOR lawngreen][B]DRAGON BALL Z[/B][/COLOR][COLOR gold][B]  ON[/B][/COLOR]
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http
