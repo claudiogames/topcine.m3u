@@ -27,7 +27,8 @@ http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg",[COLOR lawngreen][B]SBT[/B][/COLOR][COLOR yellow][B]  ON[/B][/COLOR]
 http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg",[COLOR lawngreen][B]SBT[/B][/COLOR][COLOR yellow][B]  ON[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/versi
+on/1465005969/image.jpg",[COLOR lawngreen][B]SBT[/B][/COLOR][COLOR yellow][B]  ON[/B][/COLOR]
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.seeddigital.com.br/wp-content/uploads/2015/07/logo14.jpg",[COLOR lawngreen][B]GLOBO[/B][/COLOR][COLOR yellow][B]  ON[/B][/COLOR]
@@ -347,3 +348,123 @@ http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/MENTCRMINSA.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/16/21/50/048517.jpg",[COLOR lawngreen] HARDCORE: MISSÃO EXTREMA[/COLOR][COLOR gray] DUB[/COLOR]
 http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-d2Jo6_RFMl4/V5u8-6BcpVI/AAAAAAAABCU/m4qOQJCDJj08k7H8LAXXgmpXXmceSONngCLcB/s400/Frankenstein%2B%25E2%2580%2593%2BDublado%2B%25E2%2580%2593%2B2016.jpg",[COLOR lawngreen] FRANKENSTEIN[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/FRNKSTEN.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-bhHEBlEm1Ks/V7HIuaFsIAI/AAAAAAAAAic/Rcl7X-fdjg8CrNAWLvwPnodZtwpK7m9dgCLcB/s1600/never.jpg",[COLOR lawngreen] ELE NUNCA MORRE[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ELENCMRR.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/07/09/16/27/398352.jpg",[COLOR lawngreen] DEUS NÃO ESTÁ MORTO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/DSNESTMRT.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cinemariopreto.com.br/assets/img/filmes/filme2002_cp.jpg",[COLOR lawngreen] DEUS NÃO ESTÁ MORTO 2[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/DSNESTMRT2.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/mi9J0NUUZCcv_JPBowHj_xSbJi0=/s.glbimg.com/jo/g1/f/original/2015/11/25/poster.jpg",[COLOR lawngreen] CAPITÃO AMÉRICA: GUERRA CIVIL[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/CAPTAMRC3LEG.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/02/22/15/04/196967.jpg",[COLOR lawngreen] A SÉRIE DIVERGENTE: CONVERGENTE[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-0dPDnT7tZis/V5kNCtB3SGI/AAAAAAAABfw/nEXvShcJqj4MqXTAwABn0EqgvqR5Bj_VACLcB/s1600/Baixar%2BA%2BProcura%2Bda%2BLiberdade%2B%25282016%2529%2BDublado%2BTorrent.jpg",[COLOR lawngreen] À PROCURA DA LIBERDADE[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/APRCURDLBRD.mp4
+
+#EXTINF:-1 tvg-logo="https://media.pathe.nl/nocropthumb/620x955/gfx_content/posters/triple_9_43008801_ps_1_s-high.jpg",[COLOR lawngreen] TRIPLE 9[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/TRPL9.mp4
+
+#EXTINF:-1 tvg-logo="http://www.usabit.com/wp-content/uploads/2016/02/rsz_diablo-30sz0thul2hjikms44vbi8.jpg",[COLOR lawngreen] DIABLO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/DIABLODUB.mp4
+
+#EXTINF:-1 tvg-logo="http://img1.ak.crunchyroll.com/i/spire3/deaf323b7654b1e9d6a63b9dfb1ae8cc1356541779_full.jpg",[COLOR lawngreen] LOVE LIVE! SCHOOL IDOL PROJECT MOVIE[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/LOVLVTSCHLIDLMV.mp4
+
+#EXTINF:-1 tvg-logo="http://www.metropolitanshoppingbetim.com.br/uploads/filme/567bf7ed18e0b1.69262288.jpg",[COLOR lawngreen] ATÉ QUE A SORTE NOS SEPARE 3[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/ATQASRTNSPR3.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2015/12/Hotel-Transilvania-2.jpg",[COLOR lawngreen] HOTEL TRANSILVÂNIA 2[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/HOTLTRNSVLNA2.mp4
+
+#EXTINF:-1 tvg-logo="http://baixakifilmes.net/wp-content/uploads/2016/01/The-Ridiculous-6-Baixaki-Filmes.jpg",[COLOR lawngreen] THE RIDICULOUS 6[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/THRDCULOS6.mp4
+
+#EXTINF:-1 tvg-logo="http://imgc.allpostersimages.com/images/P-473-488-90/55/5578/491VG00Z/posters/south-park-maior-melhor-e-sem-cortes.jpg",[COLOR lawngreen] SOUTH PARK: MAIOR, MELHOR E SEM CORTES[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCServer01/videos/STHPRKFILME01.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/92/12/47/20181896.jpg",[COLOR lawngreen] OS SIMPSONS: O FILME[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCServer01/videos/OSMPSFILME.mp4
+
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/12/19/17/48/225645.jpg",[COLOR lawngreen] BOB ESPONJA: UM HERÓI FORA D'ÁGUA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer1/ondemand/BOBESPJUHRFRDGUA.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn.cinepop.com.br/2015/05/ted2-poster2705.jpg",[COLOR lawngreen] TED 2[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/TED2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.imagemfilmes.com.br/resources/capas/164464_000_p.jpg",[COLOR lawngreen] O ENCONTRO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/OENCTRO.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2016/01/thumbs/a-viatura_t99583_UJ3gTxW_jpg_290x478_upscale_q90.jpg",[COLOR lawngreen] A VIATURA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer1/ondemand/AVIATURA.mp4
+
+#EXTINF:-1 tvg-logo="http://www.garotaagridoce.com/wp-content/uploads/2015/10/estagi%C3%A1rio.jpg",[COLOR lawngreen] UM SENHOR ESTAGIÁRIO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/UMSNHRESTGIARIO.mp4
+
+#EXTINF:-1 tvg-logo="http://themontclarion.org/montclarion/wp-content/uploads/2015/11/The_33_film_poster-2.jpg",[COLOR lawngreen] OS 33[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/OS33.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/12/thumbs/angry-birds-o-filme_t68828_LPdqJF6_jpg_290x478_upscale_q90.jpg",[COLOR gold] ANGRY BIRDS - O FILME[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/12/thumbs/angry-birds-o-filme_t68828_LPdqJF6_jpg_290x478_upscale_q90.jpg",[COLOR gold] ANGRY BIRDS - O FILME[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/ANGRYBRDSFLMLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://www.sobrelivros.com.br/sobrelivros/wp-content/uploads/2016/04/CAPA-Warcraft.png",[COLOR gold] WARCRAFT: O PRIMEIRO ENCONTRO DE DOIS MUNDOS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer3/ondemand/WARCRFT.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/11/thumbs/deuses-do-egito_t80362_ClaEu6Y_jpg_290x478_upscale_q90.jpg",[COLOR gold] DEUSES DO EGITO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/DEUSDEGTO.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dddMs71BNjmkzvmpSrMdcrKYXZR.jpg",[COLOR gold] DOCE VINGANÇA 3: A VINGANÇA É MINHA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/DCVNGCA3.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/11/thumbs/a-serie-divergente-convergente_t97167_PBo4458_jpg_290x478_upscale_q90.jpg",[COLOR gold] A SÉRIE DIVERGENTE: CONVERGENTE[/COLOR][COLOR gray] LEG[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/ASREDVRGNTCNVGNTLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/15/22/40/327086.jpg",[COLOR gold] ALICE ATRAVÉS DO ESPELHO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/ALCATRVSDESLHO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2016/03/Voltando-do-Inferno-200x300.jpg",[COLOR gold] VOLTANDO DO INFERNO[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/VLTNDINF.mp4
+
+#EXTINF:-1 tvg-logo="http://topfilmesonlinehd.com/wp-content/uploads/2015/07/Vingadores-2.jpg",[COLOR gold] VINGADORES: ERA DE ULTRON[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer1/ondemand/VNGDRSEDURON.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/05/06/15/31/443417.jpg",[COLOR gold] HOMEM-FORMIGA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/HMNFRMG.mp4
+
+#EXTINF:-1 tvg-logo="http://ilovefilmesonline.com/wp-content/uploads/2015/06/iLove-Minions1.jpg",[COLOR gold] MINIONS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/MINIONS.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wpudU8dmi-4/U0_vFzTFhvI/AAAAAAAAI8s/avfCzHihfiY/s1600/Velozes+e+Furiosos+7.jpeg",[COLOR gold] VELOZES & FURIOSOS 7[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS07.mp4
+
+#EXTINF:-1 tvg-logo="http://www.sonypictures.com/movies/pixels/assets/images/onesheet.jpg",[COLOR gold] PIXELS - O FILME[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer1/ondemand/PIXRLS.mp4
+
+#EXTINF:-1 tvg-logo="http://static.fnac-static.com/multimedia/Images/PT/NR/04/45/0d/869636/1507-1.jpg",[COLOR gold] DIVERTIDA MENTE[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/DVRTDMNT.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/14/11/14/13/47/211678.jpg",[COLOR gold] CINQUENTA TONS DE CINZA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/r_640_600/b_1_d6d6d6/pictures/15/09/18/19/45/208009.jpg",[COLOR gold] O ÚLTIMO CAÇADOR DE BRUXAS[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/OULTMCADRDBRXDUB.mp4
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2016/03/Alvin-e-os-Esquilos-Na-Estrada.jpg",[COLOR gold] ALVIN E OS ESQUILOS: NA ESTRADA[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UM1MefOnmh34trY6aCa1C-JJUJH76JhM0JdUUWlebYTX=w404-h593-no",[COLOR gold] TOMORROWLAND: UM LUGAR ONDE NADA É IMPOSSÍVEL[/COLOR][COLOR gray] DUB[/COLOR]
+http://transforrede.com/vd/dd/RC/RCFServer2/ondemand/TOMROWLND.mp4
+
+
