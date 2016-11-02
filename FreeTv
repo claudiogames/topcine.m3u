@@ -33,7 +33,7 @@ http://listaiptvredenet.m3u
 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue]SBT NORDESTE[/COLOR]
-rtmp://187.18.187.5/livepkgr/nordestv1 
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
 
 
 
