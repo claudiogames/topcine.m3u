@@ -300,7 +300,7 @@ rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com
 #EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112153948-megapix-hd.png" group-title="FILMES E SERIES",MegaPix
 http://31.204.152.6:8081/live/megapix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="live://edge.mdcgate.com", group-title="FILMES E SERIES",Fox
+#EXTINF:-1 tvg-logo="live://edge.mdcgate.com", group-title="FILMES E SERIES"Fox
  http://tinyurl.com/jz4bmb6  
 
 
