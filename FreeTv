@@ -78,6 +78,49 @@ http://200.189.113.201:80/hls/tve.m3u8 
 http://200.189.113.201:80/hls/tve.m3u8 
 
 
+#EXTINF:-1 tvg-logo="http://www.seeddigital.com.br/wp-content/uploads/2015/07/logo14.jpg" group-title="CANAIS ABERTOS",[COLOR blue]GLOBO ON[/COLOR]
+http://31.204.128.104:8081/live/sptv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",[COLOR blue]RECORD[/COLOR]
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4--HbdSkrUg/VOfDU36_1XI/AAAAAAAAxrk/DU0yZQPWTB8/s1600/tv%2Bdi%C3%A1rio%2Blogo%2B2015.jpg"group-title="CANAIS ABERTOS",[COLOR blue]TV DIARIO[/COLOR]
+ http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ie7b656af8defbf74/version/1465008226/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue]TV ESCOLA[/COLOR]
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",[COLOR blue]BAND[/COLOR]
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",[COLOR blue]BAND MP[/COLOR]
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i6403ac6b58b9e7a7/version/1465008260/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue]TV FUTURA[/COLOR]
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8WPl1z" group-title="Canais BR" tvg-name="CANAIS ABERTOS",[COLOR blue]TV UP [/COLOR]
+ http://69.46.0.170:1935/tvup/tvup.stream/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1IqUfxr.png" group-title="CANAIS ABERTOS",[COLOR blue]LIVRE TV[/COLOR]
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HtOWbJq.png" group-title="CANAIS ABERTOS",[COLOR blue]MASTER TV [/COLOR]
+rtmp://wowza.catve.com.br/live2/livestream 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YOfUvNM.jpg" group-title="CANAIS ABERTOS",[COLOR blue]RCTV[/COLOR]
+http://flash1.crossdigital.com.br/491/491/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CXchIJi.png" group-title="CANAIS ABERTOS",[COLOR blue]TV GERAL[/COLOR]
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",[COLOR blue]TV GERAL 1[/COLOR]
+http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",[COLOR blue]TV GERAL RECIFE[/COLOR]
+http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8 
+
+
 
 
 
