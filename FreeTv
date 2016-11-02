@@ -26,13 +26,6 @@ http://listaiptvredenet.m3u
 
 
 
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",Record(TvVitoria)
-http://kalseglive-a.
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="CANAIS ABERTOS",TV Jornal Recife 
-http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-recife-video-web.sdp/live.m3u8 
-
 #EXTINF:-1 tvg-logo="https://victormiranda7.files.wordpress.com/2012/04/bandsports.jpg" group-title="ESPORTES",Band Esportes
 http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8 
 
