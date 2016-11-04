@@ -84,16 +84,11 @@ https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YX
 http://213.163.65.9:8081/live/combate/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg" group-title="ESPORTES",Ei+Maxx 720p
-http://ss.renata.eiplus.com.br/live/smil:Evento1_Desk.smil/chunklist_b1300000.m3u8
+http://abr.ei.upx.net.br/fd7c_3/smil:esporte-interativo-3.smil/playlist.m3u8  
 
-#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg" group-title="ESPORTES",E+Interativo 720p
-http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg" group-title="ESPORTES",Ei+Maxx 2 720p
+http://abr.ei.upx.net.br/fd7c_3/smil:esporte-interativo-2.smil/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",Ei+Max 720p
-http://edgecastcdn.eiplus.com.br/Evento3/EITV/eimaxx720.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",Ei+Max 360p
-http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8?
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/iee68237c0613ea3a/version/1465009849/image.jpg " group-title="ESPORTES",Fox Esportes
 http://213.163.65.9:8081/live/foxsport/chunks.m3u8? 
