@@ -75,13 +75,13 @@ rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
 
 
 #EXTINF:-1 tvg-logo="https://victormiranda7.files.wordpress.com/2012/04/bandsports.jpg" group-title="ESPORTES",Band Esportes
-http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8 
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8  
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/espn-brasil-500x500.jpg" group-title="ESPORTES",Espn Brasil
-https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=iaQpmBBqm65aYnW91_QdCQ  
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOWEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MQ/video.m3u8?oauth_token=X5uYHDfZ43UHLq3gdRD8ew   
 
 #EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate 
-http://213.163.65.9:8081/live/combate/chunks.m3u8 
+http://213.163.65.9:8081/live/combate/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg" group-title="ESPORTES",Ei+Maxx 720p
 http://ss.renata.eiplus.com.br/live/smil:Evento1_Desk.smil/chunklist_b1300000.m3u8
