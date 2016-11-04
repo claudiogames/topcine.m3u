@@ -83,10 +83,10 @@ https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YX
 #EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate 
 http://213.163.65.9:8081/live/combate/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",E+Interativo 720p
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg" group-title="ESPORTES",Ei+Maxx 720p
 http://ss.renata.eiplus.com.br/live/smil:Evento1_Desk.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",E+Interativo 720p
+#EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg" group-title="ESPORTES",E+Interativo 720p
 http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?
 
 #EXTINF:-1 tvg-logo="http://cdn.tedioso.com/images/upload/2015/06/cae8beb2116b41589d793470abf58cd8-500x500.jpg", group-title="ESPORTES",Ei+Max 720p
