@@ -70,7 +70,7 @@ http://200.189.113.201:80/hls/tve.m3u8 
 
 
 #EXTINF:-1 tvg-logo="http://www.seeddigital.com.br/wp-content/uploads/2015/07/logo14.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]GLOBO[/B][/I][/COLOR]
-http://tinyurl.com/listafreetvbr 
+http://213.163.65.9:8081/live/globo/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]RECORD[/B][/I][/COLOR]
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8 
