@@ -13,9 +13,7 @@ http://listaredenet.m3u
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dG7_hd5PBLU/V_-TxY0zaII/AAAAAAAAPqI/Gd1jPAzE45gm09htitUlP_hxdk6xtNg3wCLcB/s280/IMG_20161013_003333.jpg",[COLOR blue][I][B]BY:CLAUDIOSOUZA[/B][/I][/COLOR]
 https://
-#EXTINF:-1 tvg-logo="http://jornalesp.com/wp-content/uploads/2012/04/canais-de-tv.jpg"
-group-title="INFORMAÇÃO",[COLOR blue][I][B]NÃO ENCONTROU SEU CANAL?CLIQUE AQUI![/B][/I][/COLOR]
-https://www.youtube.com/embed/KXMDOEgNnJs
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][I][B]                                     >>VISITE NOSSO BLOG<<[/B][/I][/COLOR]
@@ -24,6 +22,16 @@ http://103.195.102.202:25461
 
 #EXTINF:-1 tvg-logo="http://www.conversadeempreendedor.com.br/wp-content/uploads/2014/10/Como-montar-um-Blog-no-Blogger.png",[COLOR blue][I][B]AreaKody.blogspot.com[/B][/I][/COLOR]
 https://AreaKody.blogspot com
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][I][B]                      >>EM ALTA<<[/B][/I][/COLOR]
+http://103.195.102.202:25461
+
+#EXTINF:-1 tvg-logo="http://jornalesp.com/wp-content/uploads/2012/04/canais-de-tv.jpg"
+group-title="INFORMAÇÃO",[COLOR blue][I][B]NÃO ACHOU SEU CANAL?CLIQUE AQUI[/B][/I][/COLOR]
+https://
+
+
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][I][B].                                 >>CANAIS ABERTOS<<[/B][/I][/COLOR]
 http://
