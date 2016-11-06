@@ -32,7 +32,7 @@ https://
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][I][B].                                 >>CANAIS ABERTOS<<[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg" group-title="CANAIS ABERTOS",[COLOR yellow][I][B].                                 >>CANAIS ABERTOS<<[/B][/I][/COLOR]
 http://
 
 
@@ -83,6 +83,19 @@ http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]BAND SP[/B][/I][/COLOR]
 rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565204197675507712/LX2kxB8D.jpeg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Rede Familia[/B][/I][/COLOR]
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rbtv.com.br/images/wwb_img5.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Rede Brasil[/B][/I][/COLOR]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1IqUfxr.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Livre Tv[/B][/I][/COLOR]
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="http://www.rbtv.com.br/images/wwb_img5.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Rede Brasil[/B][/I][/COLOR]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/479278823519703040/CfRkvHio_400x400.jpeg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Camera[/B][/I][/COLOR]
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/espn-brasil-500x500.jpg" group-title="ESPORTES",[COLOR blue][I][B]ESPN BR[/B][/I][/COLOR]
