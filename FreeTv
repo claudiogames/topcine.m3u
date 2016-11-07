@@ -232,7 +232,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8?top
 #EXTINF:-1 tvg-logo="http://www.faap.br/tvfaap/images/logo_tv.png" group-title="MUSICA",Tv Faap sp
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8  
 
-EXTINF:-1 tvg-logo="http://www.pointhits.com.br/wp-content/uploads/2015/03/Pointhits.png" group-title="MUSICA",Webtv clipes
+#EXTINF:-1 tvg-logo="http://www.pointhits.com.br/wp-content/uploads/2015/03/Pointhits.png" group-title="MUSICA",Webtv clipes
 http://stmv1.srvstm.com/stmdemo/stmdemo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51bE%2B1DF24L.png" group-title="MUSICA",Indimusic Tv 
@@ -253,26 +253,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://radiofullmusic.com/gallery/musica_mundo-ts1433652902.png" group-title="MUSICA",TicoMusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
  
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6aQHaq3UI64/WCCbdd_ro3I/AAAAAAAAPwE/czc2Ab7MoEQp5nk9OeUDOR3MOzYeopmxgCLcB/s280/IMG_20161107_121144.jpg" group-title="FILMES E SERIES",[COLOR blue][I][B]TNT BR[/B][/I][/COLOR]
-live://edge.mdcgate.com/live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=556432 & 20031116_belco_stream.4366/players.m3u8
-#EXTINF:-1 tvg-logo="http://assinandohdtv.com.br/sky/img/canais/space.jpg" group-title="FILMES E SERIES",[COLOR blue][I][B]SPACE BR[/B][/I][/COLOR]
-live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=557059 & 20041116_belco_stream_players!1932=m3u8
-
-#EXTINF:-1 tvg-logo="http://www.assinandosky.com/img/canais/maxprimehd.jpg" group-title="FILMES E SERIES",[COLOR blue][I][B]MAX PRIME BR[/B][/I][/COLOR]
-live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=555496 & 20041116_belco_stream_players!2376=m3u8
-
-#EXTINF:-1 tvg-logo="http://images.all-free-download.com/images/graphiclarge/telecine_142395.jpg" group-title="FILMES E SERIES",TeleCine
-http://tinyurl.com/h9es7pn 
-
-#EXTINF:-1 tvg-logo="http://tvaovivonopc.xpg.uol.com.br/filmes24horas.jpg" group-title="FILMES E SERIES",Filmes 24h 
-rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html1
-
-#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112153948-megapix-hd.png" group-title="FILMES E SERIES",MegaPix
-http://31.204.152.6:8081/live/megapix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="live://edge.mdcgate.com", group-title="FILMES E SERIES",Fox
- http://tinyurl.com/jz4bmb6  
-
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-E_12MHgulrg/WCCtT7o63DI/AAAAAAAAPwY/EDhQTTj0odIOqe9zWi0TKU9Z74bVQG4HwCLcB/s280/IMG_20161107_132407.jpg" group-title="INFANTIL",[COLOR blue][I][B]CARTOON NETWORK[/B][/I][/COLOR]
