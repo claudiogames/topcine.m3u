@@ -275,17 +275,25 @@ http://31.204.152.6:8081/live/megapix/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-E_12MHgulrg/WCCtT7o63DI/AAAAAAAAPwY/EDhQTTj0odIOqe9zWi0TKU9Z74bVQG4HwCLcB/s280/IMG_20161107_132407.jpg" group-title="INFANTIL",[COLOR blue][I][B]CARTOON NETWORK[/B][/I][/COLOR]
+http://tinyurl.com/cartoonnetworkbr
 
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png" group-title="INFANTIL",Cartoon Network
-http://31.204.152.6:8081/live/cartoonk/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/498780211182186496/G7UbOY1W_400x400.jpeg" group-title="INFANTIL",Disney Channel Hd
-http://ptvirtual.dnsfor.me:8000/live/Manoel_Junior2/GrmcsSxHbA/23.m3u8 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715893884132462594/z1I0m6El.jpg" group-title="INFANTIL",Discovery Kids
-http://31.204.152.6:8081/live/discoverykids/playlist.m3u8   
-
-
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",[COLOR blue][I][B]GLOOB[/B][/I][/COLOR]
+http://tinyurl.com/gloobbr
+#EXTINF:-1 tvg-logo="https://www.neefusa.org/sites/default/files/styles/article_hero/public/LOGO15-Nickelodeon-500x500_0.png?itok=kQYjKOMt" group-title="INFANTIL",[COLOR blue][I][B]NICK[/B][/I][/COLOR]
+ http://tinyurl.com/j78orx6
+#EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/commom/nickjr-logo-200x200.png?quality=0.75" group-title="INFANTIL",[COLOR blue][I][B]NICK JR[/B][/I][/COLOR]
+http://tinyurl.com/nickjrbr
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-EvYwU1wrtW8/WCCtO-EmXBI/AAAAAAAAPwU/I_8t6rOFpUY7tnmaMJOWhP4kmjev5ym6ACLcB/s280/IMG_20161107_133445.jpg" group-title="INFANTIL",[COLOR blue][I][B]DISNEY CHANNEL[/B][/I][/COLOR]
+ http://tinyurl.com/disneychannelbr
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/Vip/image/disneyjr.jpg" group-title="INFANTIL",[COLOR blue][I][B]DISNEY JR[/B][/I][/COLOR]
+ http://tinyurl.com/disneyjrbrchannel
+#EXTINF:-1 tvg-logo="https://cunninghamtelephoneandcable.com/wp-content/uploads/2016/08/Disney-XD.jpg" group-title="INFANTIL",[COLOR blue][I][B]DISNEY XD[/B][/I][/COLOR]
+ http://tinyurl.com/disneyxdbr
+#EXTINF:-1 tvg-logo="https://www.turner.com/sites/all/themes/turner_themes/turner_broadcasting/prototype/img/TurnerLogos_LATAM_TOONCAST-01.png" group-title="TOONCAST",[COLOR blue][I][B]TOONCAST[/B][/I][/COLOR]
+ http://tinyurl.com/tooncastbr
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-oPhXL5SG4B4/WCC1kr2fmoI/AAAAAAAAPwo/XOpMMDv6rCsV5jkmdP6zJfeE_2DxMCHjgCLcB/s280/IMG_20161107_141020.jpg" group-title="INFANTIL",[COLOR blue][I][B]BOOMERANG[/B][/I][/COLOR]
+http://tinyurl.com/boomerangbr
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MN8WSlpUnGQ/VYVMwHCf3CI/AAAAAAAAKbo/CW3Df_E4jWk/s1600/unnamed.png" group-title="DESENHOS 24H",USE O XMTV 
 Htttp://lista.m3u8
 
