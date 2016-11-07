@@ -5,7 +5,8 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg",[COLOR yellow][I][B]                      >>INFORMACOES<<[/B][/I][/COLOR]
 http://103.195.102.202:25461
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-P5RexBRJ4Cw/V_-T2DVDIsI/AAAAAAAAPqM/PFEsMixYS1UgklTO7jTyR0TTj_taFg-4wCLcB/s280/IMG_20160928_233426.jpg" group-title="INFORMAÇÃO",[COLOR blue][I][B]LISTA FREETVBR[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-P5RexBRJ4Cw/V_-T2DVDIsI/AAAAAAAAPqM/PFEsMixYS1UgklTO7jTyR0TTj_taFg-4wCLcB/s280/IMG_20160928_233426.jpg" group-title="INFORMAÇÃO",[COLOR blue][I][B]LISTA FREETVBR[/B][/I][/COLOR]u
+
 http://btjdjdk.m3u
 
 #EXTINF:-1 tvg-logo="http://lh4.googleusercontent.com/--888YMQhpzE/VQNbmI3ITKI/AAAAAAAAitk/pdjYLPMUIug/s320/LL.png" group-title="INFORMAÇÃO",[COLOR blue][I][B]ASSISTA TBM NO KODI[/B][/I][/COLOR]
@@ -29,9 +30,8 @@ http://103.195.102.202:25461
 #EXTINF:-1 tvg-logo="http://jornalesp.com/wp-content/uploads/2012/04/canais-de-tv.jpg" group-title="EM ALTA",[COLOR blue][I][B]NÃO ACHOU SEU CANAL?CLIQUE AQUI[/B][/I][/COLOR]
 https://
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rWypywXhm3w/WB6Ok9XShZI/AAAAAAAAPvo/JTxrjcTVIQIzC-2tCYXhVvie96U9FqpkgCLcB/s280/PicsArt_11-05-10.53.39.jpg"
-group-title="EM ALTA",[COLOR blue][I][B]Panico Na Band Ao Vivo[/B][/I][/COLOR]
- rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rWypywXhm3w/WB6Ok9XShZI/AAAAAAAAPvo/JTxrjcTVIQIzC-2tCYXhVvie96U9FqpkgCLcB/s280/PicsArt_11-05-10.53.39.jpg" group-title="EM ALTA",[COLOR blue][I][B]Panico Na Band Ao Vivo[/B][/I][/COLOR]
+rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f_5wIifQVo8/WBf1RSDdpsI/AAAAAAAAPvE/Ig2kBMCHn5M3wLM7LjxlXwcrgKtp-AhuwCLcB/s1600/IMG_20161031_223259.jpg" group-title="CANAIS ABERTOS",[COLOR yellow][I][B].                                 >>CANAIS ABERTOS<<[/B][/I][/COLOR]
