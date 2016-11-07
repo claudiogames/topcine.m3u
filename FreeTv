@@ -30,7 +30,7 @@ http://103.195.102.202:25461
 #EXTINF:-1 tvg-logo="http://jornalesp.com/wp-content/uploads/2012/04/canais-de-tv.jpg" group-title="EM ALTA",[COLOR blue][I][B]NÃO ACHOU SEU CANAL?CLIQUE AQUI[/B][/I][/COLOR]
 https://
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rWypywXhm3w/WB6Ok9XShZI/AAAAAAAAPvo/JTxrjcTVIQIzC-2tCYXhVvie96U9FqpkgCLcB/s280/PicsArt_11-05-10.53.39.jpg" group-title="EM ALTA",[COLOR blue][I][B]Panico Na Band Ao Vivo[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rWypywXhm3w/WB6Ok9XShZI/AAAAAAAAPvo/JTxrjcTVIQIzC-2tCYXhVvie96U9FqpkgCLcB/s280/PicsArt_11-05-10.53.39.jpg" group-title="EM ALTA",[COLOR blue][I][B]Panico Na Band Ao Vivo[/B][/I][COLOR]
 rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
 
 
