@@ -253,6 +253,15 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://radiofullmusic.com/gallery/musica_mundo-ts1433652902.png" group-title="MUSICA",TicoMusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
  
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6aQHaq3UI64/WCCbdd_ro3I/AAAAAAAAPwE/czc2Ab7MoEQp5nk9OeUDOR3MOzYeopmxgCLcB/s280/IMG_20161107_121144.jpg" group-title="FILMES E SERIES",[COLOR blue][I][B]TNT BR[/B][/I][/COLOR]
+live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=556432 & 20031116_belco_stream.4366/players.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://assinandohdtv.com.br/sky/img/canais/space.jpg" group-title="FILMES E SERIES",[COLOR blue][I][B]SPACE BR[/B][/I][/COLOR]
+live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=557059 & 20041116_belco_stream_players!1932=m3u8
+
+#EXTINF:-1 tvg-logo="http://www.assinandosky.com/img/canais/maxprimehd.jpg" group-title="FILMES E SERIES",[COLOR blue][I][B]MAX PRIME BR[/B][/I][/COLOR]
+live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=555496 & 20041116_belco_stream_players!2376=m3u8
+
 #EXTINF:-1 tvg-logo="http://images.all-free-download.com/images/graphiclarge/telecine_142395.jpg" group-title="FILMES E SERIES",TeleCine
 http://tinyurl.com/h9es7pn 
 
