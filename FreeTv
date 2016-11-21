@@ -320,7 +320,7 @@ http://163.172.24.207/loadbalance/canal-nickelodeon/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/commom/nickjr-logo-200x200.png?quality=0.75" group-title="INFANTIL",[COLOR blue][I][B]NICK JR[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-disney-junior/playlist.m3u8 
+http://163.172.24.207/loadbalance/canal-nick-jr/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/commom/nickjr-logo-200x200.png?quality=0.75" group-title="INFANTIL",[COLOR blue][I][B]NICK JR[/B][/I][/COLOR]
 http://tinyurl.com/nickjrbr
