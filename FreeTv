@@ -47,10 +47,10 @@ http://
 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT HD[/B][/I][/COLOR]
- http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+ http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT[/B][/I][/COLOR]
-http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8 
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8  
 
  
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT CARUARU[/B][/I][/COLOR]
