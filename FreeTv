@@ -302,41 +302,33 @@ http://163.172.24.207/loadbalance/canal-natgeo-wild-hd/playlist.m3u8
 http://109.236.83.148:8081/live/fox/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2Vk0nVoc868/WDMovyCv3xI/AAAAAAAAPyk/nCVbJ9elspgGsQ6GdzX83MDoTlZH9fE_gCLcB/s280/IMG_20161121_140004.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]TELE-CINE PREMIUM[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-telecine-premium-hd/playlist.m3u8
+http://78.129.184.15:4722/streaming/stream/playlist.m3u8?IPTV-SAT
  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Hm06v56jaDk/WDMo109Pg4I/AAAAAAAAPys/CBBFMX3xPkcd5byw26eRTgGFl3yAziULACLcB/s280/IMG_20161121_135848.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]TELE-CINE FUN[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-telecine-fun-hd/playlist.m3u8
-
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/10.m3u8?IPTV-SAT
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_n1Mz7TVPFA/WDMpNef_iRI/AAAAAAAAPzE/7zARAdmRdgUKGK7s3ii8-LaXjvU1ralXwCLcB/s280/IMG_20161121_135612.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]TELE-CINE ACTION[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-telecine-action-hd/playlist.m3u8
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/9.m3u8?IPTV-SAT
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S_kQqVCbtHg/WDMpvVLfNoI/AAAAAAAAPzY/qpKDSmmtZ8A3yIJl38Mc84tHCp0NPDAvACLcB/s280/IMG_20161121_135137.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]HBO[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-hbo-hd/playlist.m3u8
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/14.m3u8?IPTV-SAT
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gL7ms_aGifo/WDMp2Wqr_KI/AAAAAAAAPzc/XXE5eT9t_Bc-PzRSiUgOdzav58jiuIsPQCLcB/s280/IMG_20161121_135112.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]HBO 2[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-hbo-2-hd/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NiJieBkq-P0/WDMpRZPB3II/AAAAAAAAPzI/3gAL1KxAl3IsQEfNVzkjTlRr-jifpSR6gCLcB/s280/IMG_20161121_135534.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]HBO PLUS[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-hbo-plus-hd/playlist.m3u8
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/15.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-J8wDoRB0zT4/WDMpY9S6zDI/AAAAAAAAPzM/Cupu-q_G_wQXcLjVQnt9-Ez0d_I0ftC5ACLcB/s280/IMG_20161121_135457.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]HBO SIGNATURE[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-hbo-signature-hd/playlist.m3u8
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/16.m3u8?IPTV-SAT
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-MryuUnkW7dY/WDMog8UH1wI/AAAAAAAAPyc/KSN84tWXPc4EXRBOlV9r-pU7IxZLsq2tACLcB/s280/IMG_20161121_140040.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]HBO FAMILY[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-hbo-family-hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-0SjUatPZuTE/WDMplp0HmSI/AAAAAAAAPzQ/EjDpvO_xZC0RozhlQdUjoBdwiEbXz7T7ACLcB/s280/IMG_20161121_135303.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]TNT[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-tnt-hd/playlist.m3u8
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/17.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-0SjUatPZuTE/WDMplp0HmSI/AAAAAAAAPzQ/EjDpvO_xZC0RozhlQdUjoBdwiEbXz7T7ACLcB/s280/IMG_20161121_135303.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]TNT SERIES[/B][/I][/COLOR]
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/101.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/Fox.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]FOX[/B][/I][/COLOR]
 http://192.99.148.73:8080/live/Gean/223344/20.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-12WphM4TN5U/WDMoynBG-tI/AAAAAAAAPyo/SuoU6fwfLR0UU3lNWpuneqgwJ9kBqGISgCLcB/s280/IMG_20161121_135907.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]CINEMAX[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-cinemax-hd/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7Mx1JCwiMJc/WDMpJt0Q6SI/AAAAAAAAPzA/2C2xzGh408AvCW3cCTOk05f2bv6e1OLdgCLcB/s280/IMG_20161121_135639.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]TCM[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-tcm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6EmNNzJLVGM/WDMpqKTFZ3I/AAAAAAAAPzU/JjnaJB2aCpsoDEXF0TVel305BYKxOuOmwCLcB/s280/IMG_20161121_135220.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]MAX HD[/B][/I][/COLOR]
-http://163.172.24.207/loadbalance/canal-max-hd/playlist
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_5K_7SE7hb4/WDMo-dXLMQI/AAAAAAAAPy0/3Ya353aocO4UVChg3aJXiVOfDGcjE1gmQCLcB/s280/IMG_20161121_135757.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]WANNER CHANNEL[/B][/I][/COLOR]
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/26.m3u8?IPTV-SAT
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-E_12MHgulrg/WCCtT7o63DI/AAAAAAAAPwY/EDhQTTj0odIOqe9zWi0TKU9Z74bVQG4HwCLcB/s280/IMG_20161107_132407.jpg" group-title="INFANTIL",[COLOR blue][I][B]CARTOON NETWORK[/B][/I][/COLOR]
 http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/82.ts
 
