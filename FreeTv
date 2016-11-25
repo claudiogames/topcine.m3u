@@ -278,26 +278,20 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://radiofullmusic.com/gallery/musica_mundo-ts1433652902.png" group-title="MUSICA",TicoMusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTARIOS", INVESTIGAÇÃO DISCOVERY (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-investigation-discovery-hd/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTARIOS", INVESTIGAÇÃO DISCOVERY 
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/47.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png" group-title="DOCUMENTARIOS", DISCOVERY H&H (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-discovery-home-and-health-hd/playlist.m3u8?
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/48.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wsJKrcJ.jpg" group-title="DOCUMENTARIOS", ANIMAL PLANET (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-animal-planet-hd/playlist.m3u8?
+http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/253.ts?%fix%100%m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vE3NV44.png" group-title="DOCUMENTARIOS", HISTORY CHANNEL (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-the-history-channel-hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IJWs4Nk.png" group-title="DOCUMENTARIOS", H2 (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-h2-hd/playlist.m3u8
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/52.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS", NAT GEO (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-nat-geo-hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6VIT2TJ.jpg" group-title="DOCUMENTARIOS", NAT GEO WILD (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-natgeo-wild-hd/playlist.m3u8
+http://live.softiptv.com:9900/live/Julian/Julian/16726.ts
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-njqnIs1TB3w/WDMo6bq2nuI/AAAAAAAAPyw/aW7GtuXPAMA7Re0GHHs34JtWY2liCG8NwCLcB/s280/IMG_20161121_135831.jpg" group-title="FILMES E SERIES",[COLOR coral][I][B]TELE-CINE PIPOCA[/B][/I][/COLOR]
 http://109.236.83.148:8081/live/fox/playlist.m3u8
 
@@ -628,4 +622,4 @@ http://media-br-am.crackle.com/1/m/p6/nlwlf_480p.mp4
 http://media-br-am.crackle.com/1/l/p6/klwlf_480p.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i698deef5a7d242d6/version/1463430166/image.jpg" group-title="HOMEN ARANHA A SERIE",H-A ep13
-http://www.assistirtvbr.tv/assistir-the-walking-dead.html
+http://www.assistirtvbr.tv/assistir-the-walking-dead.htm
