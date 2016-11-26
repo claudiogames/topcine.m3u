@@ -124,6 +124,9 @@ http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/244.m3u8?run℅fix
 #EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate Hd
 http://109.236.83.148:8081/live/combate/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154848-canal-sport-tv.png" group-title="SporTv Hd
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES",Fox Sports Hd
 http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/227.ts?Iptvvictor 
 
