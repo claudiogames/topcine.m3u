@@ -99,56 +99,48 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/479278823519703040/CfRkvHio_400x400.jpeg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Camera[/B][/I][/COLOR]
 http://stream2.camara.leg.br:80/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://lut.im/8Aoagfwlah/a2DNCPKWxkqWSJ1O.png" group-title="ESPORTES", SPORTV
+#2:-1 tvg-logo="https://lut.im/
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/esporte-interativo/images/logo-ei-square.png" group-title="ESPORTES",Esporte Interativo Hd
+http://lbsp01.ddns.me:25461/live/WXP6nuuKRF/vhlzUHfvi4/48.m3u8?PEDROJUNIORTUTORIAIS 
+
+#EXTINF:-1 tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2016/09/max.png" group-title="ESPORTES",EiMaxx Hd
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8?PEDROJUNIORTUTORIAIS 
+
+#EXTINF:-1 tvg-logo="http://www.clarotvofertas.com.br/imagens/825854738.jpg" group-title="ESPORTES",EiMaxx 2 Hd
+http://lbsp01.ddns.me:25461/live/GLs7i8MdVl/Kg7UrJgcuL/25.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/7677/brand.gif?itok=lcrTs6kH" group-title="ESPORTES",SporTv Sd
 http://109.236.83.148:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lut.im/K4XhvXahS4/HLuwR8iQTxanYrVO.png" group-title="ESPORTES", SPORTV 2
-http://109.236.83.148:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154848-canal-sport-tv.png" group-title="SporTv Hd
+http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/185.m3u8?run℅fix% 
 
-#EXTINF:-1 tvg-logo="https://lut.im/sLwFJ0klH2/x3ZBStc0J3Dtx5ZR.png" group-title="ESPORTES", ESPN BRASIL
-http://109.236.83.148:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s13.postimg.org/cj3f31t2r/Spor_TV2.png" group-title="ESPORTES",SporTv 2 Hd
+http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/184.m3u8?run℅fix%
 
-#EXTINF:-1 tvg-logo="https://lut.im/UXIL5Hxc3K/jjL5zKG1ZgKU7ivp.png" group-title="ESPORTES", FOX SPORTS
-http://109.236.83.148:8081/live/foxsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate Hd
+http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/244.m3u8?run℅fix
 
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE
-http://109.236.83.148:8081/live/pfc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate Hd
+http://109.236.83.148:8081/live/combate/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://lut.im/TQufxlVSfk/7X9qWbQoBFYsIQ3y.png" group-title="ESPORTES", COMBATE
-http://109.236.83.148:8081/live/combate/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES",Fox Sports Hd
+http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/227.ts?Iptvvictor 
 
-#EXTINF:-1 tvg-logo="https://lut.im/TQufxlVSfk/7X9qWbQoBFYsIQ3y.png" group-title="ESPORTES", COMBATE (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/slv1/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="ESPORTES",Fox Sports2 Hd
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/64.m3u8?PEDROJUNIORTUTORIAIS 
 
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE CLUBES (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/bfr1/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://shortyawards.com.s3.amazonaws.com/entries/espn_logo.jpeg" group-title="ESPORTES",Espn Sd
+http://109.236.83.148:8081/live/espnbr/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE 2 (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/bfr2/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112154656-espn-hd.png" group-title="ESPORTES",Espn Hd 
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/59.m3u8?PEDROJUNIORTUTORIAIS 
 
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE 3 (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/bfr3/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154610-canal-espn-mais-hd.png" group-title="ESPORTES",Espn+ Hd
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/60.m3u8?PEDROJUNIORTUTORIAIS 
 
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE 4 (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/bfr4/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE 5 (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/bfr5/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE 6 (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/bfr6/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://lut.im/Dgq6tZccD8/ipQK4vW623FDUwgF.png" group-title="ESPORTES", PREMIERE 7 (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/bfr7/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9F9uSOxl.jpg" group-title="ESPORTES", Off (TEMPORÁRIO)
-http://163.172.24.207/loadbalance/canal-off-hd/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://lut.im/sQatkv4K24/QgdTCYPgaqe7XVwn.jpg" group-title="ESPORTES", REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Za13gb3.png" group-title="ESPORTES", SPORTV1
-http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts
+#EXTINF:-1 tvg-logo="http://www.tvbaj.com/wp-content/uploads/2015/02/realmadridtv-logo.jpg" group-title="ESPORTES",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF:-1 tvg-id="CANAIS RELIGIOSOS"tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/id39e5ac91132132d/version/1465014791/image.jpg" group-title="CANAIS RELIGIOSOS",CANÇÃO NOVA SP [OPÇÃO 1]
@@ -326,7 +318,7 @@ http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/26.m3
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-E_12MHgulrg/WCCtT7o63DI/AAAAAAAAPwY/EDhQTTj0odIOqe9zWi0TKU9Z74bVQG4HwCLcB/s280/IMG_20161107_132407.jpg" group-title="INFANTIL",[COLOR blue][I][B]CARTOON NETWORK[/B][/I][/COLOR]
 http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/82.ts
 
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",[ [COLOR coral][I][B]GLOOB[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",[COLOR coral][I][B]GLOOB[/B][/I][/COLOR]
 http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/81.ts
 
 #EXTINF:-1 tvg-logo="http://fontmeme.com/images/Nickelodeon-Logo.jpg" group-title="INFANTIL",[COLOR blue][I][B]NICK[/B][/I][/COLOR]
