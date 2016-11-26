@@ -134,10 +134,21 @@ http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/64.m3
 http://109.236.83.148:8081/live/espnbr/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112154656-espn-hd.png" group-title="ESPORTES",Espn Hd 
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOWEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MQ/video.m3u8?oauth_token=wgLTnaiClANa0C3g4_6dpA 
+
+
+
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112154656-espn-hd.png" group-title="ESPORTES",Espn Hd 
 http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/59.m3u8?PEDROJUNIORTUTORIAIS 
 
 #EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154610-canal-espn-mais-hd.png" group-title="ESPORTES",Espn+ Hd
 http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/60.m3u8?PEDROJUNIORTUTORIAIS 
+
+
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154610-canal-espn-mais-hd.png" group-title="ESPORTES",Espn+ Sd
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOTlhJmNoYW5uZWw9ZXNwbjMmcGxheWJhY2tTY2VuYXJpbz1IVFRQX0NMT1VEX01PQklMRSZwbGF5ZXJJZD1pb3MmcGthbj1TRVRfTUUmaWRlbnRpdHlQb2ludElkPVNFVF9NRSZwYXJ0bmVyQ29udGVudElkPTI2NjM3NjI/video.m3u8?oauth_token=wgLTnaiClANa0C3g4_6dpA 
+
+
 
 #EXTINF:-1 tvg-logo="http://www.tvbaj.com/wp-content/uploads/2015/02/realmadridtv-logo.jpg" group-title="ESPORTES",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?PEDROJUNIORTUTORIAIS
