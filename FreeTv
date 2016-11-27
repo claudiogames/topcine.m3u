@@ -99,58 +99,45 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/479278823519703040/CfRkvHio_400x400.jpeg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Camera[/B][/I][/COLOR]
 http://stream2.camara.leg.br:80/tv1/manifest.m3u8
 
-#2:-1 tvg-logo="https://lut.im/
-#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/esporte-interativo/images/logo-ei-square.png" group-title="ESPORTES",Esporte Interativo Hd
-http://lbsp01.ddns.me:25461/live/WXP6nuuKRF/vhlzUHfvi4/48.m3u8?PEDROJUNIORTUTORIAIS 
 
-#EXTINF:-1 tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2016/09/max.png" group-title="ESPORTES",EiMaxx Hd
-http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8?PEDROJUNIORTUTORIAIS 
-
-#EXTINF:-1 tvg-logo="http://www.clarotvofertas.com.br/imagens/825854738.jpg" group-title="ESPORTES",EiMaxx 2 Hd
-http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8 
-
-#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/7677/brand.gif?itok=lcrTs6kH" group-title="ESPORTES",SporTv Sd
+#EXTINF:-1 tvg-logo="http://goo.gl/B5d4fq" group-title="Esportes",[COLOR coral][I][B]SporTv[/B][/I][/COLOR]
 http://109.236.83.148:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154848-canal-sport-tv.png" group-title="SporTv Hd
-http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/185.m3u8?run℅fix% 
+#EXTINF:-1 tvg-logo="http://goo.gl/vtGyTX" group-title="Esportes",[COLOR coral][I][B]SporTv 2[/B][/I][/COLOR]
+http://109.236.83.148:8081/live/sportv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s13.postimg.org/cj3f31t2r/Spor_TV2.png" group-title="ESPORTES",SporTv 2 Hd
-http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/184.m3u8?run℅fix%
+#EXTINF:-1 tvg-logo="http://goo.gl/2GxOT7" group-title="Esportes",[COLOR coral][I][B]Fox Sports[/B][/I][/COLOR]
+http://109.236.83.148:8081/live/foxsport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate Hd
-http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/244.m3u8?run℅fix
+#EXTINF:-1 tvg-logo="http://goo.gl/GwBMAl" group-title="Esportes",[COLOR coral][I][B]Espn Brasil[/B][/I][/COLOR]
+http://109.236.83.148:8081/live/espnbr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://lojammacombate.com/Eshop.Admin/imagens/mundodosesportes/Thumbs/TN500_combate-logo.jpg" group-title="ESPORTES",Combate Hd
-http://109.236.83.148:8081/live/combate/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://goo.gl/GwBMAl" group-title="Esportes",[COLOR coral][I][B]Espn Brasil Hd[/B][/I][/COLOR]
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=H6aPl8kYVgmcq6LJOGHI_w
 
-#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154848-canal-sport-tv.png" group-title="SporTv Hd
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+#EXTINF:-1 tvg-logo="http://shortyawards.com.s3.amazonaws.com/entries/espn_logo.jpeg" group-title="Esportes",[COLOR coral][I][B]Espn Hd[/B][/I][/COLOR]
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOWEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MQ/video.m3u8?oauth_token=H6aPl8kYVgmcq6LJOGHI_w
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES",Fox Sports Hd
-http://103.195.102.202:25461/live/FelipeMinksVIP/99461043/227.ts?Iptvvictor 
+#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154610-canal-espn-mais-hd.png" group-title="Esportes",[COLOR coral][I][B]Espn+ Hd[/B][/I][/COLOR]
+https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOTlhJmNoYW5uZWw9ZXNwbjMmcGxheWJhY2tTY2VuYXJpbz1IVFRQX0NMT1VEX01PQklMRSZwbGF5ZXJJZD1pb3MmcGthbj1TRVRfTUUmaWRlbnRpdHlQb2ludElkPVNFVF9NRSZwYXJ0bmVyQ29udGVudElkPTI2NjM3NjI/video.m3u8?oauth_token=H6aPl8kYVgmcq6LJOGHI_w
 
-#EXTINF:-1 tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="ESPORTES",Fox Sports2 Hd
-http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/64.m3u8?PEDROJUNIORTUTORIAIS 
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/esporte-interativo/images/logo-ei-square.png" group-title="Esportes",[COLOR coral][I][B]Esporte Interativo Hd[/B][/I][/COLOR]
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
 
-#EXTINF:-1 tvg-logo="http://shortyawards.com.s3.amazonaws.com/entries/espn_logo.jpeg" group-title="ESPORTES",Espn Sd
-http://109.236.83.148:8081/live/espnbr/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2016/09/max.png" group-title="Esportes",[COLOR coral][I][B]Ei+Maxx Hd[/B][/I][/COLOR]
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
 
-#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112154656-espn-hd.png" group-title="ESPORTES",Espn Hd 
-https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOWEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MQ/video.m3u8?oauth_token=wgLTnaiClANa0C3g4_6dpA 
+#EXTINF:-1 tvg-logo="http://www.clarotvofertas.com.br/imagens/825854738.jpg" group-title="Esportes",[COLOR coral][I][B]Ei+Maxx 2 Hd[/B][/I][/COLOR]
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
 
+#EXTINF:-1 tvg-logo="http://goo.gl/291Lwj" group-title="Esportes",[COLOR coral][I][B]Band Sports Hd[/B][/I][/COLOR]
+http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/Anderson_Elias.m3u8
 
+#EXTINF:-1 tvg-logo="http://goo.gl/YpLC7E" group-title="Esportes",[COLOR coral][I][B]Premiere[/B][/I][/COLOR]
+http://109.236.83.148:8081/live/pfc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112154656-espn-hd.png" group-title="ESPORTES",Espn Hd 
-http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/59.m3u8?PEDROJUNIORTUTORIAIS 
-
-#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154610-canal-espn-mais-hd.png" group-title="ESPORTES",Espn+ Hd
-http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/60.m3u8?PEDROJUNIORTUTORIAIS 
-
-
-#EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154610-canal-espn-mais-hd.png" group-title="ESPORTES",Espn+ Sd
-https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4xOTlhJmNoYW5uZWw9ZXNwbjMmcGxheWJhY2tTY2VuYXJpbz1IVFRQX0NMT1VEX01PQklMRSZwbGF5ZXJJZD1pb3MmcGthbj1TRVRfTUUmaWRlbnRpdHlQb2ludElkPVNFVF9NRSZwYXJ0bmVyQ29udGVudElkPTI2NjM3NjI/video.m3u8?oauth_token=wgLTnaiClANa0C3g4_6dpA 
-
+#EXTINF:-1 tvg-logo="http://goo.gl/q2H05k" group-title="Esportes",[COLOR coral][I][B]Combate[/B][/I][/COLOR]
+http://109.236.83.148:8081/live/combate/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tvbaj.com/wp-content/uploads/2015/02/realmadridtv-logo.jpg" group-title="ESPORTES",Real Madrid Tv
