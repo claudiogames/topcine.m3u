@@ -72,10 +72,10 @@ http://200.189.113.201:80/hls/tve.m3u8 
 
 
 #EXTINF:-1 tvg-logo="http://www.seeddigital.com.br/wp-content/uploads/2015/07/logo14.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]GLOBO[/B][/I][/COLOR]
-http://109.236.83.148:8081/live/globo/playlist.m3u8    
+http://109.236.83.148:8081/live/sptv/playlist.m3u8    
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]RECORD[/B][/I][/COLOR]
-http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8 
+http://109.236.83.148:8081/live/record/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4--HbdSkrUg/VOfDU36_1XI/AAAAAAAAxrk/DU0yZQPWTB8/s1600/tv%2Bdi%C3%A1rio%2Blogo%2B2015.jpg"group-title="CANAIS ABERTOS",[COLOR blue][I][B]TV DIARIO[/B][/I][/COLOR]
  http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8 
@@ -83,7 +83,7 @@ http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_a
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ie7b656af8defbf74/version/1465008226/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]TV ESCOLA[/B][/I][/COLOR]
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]BAND SP[/B][/I][/COLOR]
-rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
+http://109.236.83.148:8081/live/band/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565204197675507712/LX2kxB8D.jpeg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Rede Familia[/B][/I][/COLOR]
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
