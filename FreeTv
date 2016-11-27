@@ -457,8 +457,7 @@ rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com
  rtmp://208.53.164.194/live/ playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chuck.html
 
 #EXTINF:-1 tvg-id="" tvg-logo="Eu-a-Patroa-e-as-Criancas.png" tvg-logo="http://goo.gl/kuekyx" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS HD 
- rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
-
+rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fqugJ3R4LNA/T2a5IyRt0EI/AAAAAAAABf0/Y7wFIfaAujA/s1600/chaves-seriado.jpg" group-title="SERIES 24HRS",CHAVES 
 rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTVGLOBAL pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
 
@@ -628,4 +627,4 @@ http://media-br-am.crackle.com/1/m/p6/nlwlf_480p.mp4
 http://media-br-am.crackle.com/1/l/p6/klwlf_480p.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s5cdcf9b63a9d326a/image/i698deef5a7d242d6/version/1463430166/image.jpg" group-title="HOMEN ARANHA A SERIE",H-A ep13
-http://www.assistirtvbr.tv/assistir-the-walking-dead.htm
+http://www.assistirtvbr.tv/assistir-the-walking-dead.htmeTv
