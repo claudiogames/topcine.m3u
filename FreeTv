@@ -46,7 +46,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT HD[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https:/image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT HD[/B][/I][/COLOR]
  http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT[/B][/I][/COLOR]
@@ -107,7 +107,7 @@ http://lbsp01.ddns.me:25461/live/WXP6nuuKRF/vhlzUHfvi4/48.m3u8?PEDROJUNIORTUTORI
 http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8?PEDROJUNIORTUTORIAIS 
 
 #EXTINF:-1 tvg-logo="http://www.clarotvofertas.com.br/imagens/825854738.jpg" group-title="ESPORTES",EiMaxx 2 Hd
-http://lbsp01.ddns.me:25461/live/GLs7i8MdVl/Kg7UrJgcuL/25.m3u8 
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8 
 
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/7677/brand.gif?itok=lcrTs6kH" group-title="ESPORTES",SporTv Sd
 http://109.236.83.148:8081/live/sportv/playlist.m3u8
